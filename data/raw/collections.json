@@ -1,0 +1,942 @@
+[
+ {
+  "coll": "http://www.wikidata.org/entity/2fe5682ccb55fd6a42a5c8b0f795c58f",
+  "collLabel": "2fe5682ccb55fd6a42a5c8b0f795c58f"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/0a2330500176415932689991034663d6",
+  "collLabel": "0a2330500176415932689991034663d6"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/2178be7afb5090749152425bbc42f3c7",
+  "collLabel": "2178be7afb5090749152425bbc42f3c7"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/3482c689e4e1acff43f36e492af5844e",
+  "collLabel": "3482c689e4e1acff43f36e492af5844e"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/61d6642e3de4cf0ca1e28b9ad8982004",
+  "collLabel": "61d6642e3de4cf0ca1e28b9ad8982004"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/8a524cab677c23139022155b6fce562a",
+  "collLabel": "8a524cab677c23139022155b6fce562a"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/885de3f3525982407b49dd583f05bf5e",
+  "collLabel": "885de3f3525982407b49dd583f05bf5e"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/39db4e14704541c807f574224f3de8bd",
+  "collLabel": "39db4e14704541c807f574224f3de8bd"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/3dd080bef4d0b0b54e040678e6003015",
+  "collLabel": "3dd080bef4d0b0b54e040678e6003015"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/533ea555c91b0ddb79b92ebb549c94ac",
+  "collLabel": "533ea555c91b0ddb79b92ebb549c94ac"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/5cb94a9cbe24b9b1ddcd5d5b81fe206a",
+  "collLabel": "5cb94a9cbe24b9b1ddcd5d5b81fe206a"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q125634",
+  "collLabel": "Museum Folkwang",
+  "place": "http://www.wikidata.org/entity/Q54803598"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q127064",
+  "collLabel": "Bilbao Fine Arts Museum",
+  "place": "http://www.wikidata.org/entity/Q1749657"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q132783",
+  "collLabel": "Hermitage Museum",
+  "place": "http://www.wikidata.org/entity/Q656"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q153306",
+  "collLabel": "National Museum in Warsaw",
+  "place": "http://www.wikidata.org/entity/Q2118294"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q160112",
+  "collLabel": "Museo del Prado",
+  "place": "http://www.wikidata.org/entity/Q5818335"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q160236",
+  "collLabel": "Metropolitan Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q11299"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q162111",
+  "collLabel": "Alte Nationalgalerie",
+  "place": "http://www.wikidata.org/entity/Q2013767"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q169542",
+  "collLabel": "Hamburger Kunsthalle",
+  "place": "http://www.wikidata.org/entity/Q1551"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q176251",
+  "collLabel": "Thyssen-Bornemisza Museum",
+  "place": "http://www.wikidata.org/entity/Q5358601"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1011471",
+  "collLabel": "Museum of Dieppe",
+  "place": "http://www.wikidata.org/entity/Q183557"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1051928",
+  "collLabel": "Kröller-Müller Museum",
+  "place": "http://www.wikidata.org/entity/Q1507955"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1061094",
+  "collLabel": "Kelvingrove Art Gallery and Museum",
+  "place": "http://www.wikidata.org/entity/Q4093"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1068063",
+  "collLabel": "National Gallery of Canada",
+  "place": "http://www.wikidata.org/entity/Q7332561"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1075126",
+  "collLabel": "Freer Gallery of Art",
+  "place": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1117704",
+  "collLabel": "Indianapolis Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q6346"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1132918",
+  "collLabel": "National Museum of Art, Architecture and Design",
+  "place": "http://www.wikidata.org/entity/Q585"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1140507",
+  "collLabel": "Ny Carlsberg Glyptotek",
+  "place": "http://www.wikidata.org/entity/Q504125"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1189960",
+  "collLabel": "Denver Art Museum",
+  "place": "http://www.wikidata.org/entity/Q1261"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1192305",
+  "collLabel": "Smithsonian American Art Museum",
+  "place": "http://www.wikidata.org/entity/Q2018451"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1201549",
+  "collLabel": "Detroit Institute of Arts",
+  "place": "http://www.wikidata.org/entity/Q6843078"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1236032",
+  "collLabel": "Condé Museum",
+  "place": "http://www.wikidata.org/entity/Q126675"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1324926",
+  "collLabel": "Musée des Beaux-Arts et d'Archéologie de Besançon",
+  "place": "http://www.wikidata.org/entity/Q37776"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1327886",
+  "collLabel": "Musée Marmottan Monet",
+  "place": "http://www.wikidata.org/entity/Q194420"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1327919",
+  "collLabel": "Wallace Collection",
+  "place": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1411180",
+  "collLabel": "Luxembourg Museum",
+  "place": "http://www.wikidata.org/entity/Q309458"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1416890",
+  "collLabel": "Fine Arts Museums of San Francisco",
+  "place": "http://www.wikidata.org/entity/Q62"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1419555",
+  "collLabel": "National Gallery Prague"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1465805",
+  "collLabel": "Clark Art Institute",
+  "place": "http://www.wikidata.org/entity/Q771"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1471477",
+  "collLabel": "Royal Museum of Fine Arts Antwerp",
+  "place": "http://www.wikidata.org/entity/Q124030274"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1492387",
+  "collLabel": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma",
+  "place": "http://www.wikidata.org/entity/Q54863582"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1499958",
+  "collLabel": "Kunstmuseum Den Haag",
+  "place": "http://www.wikidata.org/entity/Q65936118"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1519002",
+  "collLabel": "Musée Fabre",
+  "place": "http://www.wikidata.org/entity/Q6441"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1565911",
+  "collLabel": "Museum of Fine Arts, Houston",
+  "place": "http://www.wikidata.org/entity/Q16555"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1568434",
+  "collLabel": "Yale University Art Gallery",
+  "place": "http://www.wikidata.org/entity/Q131342274"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1592523",
+  "collLabel": "Sorolla Museum",
+  "place": "http://www.wikidata.org/entity/Q2807"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1687165",
+  "collLabel": "Musée des Beaux-Arts de Menton",
+  "place": "http://www.wikidata.org/entity/Q3360841"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1700481",
+  "collLabel": "Minneapolis Institute of Art",
+  "place": "http://www.wikidata.org/entity/Q36091"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1743116",
+  "collLabel": "Toledo Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q49239"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1756399",
+  "collLabel": "Tehran Museum of Contemporary Art",
+  "place": "http://www.wikidata.org/entity/Q5722492"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q12110695",
+  "collLabel": "Courtauld Gallery",
+  "place": "http://www.wikidata.org/entity/Q1344889"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q12715958",
+  "collLabel": "KODE Art museums and composer homes",
+  "place": "http://www.wikidata.org/entity/Q10428388"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q16303680",
+  "collLabel": "Collection Bemberg",
+  "place": "http://www.wikidata.org/entity/Q3145715"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q106857407",
+  "collLabel": "Impressionism: The Hasso Plattner Collection",
+  "place": "http://www.wikidata.org/entity/Q1711"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q109559220",
+  "collLabel": "Cox Collection",
+  "place": "http://www.wikidata.org/entity/Q16557"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q110279441",
+  "collLabel": "Fondation Corboud"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q112114368",
+  "collLabel": "John Quinn Art Collection"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q113468011",
+  "collLabel": "Zornmuseet",
+  "place": "http://www.wikidata.org/entity/Q504239"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q137895997",
+  "collLabel": "collection du musée des Beaux-Arts de Brest"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q138001780",
+  "collLabel": "collection du musée de l'Ardenne"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q23402",
+  "collLabel": "Musée d'Orsay",
+  "place": "http://www.wikidata.org/entity/Q2698691"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q180788",
+  "collLabel": "National Gallery",
+  "place": "http://www.wikidata.org/entity/Q129143"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q188740",
+  "collLabel": "Museum of Modern Art",
+  "place": "http://www.wikidata.org/entity/Q11249"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q190804",
+  "collLabel": "Rijksmuseum",
+  "place": "http://www.wikidata.org/entity/Q25861166"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q194622",
+  "collLabel": "Kunstmuseum Bern",
+  "place": "http://www.wikidata.org/entity/Q19362502"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q201469",
+  "collLabel": "Solomon R. Guggenheim Museum",
+  "place": "http://www.wikidata.org/entity/Q455587"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q210081",
+  "collLabel": "Walters Art Museum",
+  "place": "http://www.wikidata.org/entity/Q6924327"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q214867",
+  "collLabel": "National Gallery of Art",
+  "place": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q224124",
+  "collLabel": "Van Gogh Museum",
+  "place": "http://www.wikidata.org/entity/Q42296997"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q239303",
+  "collLabel": "Art Institute of Chicago",
+  "place": "http://www.wikidata.org/entity/Q1297"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q252259",
+  "collLabel": "Thiel Gallery",
+  "place": "http://www.wikidata.org/entity/Q10431415"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q303139",
+  "collLabel": "Belvedere",
+  "place": "http://www.wikidata.org/entity/Q519552"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q325712",
+  "collLabel": "Milwaukee Art Museum",
+  "place": "http://www.wikidata.org/entity/Q37836"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1770313",
+  "collLabel": "Art Museums of Bergen",
+  "place": "http://www.wikidata.org/entity/Q10428388"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1783956",
+  "collLabel": "Nantes Museum of Arts",
+  "place": "http://www.wikidata.org/entity/Q16024149"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1816301",
+  "collLabel": "Seattle Art Museum",
+  "place": "http://www.wikidata.org/entity/Q5083"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1848918",
+  "collLabel": "National Museum of Fine Arts, Argentina",
+  "place": "http://www.wikidata.org/entity/Q1010253"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1851283",
+  "collLabel": "Unterlinden Museum",
+  "place": "http://www.wikidata.org/entity/Q130994"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1895953",
+  "collLabel": "Musée National d'Art Moderne",
+  "place": "http://www.wikidata.org/entity/Q178065"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1952944",
+  "collLabel": "Museum of Grenoble",
+  "place": "http://www.wikidata.org/entity/Q1289"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1955748",
+  "collLabel": "La Piscine",
+  "place": "http://www.wikidata.org/entity/Q34001"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1967614",
+  "collLabel": "National Portrait Gallery",
+  "place": "http://www.wikidata.org/entity/Q2018451"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q1970945",
+  "collLabel": "Buffalo AKG Art Museum",
+  "place": "http://www.wikidata.org/entity/Q40435"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2018379",
+  "collLabel": "National Gallery of Ireland",
+  "place": "http://www.wikidata.org/entity/Q1761"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2046319",
+  "collLabel": "Amgueddfa Cymru – Museum Wales",
+  "place": "http://www.wikidata.org/entity/Q25"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2051997",
+  "collLabel": "National Galleries Scotland",
+  "place": "http://www.wikidata.org/entity/Q23436"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2097646",
+  "collLabel": "Museo Soumaya",
+  "place": "http://www.wikidata.org/entity/Q1489"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2130225",
+  "collLabel": "Museum Rotterdam",
+  "place": "http://www.wikidata.org/entity/Q34370"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2365880",
+  "collLabel": "Museum of Fine Arts Ghent (MSK)",
+  "place": "http://www.wikidata.org/entity/Q1296"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2526644",
+  "collLabel": "Musée d'Art moderne et d'Art contemporain",
+  "place": "http://www.wikidata.org/entity/Q3992"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2538129",
+  "collLabel": "Musée Toulouse-Lautrec",
+  "place": "http://www.wikidata.org/entity/Q3361047"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2628596",
+  "collLabel": "Palais des Beaux-Arts de Lille",
+  "place": "http://www.wikidata.org/entity/Q648"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2711480",
+  "collLabel": "Musée des Augustins",
+  "place": "http://www.wikidata.org/entity/Q7880"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2874177",
+  "collLabel": "Dordrechts Museum",
+  "place": "http://www.wikidata.org/entity/Q26421"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2912600",
+  "collLabel": "National Museum of Fine Arts of Algiers",
+  "place": "http://www.wikidata.org/entity/Q3561"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q2983474",
+  "collLabel": "Finnish National Gallery",
+  "place": "http://www.wikidata.org/entity/Q1757"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3044768",
+  "collLabel": "Department of Paintings of the Louvre"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3086934",
+  "collLabel": "Musée des Beaux-Arts de Rouen",
+  "place": "http://www.wikidata.org/entity/Q35881361"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3176133",
+  "collLabel": "Louvre Abu Dhabi",
+  "place": "http://www.wikidata.org/entity/Q1198382"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3277885",
+  "collLabel": "Musée des Beaux-Arts d'Angers",
+  "place": "http://www.wikidata.org/entity/Q3257973"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3297769",
+  "collLabel": "Kitakyushu Municipal Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q11663919"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329255",
+  "collLabel": "Musée Léon-Dierx",
+  "place": "http://www.wikidata.org/entity/Q47045"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329523",
+  "collLabel": "Cantonal Museum of Fine Arts",
+  "place": "http://www.wikidata.org/entity/Q807"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329541",
+  "collLabel": "MuMa Museum of modern art André Malraux",
+  "place": "http://www.wikidata.org/entity/Q42810"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329574",
+  "collLabel": "Mougins Museum of Classical Art",
+  "place": "http://www.wikidata.org/entity/Q220673"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329646",
+  "collLabel": "Musée d'art moderne (Saint-Étienne)",
+  "place": "http://www.wikidata.org/entity/Q42716"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329650",
+  "collLabel": "Musée d'Art moderne de Troyes",
+  "place": "http://www.wikidata.org/entity/Q22915413"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3329778",
+  "collLabel": "Annonciade Museum",
+  "place": "http://www.wikidata.org/entity/Q1813"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330195",
+  "collLabel": "Musée des Beaux-Arts de Carcassonne",
+  "place": "http://www.wikidata.org/entity/Q6582"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330199",
+  "collLabel": "Musée des Beaux-Arts de Chartres",
+  "place": "http://www.wikidata.org/entity/Q22940711"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330214",
+  "collLabel": "Pont-Aven museum",
+  "place": "http://www.wikidata.org/entity/Q238377"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330217",
+  "collLabel": "Musée des Beaux-Arts de Pau",
+  "place": "http://www.wikidata.org/entity/Q12703"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330220",
+  "collLabel": "Musée des Beaux-Arts de Quimper",
+  "place": "http://www.wikidata.org/entity/Q342"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3330506",
+  "collLabel": "Musée départemental Maurice-Denis",
+  "place": "http://www.wikidata.org/entity/Q19387992"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3757722",
+  "collLabel": "Galleria d'arte moderna Ricci Oddi",
+  "place": "http://www.wikidata.org/entity/Q13329"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q18752218",
+  "collLabel": "Musée du Petit Palais",
+  "place": "http://www.wikidata.org/entity/Q71"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q19013512",
+  "collLabel": "Musées Nationaux Récupération"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q20862230",
+  "collLabel": "Collection Rau for UNICEF",
+  "place": "http://www.wikidata.org/entity/Q698582"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q23785329",
+  "collLabel": "Museum Barberini",
+  "place": "http://www.wikidata.org/entity/Q1711"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q27663014",
+  "collLabel": "Shchukin Collection"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q511",
+  "collLabel": "Museum of Fine Arts of Lyon",
+  "place": "http://www.wikidata.org/entity/Q2820699"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q537",
+  "collLabel": "Prince Eugens Waldemarsudde",
+  "place": "http://www.wikidata.org/entity/Q15700318"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q4872",
+  "collLabel": "Pushkin Museum of Fine Arts",
+  "place": "http://www.wikidata.org/entity/Q649"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q46815",
+  "collLabel": "Israel Museum",
+  "place": "http://www.wikidata.org/entity/Q1218"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q49133",
+  "collLabel": "Museum of Fine Arts Boston",
+  "place": "http://www.wikidata.org/entity/Q100"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q49135",
+  "collLabel": "Isabella Stewart Gardner Museum",
+  "place": "http://www.wikidata.org/entity/Q100"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q59435",
+  "collLabel": "Leopold Museum",
+  "place": "http://www.wikidata.org/entity/Q1741"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q59468",
+  "collLabel": "Neue Galerie",
+  "place": "http://www.wikidata.org/entity/Q8018749"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q80784",
+  "collLabel": "Liege Fine Arts Museum",
+  "place": "http://www.wikidata.org/entity/Q3092701"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q82941",
+  "collLabel": "São Paulo Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q41068"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q83013",
+  "collLabel": "Musée des beaux-arts de Marseille",
+  "place": "http://www.wikidata.org/entity/Q1619084"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q377500",
+  "collLabel": "Royal Museums of Fine Arts of Belgium",
+  "place": "http://www.wikidata.org/entity/Q240"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q377579",
+  "collLabel": "Baltimore Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q5083136"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q428765",
+  "collLabel": "Museum of Fine Arts of Nancy",
+  "place": "http://www.wikidata.org/entity/Q40898"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q430682",
+  "collLabel": "Tate",
+  "place": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q474563",
+  "collLabel": "Teylers Museum",
+  "place": "http://www.wikidata.org/entity/Q738230"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q496040",
+  "collLabel": "Hugh Lane Gallery",
+  "place": "http://www.wikidata.org/entity/Q1761"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q510324",
+  "collLabel": "Philadelphia Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q1345"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q578485",
+  "collLabel": "The Phillips Collection",
+  "place": "http://www.wikidata.org/entity/Q1266597"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q639791",
+  "collLabel": "Whitney Museum of American Art",
+  "place": "http://www.wikidata.org/entity/Q11299"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q650299",
+  "collLabel": "Building of the Winterthur Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q9125"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q657415",
+  "collLabel": "Cleveland Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q14716915"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q666331",
+  "collLabel": "Foundation E.G. Bührle Collection",
+  "place": "http://www.wikidata.org/entity/Q72"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q670250",
+  "collLabel": "Art Gallery of Ontario",
+  "place": "http://www.wikidata.org/entity/Q172"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q671384",
+  "collLabel": "Statens Museum for Kunst",
+  "place": "http://www.wikidata.org/entity/Q504125"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q677561",
+  "collLabel": "Hammer Museum",
+  "place": "http://www.wikidata.org/entity/Q14684258"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q679075",
+  "collLabel": "Museum of Art and History Geneva",
+  "place": "http://www.wikidata.org/entity/Q29479561"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q679527",
+  "collLabel": "Museum Boijmans Van Beuningen",
+  "place": "http://www.wikidata.org/entity/Q2399655"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q684556",
+  "collLabel": "Villa Flora",
+  "place": "http://www.wikidata.org/entity/Q22452277"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q685038",
+  "collLabel": "Kunsthaus Zürich",
+  "place": "http://www.wikidata.org/entity/Q72"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q693591",
+  "collLabel": "Kunsthalle Bremen",
+  "place": "http://www.wikidata.org/entity/Q1715951"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q700959",
+  "collLabel": "Wallraf–Richartz Museum",
+  "place": "http://www.wikidata.org/entity/Q112032408"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q726781",
+  "collLabel": "Musée de l'Orangerie",
+  "place": "http://www.wikidata.org/entity/Q818517"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q731126",
+  "collLabel": "J. Paul Getty Museum",
+  "place": "http://www.wikidata.org/entity/Q65"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q734266",
+  "collLabel": "Courtauld Institute of Art",
+  "place": "http://www.wikidata.org/entity/Q84"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q745866",
+  "collLabel": "Dallas Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q16557"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q749808",
+  "collLabel": "Imperial War Museum London",
+  "place": "http://www.wikidata.org/entity/Q730706"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q768446",
+  "collLabel": "Corcoran Gallery of Art",
+  "place": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q770918",
+  "collLabel": "Ordrupgaard",
+  "place": "http://www.wikidata.org/entity/Q1373658"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q808462",
+  "collLabel": "Barnes Foundation",
+  "place": "http://www.wikidata.org/entity/Q1345"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q809600",
+  "collLabel": "Fogg Museum",
+  "place": "http://www.wikidata.org/entity/Q49111"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q812285",
+  "collLabel": "Bavarian State Painting Collections",
+  "place": "http://www.wikidata.org/entity/Q1726"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q842858",
+  "collLabel": "Nationalmuseum",
+  "place": "http://www.wikidata.org/entity/Q1026676"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q844926",
+  "collLabel": "Munch Museum",
+  "place": "http://www.wikidata.org/entity/Q15037506"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q845468",
+  "collLabel": "Strasbourg Museum of Modern and Contemporary Art",
+  "place": "http://www.wikidata.org/entity/Q6602"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q847508",
+  "collLabel": "Worcester Art Museum",
+  "place": "http://www.wikidata.org/entity/Q49179"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q857276",
+  "collLabel": "Musée d'art moderne de Paris",
+  "place": "http://www.wikidata.org/entity/Q1535247"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q861252",
+  "collLabel": "Museu Nacional d'Art de Catalunya",
+  "place": "http://www.wikidata.org/entity/Q753075"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q861608",
+  "collLabel": "National Museum of Women in the Arts",
+  "place": "http://www.wikidata.org/entity/Q6783765"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q3783572",
+  "collLabel": "Harvard Art Museums",
+  "place": "http://www.wikidata.org/entity/Q49111"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q4859590",
+  "collLabel": "Barber Institute of Fine Arts",
+  "place": "http://www.wikidata.org/entity/Q223429"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q4968867",
+  "collLabel": "Bristol City Museum & Art Gallery",
+  "place": "http://www.wikidata.org/entity/Q21693433"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q4976948",
+  "collLabel": "Zorn Collections",
+  "place": "http://www.wikidata.org/entity/Q504239"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q6023573",
+  "collLabel": "Eskenazi Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q1415"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q7492669",
+  "collLabel": "Sheffield Galleries and Museums Trust",
+  "place": "http://www.wikidata.org/entity/Q42448"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q7569107",
+  "collLabel": "Southampton City Art Gallery",
+  "place": "http://www.wikidata.org/entity/Q79848"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q7675043",
+  "collLabel": "Taft Museum of Art",
+  "place": "http://www.wikidata.org/entity/Q43196"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q58230433",
+  "collLabel": "Frans Buffa & sons"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q59546080",
+  "collLabel": "Musée des Beaux-Arts de la ville de Paris",
+  "place": "http://www.wikidata.org/entity/Q820892"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q60363894",
+  "collLabel": "Jean Walter-Paul Guillaume Collection",
+  "place": "http://www.wikidata.org/entity/Q726781"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/a94c62b17108f95906af6187df95e9f0",
+  "collLabel": "a94c62b17108f95906af6187df95e9f0"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/b099509207f09517d22c5c4c1dcf1f5d",
+  "collLabel": "b099509207f09517d22c5c4c1dcf1f5d"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/bc2920351f14596671e871e2c6d8ca11",
+  "collLabel": "bc2920351f14596671e871e2c6d8ca11"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/c4cc1855334c00b46c972c2011efaa53",
+  "collLabel": "c4cc1855334c00b46c972c2011efaa53"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/e029b962bd81687470b7de52fe6930c4",
+  "collLabel": "e029b962bd81687470b7de52fe6930c4"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/e3054a0fdbe29f32e74eff54cc35efa4",
+  "collLabel": "e3054a0fdbe29f32e74eff54cc35efa4"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/e561d459ea7ae58bd007bac20dc6566a",
+  "collLabel": "e561d459ea7ae58bd007bac20dc6566a"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/e9db3b701ae3c499ee0c97c15c3c288e",
+  "collLabel": "e9db3b701ae3c499ee0c97c15c3c288e"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/ecf8b848f403ea3485aa97b116dd0b3f",
+  "collLabel": "ecf8b848f403ea3485aa97b116dd0b3f"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/f7bb26377b73075f96c39a44679dbf56",
+  "collLabel": "f7bb26377b73075f96c39a44679dbf56"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q913672",
+  "collLabel": "San Francisco Museum of Modern Art",
+  "place": "http://www.wikidata.org/entity/Q62"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q954222",
+  "collLabel": "Musée des Beaux-Arts de Bordeaux",
+  "place": "http://www.wikidata.org/entity/Q1479"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q965780",
+  "collLabel": "Musée Granet",
+  "place": "http://www.wikidata.org/entity/Q47465"
+ },
+ {
+  "coll": "http://www.wikidata.org/entity/Q94631769",
+  "collLabel": "Staechelin collection",
+  "place": "http://www.wikidata.org/entity/Q194626"
+ }
+]

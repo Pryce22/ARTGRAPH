@@ -1,0 +1,3628 @@
+[
+ {
+  "artist": "http://www.wikidata.org/entity/Q173223",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q155626",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q105320",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q39931",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q55996",
+  "targetLabel": "naturalism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q105320",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q767",
+  "targetLabel": "Stéphane Mallarmé",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q5233",
+  "targetLabel": "François-Édouard Picot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q148458",
+  "targetLabel": "Jean-François Millet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q159758",
+  "targetLabel": "J. M. W. Turner",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q206820",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5598",
+  "targetLabel": "Rembrandt",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212600",
+  "targetLabel": "Eugène Louis Boudin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q273552",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q296",
+  "targetLabel": "Claude Monet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q273552",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q297",
+  "targetLabel": "Diego Velázquez",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q704585",
+  "targetLabel": "Johan Jongkind",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q62596139",
+  "targetLabel": "Alexandre Pau de Saint-Martin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q52155327",
+  "targetLabel": "Gonzalo Salvá Simbor",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q173223",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q18923419",
+  "targetLabel": "Paul-Constant Soyer",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q15711291",
+  "targetLabel": "Pierre Daubigny",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q4992964",
+  "targetLabel": "Fritz Melbye",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q4992964",
+  "targetLabel": "Fritz Melbye",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3526664",
+  "targetLabel": "Théophile Langlois de Chèvreville",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q151573",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3588356",
+  "targetLabel": "Émile Bin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3164608",
+  "targetLabel": "Jean-Charles-Joseph Rémond",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3155308",
+  "targetLabel": "Isidore Dagnan",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3048151",
+  "targetLabel": "Edmé-François Daubigny",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q105320",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2422896",
+  "targetLabel": "Joseph Guichard",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q464300",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1063936",
+  "targetLabel": "Charles Joshua Chaplin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q173223",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1063936",
+  "targetLabel": "Charles Joshua Chaplin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q273552",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q773855",
+  "targetLabel": "Alfred Stevens",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q553258",
+  "targetLabel": "Francisco Pradilla y Ortiz",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q704585",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q500379",
+  "targetLabel": "Andreas Schelfhout",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q944962",
+  "targetLabel": "Achille Etna Michallon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q621994",
+  "targetLabel": "Alexandre Calame",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q714341",
+  "targetLabel": "Eugène Isabey",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q295144",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212499",
+  "targetLabel": "Jean-Léon Gérôme",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q155626",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q365891",
+  "targetLabel": "Adolphe Yvon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q159297",
+  "targetLabel": "John Constable",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q295144",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q170259",
+  "targetLabel": "Léon Bonnat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q390581",
+  "targetLabel": "Jacques Raymond Brascassat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q173223",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q326434",
+  "targetLabel": "Thomas Couture",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q155626",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q274901",
+  "targetLabel": "Carolus-Duran",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q207298",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203643",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q104884",
+  "targetLabel": "Caspar David Friedrich",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q105320",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q148475",
+  "targetLabel": "Jean-Baptiste Camille Corot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q173223",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212499",
+  "targetLabel": "Jean-Léon Gérôme",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q240483",
+  "targetLabel": "Henri Lehmann",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q380395",
+  "targetLabel": "Richard Parkes Bonington",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q252357",
+  "targetLabel": "Charles-François Daubigny",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q159297",
+  "targetLabel": "John Constable",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q155626",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q170259",
+  "targetLabel": "Léon Bonnat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q159758",
+  "targetLabel": "J. M. W. Turner",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q148475",
+  "targetLabel": "Jean-Baptiste Camille Corot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q704585",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q714341",
+  "targetLabel": "Eugène Isabey",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q40599",
+  "targetLabel": "Édouard Manet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q19758490",
+  "targetLabel": "Auguste Boulard",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3371528",
+  "targetLabel": "Paul Flandrin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2615568",
+  "targetLabel": "Louis Lamothe",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q472235",
+  "targetLabel": "Hippolyte Flandrin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q464300",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q40599",
+  "targetLabel": "Édouard Manet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q39931",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q40599",
+  "targetLabel": "Édouard Manet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q326434",
+  "targetLabel": "Thomas Couture",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q326434",
+  "targetLabel": "Thomas Couture",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q273552",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q46373",
+  "targetLabel": "Edgar Degas",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q240483",
+  "targetLabel": "Henri Lehmann",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q39931",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q180278",
+  "targetLabel": "Charles Gounod",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q105320",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q40599",
+  "targetLabel": "Édouard Manet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310025",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q207298",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q151573",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203643",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q256922",
+  "targetLabel": "Aestheticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q837024",
+  "targetLabel": "social realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q207298",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q10857409",
+  "targetLabel": "realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q273552",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q11034",
+  "targetLabel": "printing",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q464300",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q436844",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q351746",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q295144",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q207298",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q206820",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q175130",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q154349",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5432",
+  "targetLabel": "Francisco Goya",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q153793",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5593",
+  "targetLabel": "Pablo Picasso",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q148458",
+  "targetLabel": "Jean-François Millet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q203828",
+  "targetLabel": "Gustave Moreau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5582",
+  "targetLabel": "Vincent van Gogh",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q267858",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5589",
+  "targetLabel": "Henri Matisse",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q296",
+  "targetLabel": "Claude Monet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q591907",
+  "targetLabel": "Anton Mauve",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q591907",
+  "targetLabel": "Anton Mauve",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q1372280",
+  "targetLabel": "Willem Roelofs",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q26936772",
+  "targetLabel": "Constantinus Cornelis Huysmans",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q98831465",
+  "targetLabel": "Emile Dupont-Zipcy",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3121270",
+  "targetLabel": "Gustave Morin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q545293",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3028695",
+  "targetLabel": "Diogene Ulyssee Napoleon Maillart",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q216873",
+  "targetLabel": "Pierre Puvis de Chavannes",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q726564",
+  "targetLabel": "Gustave Boulanger",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q82445",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q457098",
+  "targetLabel": "Fernand Cormon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q267858",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q203828",
+  "targetLabel": "Gustave Moreau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q433973",
+  "targetLabel": "Jules Lefebvre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q154349",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q310715",
+  "targetLabel": "Henri Fantin-Latour",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q440369",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q216873",
+  "targetLabel": "Pierre Puvis de Chavannes",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q671883",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q919158",
+  "targetLabel": "Jean-François Portaels",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q371549",
+  "targetLabel": "Charles Maurin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q108301",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q108301",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q156889",
+  "targetLabel": "Suzanne Valadon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q108301",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q156889",
+  "targetLabel": "Suzanne Valadon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q82445",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q170259",
+  "targetLabel": "Léon Bonnat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q457098",
+  "targetLabel": "Fernand Cormon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156272",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q241098",
+  "targetLabel": "Maurice de Vlaminck",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q154349",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212499",
+  "targetLabel": "Jean-Léon Gérôme",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q239394",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212499",
+  "targetLabel": "Jean-Léon Gérôme",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5599",
+  "targetLabel": "Peter Paul Rubens",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q46373",
+  "targetLabel": "Edgar Degas",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26408",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q37693",
+  "targetLabel": "Paul Gauguin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q296",
+  "targetLabel": "Claude Monet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26408",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q37693",
+  "targetLabel": "Paul Gauguin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q4295027",
+  "targetLabel": "Ludwig Minnigerode",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q4148107",
+  "targetLabel": "Karl Hrachowina",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3185010",
+  "targetLabel": "Joseph Marc Gibert",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1713039",
+  "targetLabel": "Julius Victor Berger",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q34013",
+  "targetLabel": "Georges Seurat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q874376",
+  "targetLabel": "Michael Rieser",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q559281",
+  "targetLabel": "George Minne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q440369",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q37693",
+  "targetLabel": "Paul Gauguin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q41406",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q334200",
+  "targetLabel": "Christian Krohg",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212630",
+  "targetLabel": "Ferdinand Laufberger",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q153793",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q154349",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156272",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34013",
+  "targetLabel": "Georges Seurat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156272",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q37693",
+  "targetLabel": "Paul Gauguin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q108301",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q82445",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q46373",
+  "targetLabel": "Edgar Degas",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q41406",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q80113",
+  "targetLabel": "Expressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q80113",
+  "targetLabel": "Expressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q671883",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q440369",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326606",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156889",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q154349",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q41406",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q267858",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156272",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q153793",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q239394",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156889",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q82445",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q2831132",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q555224",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q545293",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q258694",
+  "targetLabel": "Incoherents",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q108301",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q273506",
+  "targetLabel": "School of Paris",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q440369",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q382056",
+  "targetLabel": "Pont-Aven School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326606",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q382056",
+  "targetLabel": "Pont-Aven School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q382056",
+  "targetLabel": "Pont-Aven School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q382056",
+  "targetLabel": "Pont-Aven School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q440369",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326606",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q239394",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26408",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q503708",
+  "targetLabel": "Les Nabis",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q239394",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q751880",
+  "targetLabel": "Japonisme",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326606",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q847847",
+  "targetLabel": "synthetism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q847847",
+  "targetLabel": "synthetism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q847847",
+  "targetLabel": "synthetism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q848365",
+  "targetLabel": "primitivism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063574",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q858436",
+  "targetLabel": "neorealism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326606",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q889525",
+  "targetLabel": "cloisonnism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q889525",
+  "targetLabel": "cloisonnism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q889525",
+  "targetLabel": "cloisonnism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2487023",
+  "targetLabel": "divisionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q153793",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q4690042",
+  "targetLabel": "African sculpture",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q34636",
+  "targetLabel": "Art Nouveau",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34661",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q34636",
+  "targetLabel": "Art Nouveau",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q123740",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q264193",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42865",
+  "targetLabel": "Orientalism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42934",
+  "targetLabel": "cubism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156272",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42934",
+  "targetLabel": "cubism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q153793",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42934",
+  "targetLabel": "cubism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q83155",
+  "targetLabel": "Jacques-Louis David",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q5233",
+  "targetLabel": "François-Édouard Picot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203828",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q5233",
+  "targetLabel": "François-Édouard Picot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5582",
+  "targetLabel": "Vincent van Gogh",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q240483",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q2422896",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3185583",
+  "targetLabel": "Guillaume-Joseph Roques",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q15967924",
+  "targetLabel": "Jean Suau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q18923419",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q544646",
+  "targetLabel": "Léon Cogniet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q19758490",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q544646",
+  "targetLabel": "Léon Cogniet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q19758490",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q959212",
+  "targetLabel": "Jules Dupré",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q15711291",
+  "targetLabel": "Pierre Daubigny",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q4992964",
+  "targetLabel": "Fritz Melbye",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q4992964",
+  "targetLabel": "Fritz Melbye",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q4301086",
+  "targetLabel": "Thomas Malton",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3526664",
+  "targetLabel": "Théophile Langlois de Chèvreville",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q104884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3416034",
+  "targetLabel": "Christian August Lorentzen",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1063936",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2463574",
+  "targetLabel": "Michel Martin Drolling",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3155308",
+  "targetLabel": "Isidore Dagnan",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3048151",
+  "targetLabel": "Edmé-François Daubigny",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q170259",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2343934",
+  "targetLabel": "José de Madrazo y Agudo",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1713039",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q349751",
+  "targetLabel": "Francis Hayman",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q104884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1694137",
+  "targetLabel": "Johann Gottfried Quistorp",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q240483",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1818652",
+  "targetLabel": "Leo Lehmann",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q170259",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1345186",
+  "targetLabel": "Federico de Madrazo y Kuntz",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q240483",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q877316",
+  "targetLabel": "Siegfried Detlev Bendixen",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q944962",
+  "targetLabel": "Achille Etna Michallon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q170259",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q544646",
+  "targetLabel": "Léon Cogniet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q621994",
+  "targetLabel": "Alexandre Calame",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q104884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q545604",
+  "targetLabel": "Thomas Thorild",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q714341",
+  "targetLabel": "Eugène Isabey",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q104884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q581361",
+  "targetLabel": "Jens Juel",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q714243",
+  "targetLabel": "Thomas Girtin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q216873",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q321579",
+  "targetLabel": "Hendrik Scheffer",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q180278",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q311387",
+  "targetLabel": "Anton Reicha",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q180278",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q313917",
+  "targetLabel": "Fromental Halévy",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203828",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q342467",
+  "targetLabel": "Théodore Chassériau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q390581",
+  "targetLabel": "Jacques Raymond Brascassat",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q240483",
+  "targetLabel": "Henri Lehmann",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q214074",
+  "targetLabel": "Claude Lorrain",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q194402",
+  "targetLabel": "Joshua Reynolds",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5597",
+  "targetLabel": "Raphael",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q2422896",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203828",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q180278",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q57286",
+  "targetLabel": "Fanny Mendelssohn",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q180278",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q46096",
+  "targetLabel": "Felix Mendelssohn",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q252357",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q143357",
+  "targetLabel": "Barbizon school",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q216873",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q203828",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156889",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q156889",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q170259",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q1372280",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q1232633",
+  "targetLabel": "Hague School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q104884",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2477112",
+  "targetLabel": "German Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148475",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q148458",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159297",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q10857409",
+  "targetLabel": "realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q16191884",
+  "targetLabel": "Neo-Grec",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q19953536",
+  "targetLabel": "neo-Pompeian",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q107424419",
+  "targetLabel": "English painting",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q180278",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q9730",
+  "targetLabel": "classical music",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q14378",
+  "targetLabel": "Neoclassicism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159758",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q159297",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q23380",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212600",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q134741",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q212499",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42865",
+  "targetLabel": "Orientalism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q241098",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42934",
+  "targetLabel": "cubism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q148458",
+  "targetLabel": "Jean-François Millet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q159758",
+  "targetLabel": "J. M. W. Turner",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q212600",
+  "targetLabel": "Eugène Louis Boudin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q9440",
+  "targetLabel": "Paolo Veronese",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5598",
+  "targetLabel": "Rembrandt",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326434",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5599",
+  "targetLabel": "Peter Paul Rubens",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q297",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q365989",
+  "targetLabel": "Francisco Pacheco",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q452119",
+  "targetLabel": "Charles Gleyre",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q704585",
+  "targetLabel": "Johan Jongkind",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3371528",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26936772",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q436726",
+  "targetLabel": "Ary Scheffer",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26936772",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q930501",
+  "targetLabel": "Mattheus Ignatius van Bree",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q19630647",
+  "targetLabel": "Louis Alexandre Peron",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3185010",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q964812",
+  "targetLabel": "François Marius Granet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3526664",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q216999",
+  "targetLabel": "Antoine-Jean Gros",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3164608",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q453485",
+  "targetLabel": "Jean-Baptiste Regnault",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3164608",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3526419",
+  "targetLabel": "Théodore Fantin-Latour",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3048151",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q274901",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3085848",
+  "targetLabel": "François Souchon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3140465",
+  "targetLabel": "Horace Lecoq de Boisbaudran",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3185010",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1684593",
+  "targetLabel": "Jean Antoine Constantin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3028695",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q544646",
+  "targetLabel": "Léon Cogniet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q2615568",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q472235",
+  "targetLabel": "Hippolyte Flandrin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3185010",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3131962",
+  "targetLabel": "Henri Révoil",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q334200",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1691964",
+  "targetLabel": "Johan Fredrik Eckersberg",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3155308",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2871532",
+  "targetLabel": "Augustin Aubert",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3371528",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2853889",
+  "targetLabel": "Antoine Duclaux",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q334200",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q701669",
+  "targetLabel": "Hans Gude",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q322582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q216999",
+  "targetLabel": "Antoine-Jean Gros",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q322582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q219306",
+  "targetLabel": "Louis Etienne Watelet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326434",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q216999",
+  "targetLabel": "Antoine-Jean Gros",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3371528",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3165735",
+  "targetLabel": "Jean-François Legendre-Héral",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q365891",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26936772",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q26936807",
+  "targetLabel": "Jacobus Carolus Huysmans",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q331884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q334946",
+  "targetLabel": "Pierre-Henri de Valenciennes",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q331884",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q334681",
+  "targetLabel": "Gabriel François Doyen",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326434",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q42207",
+  "targetLabel": "Caravaggio",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q297",
+  "targetLabel": "Diego Velázquez",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q34618",
+  "targetLabel": "Gustave Courbet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5599",
+  "targetLabel": "Peter Paul Rubens",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5598",
+  "targetLabel": "Rembrandt",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q40599",
+  "targetLabel": "Édouard Manet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3339945",
+  "targetLabel": "Nicolas-Auguste Hesse",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3185010",
+  "targetLabel": "Joseph Marc Gibert",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2957951",
+  "targetLabel": "Charles-Antoine Flajoulot",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q33477",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q362704",
+  "targetLabel": "Pierre-Narcisse Guérin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q334200",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q54716",
+  "targetLabel": "Karl Gussow",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326434",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q47551",
+  "targetLabel": "Titian",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q240483",
+  "targetLabel": "Henri Lehmann",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q209615",
+  "targetLabel": "Francisco de Zurbarán",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q69708",
+  "targetLabel": "Charles de Steuben",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q371549",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q35548",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3588356",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q326434",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34013",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q200034",
+  "targetLabel": "pointillism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q34618",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q334200",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q10857409",
+  "targetLabel": "realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q3371528",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q14378",
+  "targetLabel": "Neoclassicism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q26936772",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q33477",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q297",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37853",
+  "targetLabel": "Baroque",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q310715",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q296",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q380395",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42865",
+  "targetLabel": "Orientalism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42934",
+  "targetLabel": "cubism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5432",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q80894",
+  "targetLabel": "José Luzan",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5233",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q83155",
+  "targetLabel": "Jacques-Louis David",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5432",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q130531",
+  "targetLabel": "Hieronymus Bosch",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q148458",
+  "targetLabel": "Jean-François Millet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q156386",
+  "targetLabel": "Henri Rousseau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q203828",
+  "targetLabel": "Gustave Moreau",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q351328",
+  "targetLabel": "Adam van Noort",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5598",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q352864",
+  "targetLabel": "Pieter Lastman",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q472235",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q559281",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q30755",
+  "targetLabel": "Auguste Rodin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q591907",
+  "targetLabel": "Anton Mauve",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q591907",
+  "targetLabel": "Anton Mauve",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5233",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q718975",
+  "targetLabel": "François-André Vincent",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q785355",
+  "targetLabel": "Otto van Veen",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5598",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q984173",
+  "targetLabel": "Jacob van Swanenburgh",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5586",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1358636",
+  "targetLabel": "Katsukawa Shunshō",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q1372280",
+  "targetLabel": "Willem Roelofs",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1860598",
+  "targetLabel": "Tobias Verhaecht",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q2639482",
+  "targetLabel": "Maria Prymachenko",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2901542",
+  "targetLabel": "José Ruiz Blasco",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5598",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3161764",
+  "targetLabel": "Jan Pynas",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3296153",
+  "targetLabel": "Antonio Muñoz Degrain",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5598",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q6278906",
+  "targetLabel": "Joris van Schooten",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q20535072",
+  "targetLabel": "Isidoro Brocos",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q26936772",
+  "targetLabel": "Constantinus Cornelis Huysmans",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5432",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q67849081",
+  "targetLabel": "Joaquín Ibáñez de Jesús y María",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q390581",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q24940555",
+  "targetLabel": "Jean-Baptiste Dubourdieu",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q4992964",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3486604",
+  "targetLabel": "Anton Melbye",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q4295027",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q349751",
+  "targetLabel": "Francis Hayman",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q433973",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3172085",
+  "targetLabel": "Jean Francis Auburtin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q380395",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3085223",
+  "targetLabel": "François Louis Thomas Francia",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q433973",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q544646",
+  "targetLabel": "Léon Cogniet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q390581",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q761853",
+  "targetLabel": "Louis Hersent",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q761853",
+  "targetLabel": "Louis Hersent",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q472235",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q761853",
+  "targetLabel": "Louis Hersent",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q390581",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q640709",
+  "targetLabel": "Théodore Richard",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q457098",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q919158",
+  "targetLabel": "Jean-François Portaels",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q161145",
+  "targetLabel": "Horace Vernet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q457098",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q353746",
+  "targetLabel": "Eugène Fromentin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q457098",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q310437",
+  "targetLabel": "Alexandre Cabanel",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5599",
+  "targetLabel": "Peter Paul Rubens",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q33477",
+  "targetLabel": "Eugène Delacroix",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q46373",
+  "targetLabel": "Edgar Degas",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q9440",
+  "targetLabel": "Paolo Veronese",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q5586",
+  "targetLabel": "Katsushika Hokusai",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q37693",
+  "targetLabel": "Paul Gauguin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q296",
+  "targetLabel": "Claude Monet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q35548",
+  "targetLabel": "Paul Cézanne",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q43270",
+  "targetLabel": "Pieter Brueghel the Elder",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q19758490",
+  "targetLabel": "Auguste Boulard",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3371528",
+  "targetLabel": "Paul Flandrin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q2615568",
+  "targetLabel": "Louis Lamothe",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q559281",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q49747",
+  "targetLabel": "Maurice Maeterlinck",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q472235",
+  "targetLabel": "Hippolyte Flandrin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q326434",
+  "targetLabel": "Thomas Couture",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q326434",
+  "targetLabel": "Thomas Couture",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q134741",
+  "targetLabel": "Camille Pissarro",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q80113",
+  "targetLabel": "Expressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5432",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q122960",
+  "targetLabel": "Rococo",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q150091",
+  "targetLabel": "Neo-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q559281",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q164800",
+  "targetLabel": "Symbolism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166593",
+  "targetLabel": "Fauvism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5582",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q166713",
+  "targetLabel": "Post-impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5586",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q185905",
+  "targetLabel": "ukiyo-e",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q457098",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q433973",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q189458",
+  "targetLabel": "academic art",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q382056",
+  "targetLabel": "Pont-Aven School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5586",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q751880",
+  "targetLabel": "Japonisme",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q452119",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q765606",
+  "targetLabel": "Orientalist painting",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q847847",
+  "targetLabel": "synthetism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q848365",
+  "targetLabel": "primitivism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q889525",
+  "targetLabel": "cloisonnism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q591907",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q1232633",
+  "targetLabel": "Hague School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q500379",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q1232633",
+  "targetLabel": "Hague School",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q1994273",
+  "targetLabel": "Flemish Baroque painting",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5598",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2352880",
+  "targetLabel": "Dutch Golden Age painting",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5589",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2487023",
+  "targetLabel": "divisionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q553258",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5586",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q3656684",
+  "targetLabel": "Kasei culture",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q4690042",
+  "targetLabel": "African sculpture",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q472235",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q14378",
+  "targetLabel": "Neoclassicism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5233",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q14378",
+  "targetLabel": "Neoclassicism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q4992964",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5432",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37068",
+  "targetLabel": "Romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5599",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q37853",
+  "targetLabel": "Baroque",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q5593",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q39427",
+  "targetLabel": "surrealism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q46373",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q40599",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q37693",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q40415",
+  "targetLabel": "Impressionism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q773855",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q23380",
+  "targetLabel": "Jean-Auguste-Dominique Ingres",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q98831465",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3085848",
+  "targetLabel": "François Souchon",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q62596139",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q315819",
+  "targetLabel": "Joseph Vernet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q62596139",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q562013",
+  "targetLabel": "Jean-Baptiste Le Prince",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q726564",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q3383236",
+  "targetLabel": "Pierre-Jules Jollivet",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q726564",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q704585",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q500379",
+  "targetLabel": "Andreas Schelfhout",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q944962",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q334946",
+  "targetLabel": "Pierre-Henri de Valenciennes",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q944962",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q331884",
+  "targetLabel": "Jean-Victor Bertin",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q919158",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q322582",
+  "targetLabel": "Paul Delaroche",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q919158",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q647641",
+  "targetLabel": "François-Joseph Navez",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q773855",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q1029257",
+  "targetLabel": "Camille Roqueplan",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q773855",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q647641",
+  "targetLabel": "François-Joseph Navez",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q704585",
+  "prop": "http://www.wikidata.org/prop/direct/P1066",
+  "target": "http://www.wikidata.org/entity/Q714341",
+  "targetLabel": "Eugène Isabey",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q773855",
+  "prop": "http://www.wikidata.org/prop/direct/P737",
+  "target": "http://www.wikidata.org/entity/Q41264",
+  "targetLabel": "Johannes Vermeer",
+  "targetIsHuman": "true"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q919158",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q1125039",
+  "targetLabel": "Post-romanticism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q773855",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q2642826",
+  "targetLabel": "French Realism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q944962",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q14378",
+  "targetLabel": "Neoclassicism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q919158",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42865",
+  "targetLabel": "Orientalism",
+  "targetIsHuman": "false"
+ },
+ {
+  "artist": "http://www.wikidata.org/entity/Q726564",
+  "prop": "http://www.wikidata.org/prop/direct/P135",
+  "target": "http://www.wikidata.org/entity/Q42865",
+  "targetLabel": "Orientalism",
+  "targetIsHuman": "false"
+ }
+]

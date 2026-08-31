@@ -1,0 +1,12 @@
+[project]
+name = "artgraph"
+version = "1.0.0"
+description = "Impressionism knowledge graph on Neo4j: RDF-to-LPG schema comparison (UNIVPM New Generation Databases exam project)"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.31",
+    "neo4j>=5.20",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,3085 @@
+[
+ {
+  "place": "http://www.wikidata.org/entity/Q112032408",
+  "placeLabel": "Ungersbau",
+  "isCity": "false",
+  "coordinates": "Point(6.95845 50.9374)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q3005"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q124030274",
+  "placeLabel": "building of the KMSK",
+  "isCity": "false",
+  "coordinates": "Point(4.39487 51.20845)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "parent": "http://www.wikidata.org/entity/Q12892"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q131342274",
+  "placeLabel": "Yale University Art Gallery Main Building",
+  "isCity": "false",
+  "coordinates": "Point(-72.930958 41.30839)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q49145"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q100",
+  "placeLabel": "Boston",
+  "isCity": "true",
+  "coordinates": "Point(-71.057777777 42.360277777)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q54072",
+  "tgnId": "7013445"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1218",
+  "placeLabel": "Jerusalem",
+  "isCity": "true",
+  "coordinates": "Point(35.234156 31.776679)",
+  "country": "http://www.wikidata.org/entity/Q801",
+  "parent": "http://www.wikidata.org/entity/Q192232",
+  "tgnId": "7000245"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1261",
+  "placeLabel": "Colorado",
+  "isCity": "false",
+  "coordinates": "Point(-105.5 39.0)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7007158"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1289",
+  "placeLabel": "Grenoble",
+  "isCity": "true",
+  "coordinates": "Point(5.726388888 45.186944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12559",
+  "tgnId": "7008759"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1296",
+  "placeLabel": "Ghent",
+  "isCity": "true",
+  "coordinates": "Point(3.725277777 51.053611111)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "parent": "http://www.wikidata.org/entity/Q90948",
+  "tgnId": "7007887"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1297",
+  "placeLabel": "Chicago",
+  "isCity": "true",
+  "coordinates": "Point(-87.627777777 41.881944444)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q108418",
+  "tgnId": "7013596"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1310",
+  "placeLabel": "Arnhem",
+  "isCity": "true",
+  "coordinates": "Point(5.916666666 51.983333333)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q775",
+  "tgnId": "7006876"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1345",
+  "placeLabel": "Philadelphia",
+  "isCity": "true",
+  "coordinates": "Point(-75.163611111 39.952777777)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q496900",
+  "tgnId": "7014406"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1415",
+  "placeLabel": "Indiana",
+  "isCity": "false",
+  "coordinates": "Point(-86.216666666 39.933333333)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7007252"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1479",
+  "placeLabel": "Bordeaux",
+  "isCity": "true",
+  "coordinates": "Point(-0.579444444 44.837777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12526",
+  "tgnId": "7008161"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1489",
+  "placeLabel": "Mexico City",
+  "isCity": "true",
+  "coordinates": "Point(-99.13589 19.353773)",
+  "country": "http://www.wikidata.org/entity/Q96",
+  "parent": "http://www.wikidata.org/entity/Q96",
+  "tgnId": "7378899"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1551",
+  "placeLabel": "Hamburg-Altstadt",
+  "isCity": "false",
+  "coordinates": "Point(10.0 53.55)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q1626"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q11249",
+  "placeLabel": "Midtown Manhattan",
+  "isCity": "false",
+  "coordinates": "Point(-73.984166666 40.754722222)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q11299"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q11299",
+  "placeLabel": "Manhattan",
+  "isCity": "true",
+  "coordinates": "Point(-73.994166666 40.728333333)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q60",
+  "tgnId": "7022657"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q12703",
+  "placeLabel": "Pyrénées-Atlantiques",
+  "isCity": "false",
+  "coordinates": "Point(-0.833333333 43.25)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q18678082",
+  "tgnId": "7002983"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q12892",
+  "placeLabel": "Antwerp",
+  "isCity": "true",
+  "coordinates": "Point(4.399722222 51.221111111)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "parent": "http://www.wikidata.org/entity/Q90895",
+  "tgnId": "7007856"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q13329",
+  "placeLabel": "Piacenza",
+  "isCity": "true",
+  "coordinates": "Point(9.7 45.05)",
+  "country": "http://www.wikidata.org/entity/Q38",
+  "parent": "http://www.wikidata.org/entity/Q16243",
+  "tgnId": "7004939"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q16555",
+  "placeLabel": "Houston",
+  "isCity": "true",
+  "coordinates": "Point(-95.383055555 29.762777777)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q26676",
+  "tgnId": "7013727"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q16557",
+  "placeLabel": "Dallas",
+  "isCity": "true",
+  "coordinates": "Point(-96.808888888 32.779166666)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q111168",
+  "tgnId": "7013503"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q126668",
+  "placeLabel": "Senlis",
+  "isCity": "true",
+  "coordinates": "Point(2.586666666 49.207222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12675"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q126675",
+  "placeLabel": "Chantilly",
+  "isCity": "true",
+  "coordinates": "Point(2.460833333 49.186944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q596974"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q129143",
+  "placeLabel": "Trafalgar Square",
+  "isCity": "false",
+  "coordinates": "Point(-0.128055555 51.508055555)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q130994",
+  "placeLabel": "Colmar",
+  "isCity": "true",
+  "coordinates": "Point(7.355 48.081111111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12722",
+  "tgnId": "7008119"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q132404",
+  "placeLabel": "Bourges",
+  "isCity": "true",
+  "coordinates": "Point(2.395555555 47.083611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3286"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q132801",
+  "placeLabel": "Albi",
+  "isCity": "true",
+  "coordinates": "Point(2.145833333 43.928055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12772"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q134674",
+  "placeLabel": "Bayonne",
+  "isCity": "true",
+  "coordinates": "Point(-1.476388888 43.4925)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12703",
+  "tgnId": "7008192"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q158923",
+  "placeLabel": "Stryi",
+  "isCity": "true",
+  "coordinates": "Point(23.85 49.25)",
+  "country": "http://www.wikidata.org/entity/Q212",
+  "parent": "http://www.wikidata.org/entity/Q11825756"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q160720",
+  "placeLabel": "Bohosudov",
+  "isCity": "false",
+  "coordinates": "Point(13.871944444 50.681666666)",
+  "country": "http://www.wikidata.org/entity/Q213",
+  "parent": "http://www.wikidata.org/entity/Q593629"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q165061",
+  "placeLabel": "Giverny",
+  "isCity": "true",
+  "coordinates": "Point(1.529166666 49.076111111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3372"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1010253",
+  "placeLabel": "Recoleta, Buenos Aires",
+  "isCity": "false",
+  "coordinates": "Point(-58.390555555 -34.590555555)",
+  "country": "http://www.wikidata.org/entity/Q414",
+  "parent": "http://www.wikidata.org/entity/Q27894563"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1026676",
+  "placeLabel": "Norrmalm",
+  "isCity": "false",
+  "coordinates": "Point(18.0667 59.3333)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q506250"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1095443",
+  "placeLabel": "Buré",
+  "isCity": "true",
+  "coordinates": "Point(0.405555555 48.5175)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12679"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1131080",
+  "placeLabel": "Hôpital Cochin",
+  "isCity": "false",
+  "coordinates": "Point(2.340277777 48.836944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q187153"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1134553",
+  "placeLabel": "Criquetot-sur-Ouville",
+  "isCity": "true",
+  "coordinates": "Point(0.846111111 49.676388888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12758"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1161335",
+  "placeLabel": "Le Mesnil-Théribus",
+  "isCity": "true",
+  "coordinates": "Point(1.987222222 49.300833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12675"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1161369",
+  "placeLabel": "Lachaussée-du-Bois-d'Écu",
+  "isCity": "true",
+  "coordinates": "Point(2.173611111 49.558888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12675"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1198382",
+  "placeLabel": "Saadiyat Island",
+  "isCity": "false",
+  "coordinates": "Point(54.443055555 24.531666666)",
+  "country": "http://www.wikidata.org/entity/Q878",
+  "parent": "http://www.wikidata.org/entity/Q187712"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1266597",
+  "placeLabel": "Dupont Circle",
+  "isCity": "false",
+  "coordinates": "Point(-77.043444444 38.909638888)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1344889",
+  "placeLabel": "Somerset House",
+  "isCity": "false",
+  "coordinates": "Point(-0.117777777 51.511111111)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1372769",
+  "placeLabel": "Fuendetodos",
+  "isCity": "true",
+  "coordinates": "Point(-0.9594579 41.3413479)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q55180",
+  "tgnId": "7030444"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1373658",
+  "placeLabel": "Charlottenlund",
+  "isCity": "false",
+  "coordinates": "Point(12.571944444 55.751111111)",
+  "country": "http://www.wikidata.org/entity/Q35",
+  "parent": "http://www.wikidata.org/entity/Q500076"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1411294",
+  "placeLabel": "Marly-la-Ville",
+  "isCity": "true",
+  "coordinates": "Point(2.499444444 49.080833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12784",
+  "tgnId": "1034278"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1507955",
+  "placeLabel": "Otterlo",
+  "isCity": "true",
+  "coordinates": "Point(5.783333333 52.1)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q775"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1535247",
+  "placeLabel": "Palais de Tokyo",
+  "isCity": "false",
+  "coordinates": "Point(2.29713 48.86408)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q194420"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1619084",
+  "placeLabel": "Palais Longchamp",
+  "isCity": "false",
+  "coordinates": "Point(5.3945 43.3043)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q230094"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1639259",
+  "placeLabel": "Villanueva de Gállego",
+  "isCity": "true",
+  "coordinates": "Point(-0.826416 41.7682637)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q55180",
+  "tgnId": "7295731"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1646215",
+  "placeLabel": "Cercedilla",
+  "isCity": "true",
+  "coordinates": "Point(-4.063055555 40.7375)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q5756",
+  "tgnId": "7338330"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q10428388",
+  "placeLabel": "Bergen Municipality",
+  "isCity": "true",
+  "coordinates": "Point(5.323333 60.3925)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q56407177",
+  "tgnId": "7007059"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q10431415",
+  "placeLabel": "Blockhusudden",
+  "isCity": "false",
+  "coordinates": "Point(18.15166667 59.32166667)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q506250"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q10588907",
+  "placeLabel": "Mora Parish",
+  "isCity": "false",
+  "coordinates": "Point(14.541444444 61.007222222)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q504239"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q11663919",
+  "placeLabel": "Sayagatani",
+  "isCity": "false",
+  "coordinates": "Point(130.85038889 33.90458333)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q858143"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q14684258",
+  "placeLabel": "Westwood Village",
+  "isCity": "false",
+  "coordinates": "Point(-118.443888888 34.058888888)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q65",
+  "tgnId": "2763252"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q14716915",
+  "placeLabel": "Wade Park",
+  "isCity": "false",
+  "coordinates": "Point(-81.611111111 41.510833333)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q37320"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q15037506",
+  "placeLabel": "MUNCH building",
+  "isCity": "false",
+  "coordinates": "Point(10.755194444 59.90575)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q5245991"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q15149909",
+  "placeLabel": "former 12th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.344583 48.846206)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q15700318",
+  "placeLabel": "Waldemarsudde",
+  "isCity": "false",
+  "coordinates": "Point(18.113055555 59.32)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q506250"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q16024149",
+  "placeLabel": "Malakoff - Saint Donatien",
+  "isCity": "false",
+  "coordinates": "Point(-1.536 47.2236)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12191"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q172",
+  "placeLabel": "Toronto",
+  "isCity": "true",
+  "coordinates": "Point(-79.386666666 43.670277777)",
+  "country": "http://www.wikidata.org/entity/Q16",
+  "tgnId": "7013284",
+  "parent": "http://www.wikidata.org/entity/Q1904"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q220",
+  "placeLabel": "Rome",
+  "isCity": "true",
+  "coordinates": "Point(12.482777777 41.893055555)",
+  "country": "http://www.wikidata.org/entity/Q38",
+  "tgnId": "7000874",
+  "parent": "http://www.wikidata.org/entity/Q18288160"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1707",
+  "placeLabel": "Kiel",
+  "isCity": "true",
+  "coordinates": "Point(10.139444444 54.323333333)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004457",
+  "parent": "http://www.wikidata.org/entity/Q1194"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1711",
+  "placeLabel": "Potsdam",
+  "isCity": "true",
+  "coordinates": "Point(13.066666666 52.4)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004463",
+  "parent": "http://www.wikidata.org/entity/Q1208"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1726",
+  "placeLabel": "Munich",
+  "isCity": "true",
+  "coordinates": "Point(11.575 48.1375)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004333",
+  "parent": "http://www.wikidata.org/entity/Q10562"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1731",
+  "placeLabel": "Dresden",
+  "isCity": "true",
+  "coordinates": "Point(13.7381437 51.0493286)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004455",
+  "parent": "http://www.wikidata.org/entity/Q1202"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1741",
+  "placeLabel": "Vienna",
+  "isCity": "true",
+  "coordinates": "Point(16.3725 48.208333333)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "tgnId": "7003030",
+  "parent": "http://www.wikidata.org/entity/Q40"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1757",
+  "placeLabel": "Helsinki",
+  "isCity": "true",
+  "coordinates": "Point(24.9375 60.170833333)",
+  "country": "http://www.wikidata.org/entity/Q33",
+  "tgnId": "7009880",
+  "parent": "http://www.wikidata.org/entity/Q5711"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1761",
+  "placeLabel": "Dublin",
+  "isCity": "true",
+  "coordinates": "Point(-6.260277777 53.349722222)",
+  "country": "http://www.wikidata.org/entity/Q27",
+  "tgnId": "7001306",
+  "parent": "http://www.wikidata.org/entity/Q4169280"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1813",
+  "placeLabel": "Saint-Tropez",
+  "isCity": "true",
+  "coordinates": "Point(6.638611111 43.269722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12789"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2044",
+  "placeLabel": "Florence",
+  "isCity": "true",
+  "coordinates": "Point(11.254166666 43.771388888)",
+  "country": "http://www.wikidata.org/entity/Q38",
+  "tgnId": "7000457",
+  "parent": "http://www.wikidata.org/entity/Q18288148"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q172593",
+  "placeLabel": "Montauban",
+  "isCity": "true",
+  "coordinates": "Point(1.355 44.017222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12779"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q173705",
+  "placeLabel": "Grasse",
+  "isCity": "true",
+  "coordinates": "Point(6.925277777 43.658055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008767",
+  "parent": "http://www.wikidata.org/entity/Q3139"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q173866",
+  "placeLabel": "Bessines-sur-Gartempe",
+  "isCity": "true",
+  "coordinates": "Point(1.368333333 46.108888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12808"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q178065",
+  "placeLabel": "Centre Georges Pompidou",
+  "isCity": "false",
+  "coordinates": "Point(2.352245 48.860642)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3413122"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q179351",
+  "placeLabel": "City of Westminster",
+  "isCity": "true",
+  "coordinates": "Point(-0.137222222 51.4975)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7018934",
+  "parent": "http://www.wikidata.org/entity/Q23306"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q180083",
+  "placeLabel": "Menton",
+  "isCity": "true",
+  "coordinates": "Point(7.499722222 43.774722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701950"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q181946",
+  "placeLabel": "Argenteuil",
+  "isCity": "true",
+  "coordinates": "Point(2.248888888 48.947777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12784"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q183557",
+  "placeLabel": "Dieppe",
+  "isCity": "true",
+  "coordinates": "Point(1.075 49.925)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008922",
+  "parent": "http://www.wikidata.org/entity/Q12758"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q184359",
+  "placeLabel": "Le Puy-en-Velay",
+  "isCity": "true",
+  "coordinates": "Point(3.885 45.043333333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12572"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q187153",
+  "placeLabel": "14th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.326888888 48.833022222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q188878",
+  "placeLabel": "Dax",
+  "isCity": "true",
+  "coordinates": "Point(-1.051388888 43.706944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12563"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q189153",
+  "placeLabel": "Saint-Cloud",
+  "isCity": "true",
+  "coordinates": "Point(2.215277777 48.846388888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q193826",
+  "placeLabel": "Douai",
+  "isCity": "true",
+  "coordinates": "Point(3.079166666 50.370833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701144"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q193832",
+  "placeLabel": "Cagnes-sur-Mer",
+  "isCity": "true",
+  "coordinates": "Point(7.148333333 43.663611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7009000",
+  "parent": "http://www.wikidata.org/entity/Q3139"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q194420",
+  "placeLabel": "16th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.276488888 48.863611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q194626",
+  "placeLabel": "Kunstmuseum Basel",
+  "isCity": "false",
+  "coordinates": "Point(7.594193 47.554032)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q78"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q200126",
+  "placeLabel": "18th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.344447222 48.89215)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q202368",
+  "placeLabel": "Morlaix",
+  "isCity": "true",
+  "coordinates": "Point(-3.827777777 48.5775)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3389"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q203309",
+  "placeLabel": "Vesoul",
+  "isCity": "true",
+  "coordinates": "Point(6.155277777 47.622222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12730"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q206493",
+  "placeLabel": "Sèvres",
+  "isCity": "true",
+  "coordinates": "Point(2.210833333 48.823055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7007999",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q207967",
+  "placeLabel": "Le Cannet",
+  "isCity": "true",
+  "coordinates": "Point(7.018611111 43.576111111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701253"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q209021",
+  "placeLabel": "Deauville",
+  "isCity": "true",
+  "coordinates": "Point(0.074444444 49.359166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3249"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q209770",
+  "placeLabel": "Les Andelys",
+  "isCity": "true",
+  "coordinates": "Point(1.411666666 49.245555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701477"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q210205",
+  "placeLabel": "Pest",
+  "isCity": "true",
+  "coordinates": "Point(19.1 47.5)",
+  "country": "http://www.wikidata.org/entity/Q28",
+  "parent": "http://www.wikidata.org/entity/Q188612"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q211260",
+  "placeLabel": "Zaandam",
+  "isCity": "true",
+  "coordinates": "Point(4.842222222 52.441666666)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "4012447",
+  "parent": "http://www.wikidata.org/entity/Q9978"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q212406",
+  "placeLabel": "Auvers-sur-Oise",
+  "isCity": "true",
+  "coordinates": "Point(2.174166666 49.071666666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q702112"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q213481",
+  "placeLabel": "La Baule-Escoublac",
+  "isCity": "true",
+  "coordinates": "Point(-2.392222222 47.285833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3068"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q220673",
+  "placeLabel": "Mougins",
+  "isCity": "true",
+  "coordinates": "Point(6.994722222 43.6)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3139"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q221968",
+  "placeLabel": "Gennevilliers",
+  "isCity": "true",
+  "coordinates": "Point(2.294444444 48.925555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7009201",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q223429",
+  "placeLabel": "University of Birmingham",
+  "isCity": "false",
+  "coordinates": "Point(-1.930555555 52.450555555)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q2256"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q231720",
+  "placeLabel": "Honfleur",
+  "isCity": "true",
+  "coordinates": "Point(0.233055555 49.418888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3249"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1715951",
+  "placeLabel": "Mitte",
+  "isCity": "false",
+  "coordinates": "Point(8.80722 53.0758)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q17278534"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1749657",
+  "placeLabel": "Indautxu",
+  "isCity": "false",
+  "coordinates": "Point(-2.94083333 43.26055556)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q8692"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1752800",
+  "placeLabel": "Allegheny",
+  "isCity": "true",
+  "coordinates": "Point(-80.02 40.45)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q156291"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1777599",
+  "placeLabel": "Ådalsbruk",
+  "isCity": "false",
+  "coordinates": "Point(11.308204 60.79314)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q488951"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1978692",
+  "placeLabel": "Ekely",
+  "isCity": "false",
+  "coordinates": "Point(10.670289 59.929192)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q5245991"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2013767",
+  "placeLabel": "Berlin-Mitte",
+  "isCity": "false",
+  "coordinates": "Point(13.406667 52.519444)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7032557",
+  "parent": "http://www.wikidata.org/entity/Q163966"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2018451",
+  "placeLabel": "Old Patent Office Building",
+  "isCity": "false",
+  "coordinates": "Point(-77.0229 38.8978)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2063264",
+  "placeLabel": "Lattrop",
+  "isCity": "true",
+  "coordinates": "Point(6.9753 52.4278)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q9999"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2118294",
+  "placeLabel": "Aleje Jerozolimskie",
+  "isCity": "false",
+  "coordinates": "Point(21.011666666 52.23)",
+  "country": "http://www.wikidata.org/entity/Q36",
+  "parent": "http://www.wikidata.org/entity/Q270"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2178729",
+  "placeLabel": "Atuona",
+  "isCity": "false",
+  "coordinates": "Point(-139.0396 -9.803)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q745311"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2185491",
+  "placeLabel": "East Bergholt",
+  "isCity": "true",
+  "coordinates": "Point(1.016761111 51.9759)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q797643"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q19362502",
+  "placeLabel": "Kunstmuseum und Kunsthistorisches Seminar (building)",
+  "isCity": "false",
+  "coordinates": "Point(7.44344 46.95092)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q70"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q19387992",
+  "placeLabel": "Le Prieuré",
+  "isCity": "false",
+  "coordinates": "Point(2.087394 48.892752)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q60847808"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q21693433",
+  "placeLabel": "City of Bristol",
+  "isCity": "false",
+  "coordinates": "Point(-2.583333333 51.45)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7019018",
+  "parent": "http://www.wikidata.org/entity/Q48026"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q22452277",
+  "placeLabel": "Deutweg",
+  "isCity": "false",
+  "coordinates": "Point(8.73948 47.49419)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q1909327"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q22915413",
+  "placeLabel": "Palais épiscopal de Troyes",
+  "isCity": "false",
+  "coordinates": "Point(4.082373 48.300191)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q5489"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q22940711",
+  "placeLabel": "Episcopal palace of Chartres",
+  "isCity": "false",
+  "coordinates": "Point(1.487821 48.448886)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q130272"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q23041988",
+  "placeLabel": "Maiden Lane",
+  "isCity": "false",
+  "coordinates": "Point(-0.1229 51.5107)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q25",
+  "placeLabel": "Wales",
+  "isCity": "false",
+  "coordinates": "Point(-3.633333333 52.35)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7002443",
+  "parent": "http://www.wikidata.org/entity/Q145"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q239",
+  "placeLabel": "Brussels",
+  "isCity": "true",
+  "coordinates": "Point(4.351666666 50.846666666)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7007868",
+  "parent": "http://www.wikidata.org/entity/Q90870"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q240",
+  "placeLabel": "Brussels-Capital Region",
+  "isCity": "true",
+  "coordinates": "Point(4.3525 50.846666666)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7018237",
+  "parent": "http://www.wikidata.org/entity/Q31"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q342",
+  "placeLabel": "Quimper",
+  "isCity": "true",
+  "coordinates": "Point(-4.097777777 47.995833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008262",
+  "parent": "http://www.wikidata.org/entity/Q702161"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2807",
+  "placeLabel": "Madrid",
+  "isCity": "true",
+  "coordinates": "Point(-3.703333333 40.416944444)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "tgnId": "7010413",
+  "parent": "http://www.wikidata.org/entity/Q5756"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3167",
+  "placeLabel": "Siegen",
+  "isCity": "true",
+  "coordinates": "Point(8.016666666 50.875555555)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7012712",
+  "parent": "http://www.wikidata.org/entity/Q5982"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3354",
+  "placeLabel": "5th arrondissement of Lyon",
+  "isCity": "false",
+  "coordinates": "Point(4.799044444 45.75845)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q456"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3561",
+  "placeLabel": "Algiers",
+  "isCity": "true",
+  "coordinates": "Point(3.058611111 36.776388888)",
+  "country": "http://www.wikidata.org/entity/Q262",
+  "tgnId": "7001314",
+  "parent": "http://www.wikidata.org/entity/Q141026"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3584",
+  "placeLabel": "Nový Jičín",
+  "isCity": "true",
+  "coordinates": "Point(18.010308756 49.594368444)",
+  "country": "http://www.wikidata.org/entity/Q213",
+  "parent": "http://www.wikidata.org/entity/Q517427"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q23436",
+  "placeLabel": "Edinburgh",
+  "isCity": "true",
+  "coordinates": "Point(-3.189166666 55.953333333)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7009546",
+  "parent": "http://www.wikidata.org/entity/Q2379199"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q23482",
+  "placeLabel": "Marseille",
+  "isCity": "true",
+  "coordinates": "Point(5.376388888 43.296666666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008781",
+  "parent": "http://www.wikidata.org/entity/Q3240"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q26421",
+  "placeLabel": "Dordrecht",
+  "isCity": "true",
+  "coordinates": "Point(4.678333333 51.795833333)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "1006976",
+  "parent": "http://www.wikidata.org/entity/Q694"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q26881",
+  "placeLabel": "Helsingør",
+  "isCity": "true",
+  "coordinates": "Point(12.6106 56.036)",
+  "country": "http://www.wikidata.org/entity/Q35",
+  "parent": "http://www.wikidata.org/entity/Q511546"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q30974",
+  "placeLabel": "Rouen",
+  "isCity": "true",
+  "coordinates": "Point(1.1025 49.443055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008929",
+  "parent": "http://www.wikidata.org/entity/Q12758"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q33959",
+  "placeLabel": "Nice",
+  "isCity": "true",
+  "coordinates": "Point(7.268333333 43.701944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008773",
+  "parent": "http://www.wikidata.org/entity/Q701950"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q34001",
+  "placeLabel": "Roubaix",
+  "isCity": "true",
+  "coordinates": "Point(3.181666666 50.69)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701510"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q34370",
+  "placeLabel": "Rotterdam",
+  "isCity": "true",
+  "coordinates": "Point(4.48 51.92)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006792",
+  "parent": "http://www.wikidata.org/entity/Q2680952"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q34713",
+  "placeLabel": "Salzburg",
+  "isCity": "true",
+  "coordinates": "Point(13.045 47.8)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "tgnId": "7003256",
+  "parent": "http://www.wikidata.org/entity/Q43325"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q236058",
+  "placeLabel": "Orly",
+  "isCity": "true",
+  "coordinates": "Point(2.392777777 48.743611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12788"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q236136",
+  "placeLabel": "Villiers-le-Bel",
+  "isCity": "true",
+  "coordinates": "Point(2.390277777 49.008888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1036198",
+  "parent": "http://www.wikidata.org/entity/Q702466"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q238377",
+  "placeLabel": "Pont-Aven",
+  "isCity": "true",
+  "coordinates": "Point(-3.747222222 47.855555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3389"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q240752",
+  "placeLabel": "Chatou",
+  "isCity": "true",
+  "coordinates": "Point(2.156944444 48.890555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12820"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q245546",
+  "placeLabel": "6th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.332233333 48.850530555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q246199",
+  "placeLabel": "Garches",
+  "isCity": "true",
+  "coordinates": "Point(2.186944444 48.845555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q254767",
+  "placeLabel": "Schlitters",
+  "isCity": "true",
+  "coordinates": "Point(11.816666666 47.366666666)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "parent": "http://www.wikidata.org/entity/Q266685"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q256175",
+  "placeLabel": "Barbizon",
+  "isCity": "true",
+  "coordinates": "Point(2.605 48.445833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008938",
+  "parent": "http://www.wikidata.org/entity/Q12753"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q258059",
+  "placeLabel": "Tournan-en-Brie",
+  "isCity": "true",
+  "coordinates": "Point(2.768055555 48.740555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12753"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q269166",
+  "placeLabel": "Fontenay-aux-Roses",
+  "isCity": "true",
+  "coordinates": "Point(2.285555555 48.789166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q270230",
+  "placeLabel": "8th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.311111111 48.874166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7030288",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q272243",
+  "placeLabel": "Saint-Josse-ten-Noode",
+  "isCity": "true",
+  "coordinates": "Point(4.369166666 50.850833333)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7030303",
+  "parent": "http://www.wikidata.org/entity/Q90870"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q273695",
+  "placeLabel": "Écouen",
+  "isCity": "true",
+  "coordinates": "Point(2.381111111 49.018611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12784"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q274327",
+  "placeLabel": "Saint-Maurice",
+  "isCity": "true",
+  "coordinates": "Point(2.434722222 48.818333333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12788"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q275118",
+  "placeLabel": "9th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.336966666 48.878280555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q309458",
+  "placeLabel": "Jardin du Luxembourg",
+  "isCity": "false",
+  "coordinates": "Point(2.337222222 48.846944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q245546"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q318418",
+  "placeLabel": "Vilvoorde",
+  "isCity": "true",
+  "coordinates": "Point(4.424488888 50.928138888)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7008817",
+  "parent": "http://www.wikidata.org/entity/Q93368"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q325187",
+  "placeLabel": "Mortain",
+  "isCity": "true",
+  "coordinates": "Point(-0.940833333 48.647777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12589"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q329103",
+  "placeLabel": "Le Cateau-Cambrésis",
+  "isCity": "true",
+  "coordinates": "Point(3.541111111 50.105277777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "4006209",
+  "parent": "http://www.wikidata.org/entity/Q12661"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q333559",
+  "placeLabel": "Granville",
+  "isCity": "true",
+  "coordinates": "Point(-1.586944444 48.838055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q700557"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2399655",
+  "placeLabel": "Museumpark",
+  "isCity": "false",
+  "coordinates": "Point(4.473889 51.9125)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q2680952"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2698691",
+  "placeLabel": "Gare d'Orsay",
+  "isCity": "false",
+  "coordinates": "Point(2.325391666 48.860283333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3413129"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2820699",
+  "placeLabel": "Palais Saint-Pierre",
+  "isCity": "false",
+  "coordinates": "Point(4.83363 45.766846)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3337"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845749",
+  "placeLabel": "former 10th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.329374 48.852668)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845753",
+  "placeLabel": "former 2nd arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.340506 48.872674)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845754",
+  "placeLabel": "former 3rd arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.340592 48.866834)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845755",
+  "placeLabel": "former 4th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.344412 48.859609)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845756",
+  "placeLabel": "former 5th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.357461 48.87197)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2845761",
+  "placeLabel": "former 8th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.366374 48.855465)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2967945",
+  "placeLabel": "Château Malromé",
+  "isCity": "false",
+  "coordinates": "Point(-0.213333 44.6025)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q194580"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3057900",
+  "placeLabel": "Eschviller",
+  "isCity": "true",
+  "coordinates": "Point(7.3815 49.1328)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12652"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3092701",
+  "placeLabel": "Féronstrée et Hors-Château",
+  "isCity": "false",
+  "coordinates": "Point(5.580625 50.646786)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "parent": "http://www.wikidata.org/entity/Q3992"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3140127",
+  "placeLabel": "Honjo",
+  "isCity": "false",
+  "coordinates": "Point(139.802297222 35.703802777)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q235135"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3145715",
+  "placeLabel": "hôtel d'Assézat",
+  "isCity": "false",
+  "coordinates": "Point(1.44203 43.6003)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q7880"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3257973",
+  "placeLabel": "Logis Barrault",
+  "isCity": "false",
+  "coordinates": "Point(-0.55417 47.4692)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q38380"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3360841",
+  "placeLabel": "Palais Carnolès",
+  "isCity": "false",
+  "coordinates": "Point(7.48871 43.7674)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q180083"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3361047",
+  "placeLabel": "Palais de la Berbie",
+  "isCity": "false",
+  "coordinates": "Point(2.14306 43.9292)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q132801"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3447053",
+  "placeLabel": "rue Ballu",
+  "isCity": "false",
+  "coordinates": "Point(2.32991 48.8819)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3448677",
+  "placeLabel": "rue La Bruyère",
+  "isCity": "false",
+  "coordinates": "Point(2.33327 48.8796)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q25861166",
+  "placeLabel": "Rijksmuseum",
+  "isCity": "false",
+  "coordinates": "Point(4.885333333 52.359972222)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q9899"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q28528515",
+  "placeLabel": "Mas Notre-Dame-de-Vie de Mougins",
+  "isCity": "false",
+  "coordinates": "Point(7.00506 43.594882)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q220673"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q29479561",
+  "placeLabel": "musée d'art et d'histoire",
+  "isCity": "false",
+  "coordinates": "Point(6.15136 46.19936)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q71"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q61",
+  "placeLabel": "Washington, D.C.",
+  "isCity": "true",
+  "coordinates": "Point(-77.036666666 38.895)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013962",
+  "parent": "http://www.wikidata.org/entity/Q3551781"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q62",
+  "placeLabel": "San Francisco",
+  "isCity": "true",
+  "coordinates": "Point(-122.419444444 37.775)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014456",
+  "parent": "http://www.wikidata.org/entity/Q99"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q65",
+  "placeLabel": "Los Angeles",
+  "isCity": "true",
+  "coordinates": "Point(-118.24368 34.05223)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7023900",
+  "parent": "http://www.wikidata.org/entity/Q104994"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q456",
+  "placeLabel": "Lyon",
+  "isCity": "true",
+  "coordinates": "Point(4.835 45.7675)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008772",
+  "parent": "http://www.wikidata.org/entity/Q16665897"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q585",
+  "placeLabel": "Oslo",
+  "isCity": "true",
+  "coordinates": "Point(10.738888888 59.913333333)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "tgnId": "7009573",
+  "parent": "http://www.wikidata.org/entity/Q5245991"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q647",
+  "placeLabel": "Rennes",
+  "isCity": "true",
+  "coordinates": "Point(-1.680833333 48.114166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008263",
+  "parent": "http://www.wikidata.org/entity/Q12549"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q648",
+  "placeLabel": "Lille",
+  "isCity": "true",
+  "coordinates": "Point(3.0575 50.631944444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008461",
+  "parent": "http://www.wikidata.org/entity/Q12661"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q649",
+  "placeLabel": "Moscow",
+  "isCity": "true",
+  "coordinates": "Point(37.6175 55.750555555)",
+  "country": "http://www.wikidata.org/entity/Q159",
+  "tgnId": "7012974",
+  "parent": "http://www.wikidata.org/entity/Q159"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q656",
+  "placeLabel": "Saint Petersburg",
+  "isCity": "true",
+  "coordinates": "Point(30.316666666 59.95)",
+  "country": "http://www.wikidata.org/entity/Q159",
+  "tgnId": "7010273",
+  "parent": "http://www.wikidata.org/entity/Q159"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3992",
+  "placeLabel": "Liège",
+  "isCity": "true",
+  "coordinates": "Point(5.570555555 50.639722222)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7007945",
+  "parent": "http://www.wikidata.org/entity/Q94000"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q4093",
+  "placeLabel": "Glasgow",
+  "isCity": "true",
+  "coordinates": "Point(-4.25 55.861111111)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7017283",
+  "parent": "http://www.wikidata.org/entity/Q55934339"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q4098",
+  "placeLabel": "Greifswald",
+  "isCity": "true",
+  "coordinates": "Point(13.383333333 54.083333333)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q2917"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5083",
+  "placeLabel": "Seattle",
+  "isCity": "true",
+  "coordinates": "Point(-122.33 47.605)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014494",
+  "parent": "http://www.wikidata.org/entity/Q108861"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6346",
+  "placeLabel": "Indianapolis",
+  "isCity": "true",
+  "coordinates": "Point(-86.158055555 39.768611111)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7012924",
+  "parent": "http://www.wikidata.org/entity/Q506230"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6441",
+  "placeLabel": "Montpellier",
+  "isCity": "true",
+  "coordinates": "Point(3.877230555 43.610919444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7009369",
+  "parent": "http://www.wikidata.org/entity/Q12545"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6582",
+  "placeLabel": "Carcassonne",
+  "isCity": "true",
+  "coordinates": "Point(2.351388888 43.215833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3207"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6602",
+  "placeLabel": "Strasbourg",
+  "isCity": "true",
+  "coordinates": "Point(7.752222222 48.573333333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7012346",
+  "parent": "http://www.wikidata.org/entity/Q12717"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q36091",
+  "placeLabel": "Minneapolis",
+  "isCity": "true",
+  "coordinates": "Point(-93.269166666 44.981944444)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014080",
+  "parent": "http://www.wikidata.org/entity/Q486229"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q36600",
+  "placeLabel": "The Hague",
+  "isCity": "true",
+  "coordinates": "Point(4.31 52.08)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006810",
+  "parent": "http://www.wikidata.org/entity/Q694"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q37776",
+  "placeLabel": "Besançon",
+  "isCity": "true",
+  "coordinates": "Point(6.021388888 47.242222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008356",
+  "parent": "http://www.wikidata.org/entity/Q3361"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q37836",
+  "placeLabel": "Milwaukee",
+  "isCity": "true",
+  "coordinates": "Point(-87.95 43.05)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014071",
+  "parent": "http://www.wikidata.org/entity/Q502294"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q40435",
+  "placeLabel": "Buffalo",
+  "isCity": "true",
+  "coordinates": "Point(-78.878055555 42.886388888)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013463",
+  "parent": "http://www.wikidata.org/entity/Q114843"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q40844",
+  "placeLabel": "Breda",
+  "isCity": "true",
+  "coordinates": "Point(4.775833333 51.588888888)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006827",
+  "parent": "http://www.wikidata.org/entity/Q9822"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q40898",
+  "placeLabel": "Nancy",
+  "isCity": "true",
+  "coordinates": "Point(6.183611111 48.692777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008412",
+  "parent": "http://www.wikidata.org/entity/Q12626"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q41068",
+  "placeLabel": "Paulista Avenue",
+  "isCity": "false",
+  "coordinates": "Point(-46.656388888 -23.561388888)",
+  "country": "http://www.wikidata.org/entity/Q155",
+  "parent": "http://www.wikidata.org/entity/Q174"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q42448",
+  "placeLabel": "Sheffield",
+  "isCity": "true",
+  "coordinates": "Point(-1.470277777 53.380833333)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7010692",
+  "parent": "http://www.wikidata.org/entity/Q12956644"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q42716",
+  "placeLabel": "Saint-Étienne",
+  "isCity": "true",
+  "coordinates": "Point(4.389722222 45.433888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12569"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q42810",
+  "placeLabel": "Le Havre",
+  "isCity": "true",
+  "coordinates": "Point(0.108055555 49.494166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008927",
+  "parent": "http://www.wikidata.org/entity/Q701434"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q43196",
+  "placeLabel": "Cincinnati",
+  "isCity": "true",
+  "coordinates": "Point(-84.5125 39.1)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013604",
+  "parent": "http://www.wikidata.org/entity/Q152891"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q43631",
+  "placeLabel": "Leiden",
+  "isCity": "true",
+  "coordinates": "Point(4.49 52.16)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006809",
+  "parent": "http://www.wikidata.org/entity/Q694"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q45656",
+  "placeLabel": "Limoges",
+  "isCity": "true",
+  "coordinates": "Point(1.261666666 45.834444444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008410",
+  "parent": "http://www.wikidata.org/entity/Q12808"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q47045",
+  "placeLabel": "Saint-Denis",
+  "isCity": "true",
+  "coordinates": "Point(55.448055555 -20.878888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1092341",
+  "parent": "http://www.wikidata.org/entity/Q17070"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q47465",
+  "placeLabel": "Aix-en-Provence",
+  "isCity": "true",
+  "coordinates": "Point(5.445555555 43.527777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7010786",
+  "parent": "http://www.wikidata.org/entity/Q3240"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q48958",
+  "placeLabel": "Neuilly-sur-Seine",
+  "isCity": "true",
+  "coordinates": "Point(2.2675 48.887222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7009402",
+  "parent": "http://www.wikidata.org/entity/Q12543"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q49111",
+  "placeLabel": "Cambridge",
+  "isCity": "true",
+  "coordinates": "Point(-71.106111111 42.375)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013527",
+  "parent": "http://www.wikidata.org/entity/Q54073"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q49162",
+  "placeLabel": "Lowell",
+  "isCity": "true",
+  "coordinates": "Point(-71.314722222 42.639444444)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013975",
+  "parent": "http://www.wikidata.org/entity/Q54073"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q49179",
+  "placeLabel": "Worcester",
+  "isCity": "true",
+  "coordinates": "Point(-71.798888888 42.271388888)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014647",
+  "parent": "http://www.wikidata.org/entity/Q54093"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q49239",
+  "placeLabel": "Toledo",
+  "isCity": "true",
+  "coordinates": "Point(-83.537777777 41.652777777)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q112107"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q51681",
+  "placeLabel": "Charlotte Amalie",
+  "isCity": "true",
+  "coordinates": "Point(-64.95 18.35)",
+  "country": "http://www.wikidata.org/entity/Q11703",
+  "parent": "http://www.wikidata.org/entity/Q133933809"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q52785",
+  "placeLabel": "Chevilly",
+  "isCity": "false",
+  "coordinates": "Point(6.483333333 46.65)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q660462"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q426379",
+  "placeLabel": "Monchy-Saint-Éloi",
+  "isCity": "true",
+  "coordinates": "Point(2.467222222 49.29)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12675"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q455587",
+  "placeLabel": "Upper East Side",
+  "isCity": "false",
+  "coordinates": "Point(-73.965555555 40.769166666)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q11299"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q476288",
+  "placeLabel": "Mortagne-au-Perche",
+  "isCity": "true",
+  "coordinates": "Point(0.547222222 48.520277777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7018817",
+  "parent": "http://www.wikidata.org/entity/Q12679"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q494957",
+  "placeLabel": "Landunvez",
+  "isCity": "true",
+  "coordinates": "Point(-4.726944444 48.5325)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3389"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q499537",
+  "placeLabel": "Ornans",
+  "isCity": "true",
+  "coordinates": "Point(6.143055555 47.105277777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3361"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q504125",
+  "placeLabel": "Copenhagen Municipality",
+  "isCity": "true",
+  "coordinates": "Point(12.55 55.68333333)",
+  "country": "http://www.wikidata.org/entity/Q35",
+  "parent": "http://www.wikidata.org/entity/Q26073"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q504239",
+  "placeLabel": "Mora Municipality",
+  "isCity": "true",
+  "coordinates": "Point(14.533333333 61.016666666)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q103732"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q519552",
+  "placeLabel": "Landstraße",
+  "isCity": "false",
+  "coordinates": "Point(16.395833333 48.196388888)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "parent": "http://www.wikidata.org/entity/Q1741"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q606860",
+  "placeLabel": "Vestre Aker",
+  "isCity": "false",
+  "coordinates": "Point(10.67219 59.95002)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q5245991"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5083136",
+  "placeLabel": "Charles Village",
+  "isCity": "false",
+  "coordinates": "Point(-76.615 39.326)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q5092"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5086153",
+  "placeLabel": "Charlotte Street",
+  "isCity": "false",
+  "coordinates": "Point(-0.13591 51.5196)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q179351"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5094624",
+  "placeLabel": "Cheyne Walk",
+  "isCity": "false",
+  "coordinates": "Point(-0.1727 51.4823)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q188801"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5358601",
+  "placeLabel": "Palace of Villahermosa",
+  "isCity": "false",
+  "coordinates": "Point(-3.695162 40.415695)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q2807"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5722492",
+  "placeLabel": "District 6",
+  "isCity": "false",
+  "coordinates": "Point(51.403888888 35.723888888)",
+  "country": "http://www.wikidata.org/entity/Q794",
+  "parent": "http://www.wikidata.org/entity/Q3616"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5818335",
+  "placeLabel": "Villanueva building",
+  "isCity": "false",
+  "coordinates": "Point(-3.6925 40.413889)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q10306766"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q35881361",
+  "placeLabel": "musée des beaux-arts",
+  "isCity": "false",
+  "coordinates": "Point(1.094722222 49.444722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q30974"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q42296997",
+  "placeLabel": "Rietveldgebouw Van Gogh Museum",
+  "isCity": "false",
+  "coordinates": "Point(4.88107 52.35837)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q9899"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q54803598",
+  "placeLabel": "Stadtbezirk II (Essen)",
+  "isCity": "false",
+  "coordinates": "Point(7.0245 51.42711)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q2066"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q54863582",
+  "placeLabel": "Palazzo delle Belle Arti",
+  "isCity": "false",
+  "coordinates": "Point(12.482229 41.916344)",
+  "country": "http://www.wikidata.org/entity/Q38",
+  "parent": "http://www.wikidata.org/entity/Q220"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q65936118",
+  "placeLabel": "Building of the Kunstmuseum Den Haag",
+  "isCity": "false",
+  "coordinates": "Point(4.280694 52.089389)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q36600"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q71",
+  "placeLabel": "Geneva",
+  "isCity": "true",
+  "coordinates": "Point(6.15 46.2)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007279",
+  "parent": "http://www.wikidata.org/entity/Q11917"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q72",
+  "placeLabel": "Zurich",
+  "isCity": "true",
+  "coordinates": "Point(8.541111111 47.374444444)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007302",
+  "parent": "http://www.wikidata.org/entity/Q660732"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q84",
+  "placeLabel": "London",
+  "isCity": "true",
+  "coordinates": "Point(-0.1275 51.507222222)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7011781",
+  "parent": "http://www.wikidata.org/entity/Q23306"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q90",
+  "placeLabel": "Paris",
+  "isCity": "true",
+  "coordinates": "Point(2.352222222 48.856666666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008038",
+  "parent": "http://www.wikidata.org/entity/Q16665915"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q727",
+  "placeLabel": "Amsterdam",
+  "isCity": "true",
+  "coordinates": "Point(4.883333333 52.366666666)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006952",
+  "parent": "http://www.wikidata.org/entity/Q9899"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q771",
+  "placeLabel": "Massachusetts",
+  "isCity": "false",
+  "coordinates": "Point(-71.8 42.3)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7007517",
+  "parent": "http://www.wikidata.org/entity/Q30"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q807",
+  "placeLabel": "Lausanne",
+  "isCity": "true",
+  "coordinates": "Point(6.633333333 46.533333333)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007299",
+  "parent": "http://www.wikidata.org/entity/Q660628"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q7880",
+  "placeLabel": "Toulouse",
+  "isCity": "true",
+  "coordinates": "Point(1.443333333 43.604444444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008441",
+  "parent": "http://www.wikidata.org/entity/Q12538"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8686",
+  "placeLabel": "Shanghai",
+  "isCity": "true",
+  "coordinates": "Point(121.469166666 31.2325)",
+  "country": "http://www.wikidata.org/entity/Q148",
+  "tgnId": "1000958",
+  "parent": "http://www.wikidata.org/entity/Q148"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8717",
+  "placeLabel": "Seville",
+  "isCity": "true",
+  "coordinates": "Point(-5.995555555 37.388611111)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "tgnId": "7008676",
+  "parent": "http://www.wikidata.org/entity/Q95088"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8818",
+  "placeLabel": "Valencia",
+  "isCity": "true",
+  "coordinates": "Point(-0.376388888 39.47)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "tgnId": "7008769",
+  "parent": "http://www.wikidata.org/entity/Q2263209"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8851",
+  "placeLabel": "Málaga",
+  "isCity": "true",
+  "coordinates": "Point(-4.416666666 36.716666666)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "tgnId": "7007942",
+  "parent": "http://www.wikidata.org/entity/Q95028"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q9125",
+  "placeLabel": "Winterthur",
+  "isCity": "true",
+  "coordinates": "Point(8.72671 47.4992)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007301",
+  "parent": "http://www.wikidata.org/entity/Q644300"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q9155",
+  "placeLabel": "Lagny-sur-Marne",
+  "isCity": "true",
+  "coordinates": "Point(2.706666666 48.878055555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12753"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q9883",
+  "placeLabel": "Zundert",
+  "isCity": "true",
+  "coordinates": "Point(4.66 51.4703)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q1101"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q68160",
+  "placeLabel": "Vevey",
+  "isCity": "true",
+  "coordinates": "Point(6.85 46.466666666)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q665689"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q69721",
+  "placeLabel": "La Tour-de-Peilz",
+  "isCity": "true",
+  "coordinates": "Point(6.866666666 46.45)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007393",
+  "parent": "http://www.wikidata.org/entity/Q665689"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q79848",
+  "placeLabel": "Southampton",
+  "isCity": "true",
+  "coordinates": "Point(-1.404444444 50.906666666)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7011385",
+  "parent": "http://www.wikidata.org/entity/Q21683230"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q663912",
+  "placeLabel": "Rueil-la-Gadelière",
+  "isCity": "true",
+  "coordinates": "Point(0.976388888 48.714722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3377"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q687025",
+  "placeLabel": "Baumgarten",
+  "isCity": "false",
+  "coordinates": "Point(16.2744 48.1964)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "parent": "http://www.wikidata.org/entity/Q690335"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q694780",
+  "placeLabel": "Arnold",
+  "isCity": "true",
+  "coordinates": "Point(-1.122 53.0)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q1497633"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q698582",
+  "placeLabel": "Arp Museum Bahnhof Rolandseck",
+  "isCity": "false",
+  "coordinates": "Point(7.20694 50.6314)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q486548"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q720644",
+  "placeLabel": "Asakusa",
+  "isCity": "false",
+  "coordinates": "Point(139.796516666 35.714922222)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q232641"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q726781",
+  "placeLabel": "Musée de l'Orangerie",
+  "isCity": "false",
+  "coordinates": "Point(2.322538337 48.863845351)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q161741"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q730706",
+  "placeLabel": "London Borough of Southwark",
+  "isCity": "false",
+  "coordinates": "Point(-0.080555555 51.503333333)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7018929",
+  "parent": "http://www.wikidata.org/entity/Q23306"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q735433",
+  "placeLabel": "Cuiseaux",
+  "isCity": "true",
+  "coordinates": "Point(5.387777777 46.494166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1032874",
+  "parent": "http://www.wikidata.org/entity/Q701568"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q736462",
+  "placeLabel": "Le Lavandou",
+  "isCity": "true",
+  "coordinates": "Point(6.367777777 43.137777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12789"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q737538",
+  "placeLabel": "Sint-Martens-Latem",
+  "isCity": "true",
+  "coordinates": "Point(3.637777777 51.018611111)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "7253069",
+  "parent": "http://www.wikidata.org/entity/Q90948"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q738230",
+  "placeLabel": "Spaarne",
+  "isCity": "false",
+  "coordinates": "Point(4.6397 52.3389)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q701"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q743535",
+  "placeLabel": "Chelsea",
+  "isCity": "false",
+  "coordinates": "Point(-0.1684 51.4875)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "4012680",
+  "parent": "http://www.wikidata.org/entity/Q188801"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q752898",
+  "placeLabel": "Beaune-la-Rolande",
+  "isCity": "true",
+  "coordinates": "Point(2.429166666 48.069722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12574"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q753075",
+  "placeLabel": "Sants-Montjuïc",
+  "isCity": "false",
+  "coordinates": "Point(2.1406 41.3372)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q1492"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q767634",
+  "placeLabel": "Gréville-Hague",
+  "isCity": "true",
+  "coordinates": "Point(-1.800833333 49.674722222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12589"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q818517",
+  "placeLabel": "Tuileries Garden",
+  "isCity": "false",
+  "coordinates": "Point(2.326111111 48.863888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q161741"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q818804",
+  "placeLabel": "Berchem",
+  "isCity": "true",
+  "coordinates": "Point(4.4214 51.1931)",
+  "country": "http://www.wikidata.org/entity/Q31",
+  "tgnId": "1136644",
+  "parent": "http://www.wikidata.org/entity/Q12892"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q820892",
+  "placeLabel": "Petit Palais",
+  "isCity": "false",
+  "coordinates": "Point(2.314555555 48.866027777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q270230"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q864123",
+  "placeLabel": "La Côte-Saint-André",
+  "isCity": "true",
+  "coordinates": "Point(5.260555555 45.393611111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12559"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q895077",
+  "placeLabel": "boulevard de Magenta",
+  "isCity": "false",
+  "coordinates": "Point(2.35722222 48.87472222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q163948"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q911450",
+  "placeLabel": "L'Isle-Adam",
+  "isCity": "true",
+  "coordinates": "Point(2.222777777 49.111111111)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1033570",
+  "parent": "http://www.wikidata.org/entity/Q702112"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q936633",
+  "placeLabel": "Palais Bourbon",
+  "isCity": "false",
+  "coordinates": "Point(2.318681 48.862072)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q259463"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6783765",
+  "placeLabel": "Masonic Temple",
+  "isCity": "false",
+  "coordinates": "Point(-77.029444 38.9)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q61"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6843078",
+  "placeLabel": "Midtown Detroit",
+  "isCity": "false",
+  "coordinates": "Point(-83.0594 42.3506)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q12439"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q6924327",
+  "placeLabel": "Mount Vernon",
+  "isCity": "false",
+  "coordinates": "Point(-76.615833333 39.2975)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q5092"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q7332561",
+  "placeLabel": "Rideau-Vanier Ward",
+  "isCity": "false",
+  "coordinates": "Point(-75.6833 45.4333)",
+  "country": "http://www.wikidata.org/entity/Q16",
+  "parent": "http://www.wikidata.org/entity/Q1930"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8018749",
+  "placeLabel": "William Starr Miller House",
+  "isCity": "false",
+  "coordinates": "Point(-73.9602 40.7813)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "parent": "http://www.wikidata.org/entity/Q11299"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q96099935",
+  "placeLabel": "Valvins",
+  "isCity": "false",
+  "coordinates": "Point(2.74411 48.426629)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q250106"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q96178796",
+  "placeLabel": "cemetery of Moret-sur-Loing",
+  "isCity": "false",
+  "coordinates": "Point(2.806106 48.36786)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q28484568"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q30",
+  "placeLabel": "United States",
+  "isCity": "false",
+  "coordinates": "Point(-98.5795 39.828175)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7012149"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q70",
+  "placeLabel": "Bern",
+  "isCity": "true",
+  "coordinates": "Point(7.44743 46.94798)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007557",
+  "parent": "http://www.wikidata.org/entity/Q666217"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q78",
+  "placeLabel": "Basel",
+  "isCity": "true",
+  "coordinates": "Point(7.590555555 47.560555555)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7007269",
+  "parent": "http://www.wikidata.org/entity/Q12172"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q145",
+  "placeLabel": "United Kingdom",
+  "isCity": "false",
+  "coordinates": "Point(-2.0 54.6)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7008591"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q174",
+  "placeLabel": "São Paulo",
+  "isCity": "true",
+  "coordinates": "Point(-46.633947222 -23.550394444)",
+  "country": "http://www.wikidata.org/entity/Q155",
+  "tgnId": "7017121",
+  "parent": "http://www.wikidata.org/entity/Q175"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q270",
+  "placeLabel": "Warsaw",
+  "isCity": "true",
+  "coordinates": "Point(21.011111111 52.23)",
+  "country": "http://www.wikidata.org/entity/Q36",
+  "tgnId": "1002048",
+  "parent": "http://www.wikidata.org/entity/Q54169"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q701",
+  "placeLabel": "North Holland",
+  "isCity": "false",
+  "coordinates": "Point(4.833333333 52.666666666)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "tgnId": "7006951",
+  "parent": "http://www.wikidata.org/entity/Q55"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1492",
+  "placeLabel": "Barcelona",
+  "isCity": "true",
+  "coordinates": "Point(2.176944444 41.3825)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "tgnId": "7007426",
+  "parent": "http://www.wikidata.org/entity/Q15348"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1626",
+  "placeLabel": "Hamburg-Mitte",
+  "isCity": "false",
+  "coordinates": "Point(9.994166666 53.550277777)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q1055"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1930",
+  "placeLabel": "Ottawa",
+  "isCity": "true",
+  "coordinates": "Point(-75.695 45.424722222)",
+  "country": "http://www.wikidata.org/entity/Q16",
+  "tgnId": "7013088",
+  "parent": "http://www.wikidata.org/entity/Q1904"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2066",
+  "placeLabel": "Essen",
+  "isCity": "true",
+  "coordinates": "Point(7.013055555 51.450833333)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004905",
+  "parent": "http://www.wikidata.org/entity/Q7926"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2256",
+  "placeLabel": "Birmingham",
+  "isCity": "true",
+  "coordinates": "Point(-1.9025 52.48)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7010955",
+  "parent": "http://www.wikidata.org/entity/Q20986424"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3005",
+  "placeLabel": "Altstadt-Nord",
+  "isCity": "false",
+  "coordinates": "Point(6.956111111 50.938888888)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q446857"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3337",
+  "placeLabel": "1st arrondissement of Lyon",
+  "isCity": "false",
+  "coordinates": "Point(4.833627777 45.768719444)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q456"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3616",
+  "placeLabel": "Tehran",
+  "isCity": "true",
+  "coordinates": "Point(51.389722222 35.688888888)",
+  "country": "http://www.wikidata.org/entity/Q794",
+  "tgnId": "7002157",
+  "parent": "http://www.wikidata.org/entity/Q5060982"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5092",
+  "placeLabel": "Baltimore",
+  "isCity": "true",
+  "coordinates": "Point(-76.615 39.286388888)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7021987",
+  "parent": "http://www.wikidata.org/entity/Q1391"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5489",
+  "placeLabel": "Troyes",
+  "isCity": "true",
+  "coordinates": "Point(4.078055555 48.298888888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008350",
+  "parent": "http://www.wikidata.org/entity/Q3194"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q8692",
+  "placeLabel": "Bilbao",
+  "isCity": "true",
+  "coordinates": "Point(-2.935 43.263055555)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q2355185"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q9899",
+  "placeLabel": "Amsterdam",
+  "isCity": "true",
+  "coordinates": "Point(4.883333333 52.366666666)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q701"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q12191",
+  "placeLabel": "Nantes",
+  "isCity": "true",
+  "coordinates": "Point(-1.553888888 47.217222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008482",
+  "parent": "http://www.wikidata.org/entity/Q3068"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q12439",
+  "placeLabel": "Detroit",
+  "isCity": "true",
+  "coordinates": "Point(-83.0475 42.331666666)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013547",
+  "parent": "http://www.wikidata.org/entity/Q195664"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q23306",
+  "placeLabel": "Greater London",
+  "isCity": "false",
+  "coordinates": "Point(-0.1 51.52)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7008136",
+  "parent": "http://www.wikidata.org/entity/Q23939248"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q37320",
+  "placeLabel": "Cleveland",
+  "isCity": "true",
+  "coordinates": "Point(-81.694722222 41.499166666)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7013608",
+  "parent": "http://www.wikidata.org/entity/Q251267"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q38380",
+  "placeLabel": "Angers",
+  "isCity": "true",
+  "coordinates": "Point(-0.555555555 47.472777777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "7008480",
+  "parent": "http://www.wikidata.org/entity/Q12584"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q48026",
+  "placeLabel": "South West England",
+  "isCity": "false",
+  "coordinates": "Point(-3.22 50.96)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q21"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q49145",
+  "placeLabel": "New Haven",
+  "isCity": "true",
+  "coordinates": "Point(-72.925 41.308333333)",
+  "country": "http://www.wikidata.org/entity/Q30",
+  "tgnId": "7014210",
+  "parent": "http://www.wikidata.org/entity/Q117287005"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q130272",
+  "placeLabel": "Chartres",
+  "isCity": "true",
+  "coordinates": "Point(1.488333333 48.446666666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q3377"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q161741",
+  "placeLabel": "1st arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.342059 48.859947)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q96746729"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q163948",
+  "placeLabel": "10ᵗʰ arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.357852777 48.875508333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q163966",
+  "placeLabel": "Bezirk Mitte",
+  "isCity": "false",
+  "coordinates": "Point(13.366666666 52.516666666)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "1005101",
+  "parent": "http://www.wikidata.org/entity/Q64"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q187712",
+  "placeLabel": "Emirate of Abu Dhabi",
+  "isCity": "false",
+  "coordinates": "Point(54.0 23.666666666)",
+  "country": "http://www.wikidata.org/entity/Q878",
+  "parent": "http://www.wikidata.org/entity/Q878"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q188801",
+  "placeLabel": "Royal Borough of Kensington and Chelsea",
+  "isCity": "false",
+  "coordinates": "Point(-0.195277777 51.502222222)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "1004847",
+  "parent": "http://www.wikidata.org/entity/Q23306"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q194580",
+  "placeLabel": "Saint-André-du-Bois",
+  "isCity": "true",
+  "coordinates": "Point(-0.183055555 44.605)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12526"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q230094",
+  "placeLabel": "4th arrondissement of C est Marseille BEBE",
+  "isCity": "false",
+  "coordinates": "Point(5.401944444 43.305833333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q23482"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q232641",
+  "placeLabel": "Taitō-ku",
+  "isCity": "true",
+  "coordinates": "Point(139.779972222 35.712611111)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q1490"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q235135",
+  "placeLabel": "Sumida",
+  "isCity": "true",
+  "coordinates": "Point(139.8015 35.710694444)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q1490"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q250106",
+  "placeLabel": "Samois-sur-Seine",
+  "isCity": "true",
+  "coordinates": "Point(2.75 48.452222222)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q701190"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q259463",
+  "placeLabel": "7th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.312777777 48.859166666)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q486548",
+  "placeLabel": "Remagen",
+  "isCity": "true",
+  "coordinates": "Point(7.230555555 50.578611111)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7012669",
+  "parent": "http://www.wikidata.org/entity/Q8596"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q488951",
+  "placeLabel": "Løten Municipality",
+  "isCity": "true",
+  "coordinates": "Point(11.390833333 60.825277777)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q56404886"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q500076",
+  "placeLabel": "Gentofte Municipality",
+  "isCity": "true",
+  "coordinates": "Point(12.552073 55.750472)",
+  "country": "http://www.wikidata.org/entity/Q35",
+  "parent": "http://www.wikidata.org/entity/Q26073"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q506250",
+  "placeLabel": "Stockholm",
+  "isCity": "true",
+  "coordinates": "Point(18.054719444 59.3275)",
+  "country": "http://www.wikidata.org/entity/Q34",
+  "parent": "http://www.wikidata.org/entity/Q104231"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q593629",
+  "placeLabel": "Krupka",
+  "isCity": "true",
+  "coordinates": "Point(13.858256809 50.684576839)",
+  "country": "http://www.wikidata.org/entity/Q213",
+  "parent": "http://www.wikidata.org/entity/Q852518"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q660462",
+  "placeLabel": "Morges District",
+  "isCity": "false",
+  "coordinates": "Point(6.5 46.5)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q12771"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q690335",
+  "placeLabel": "Penzing",
+  "isCity": "false",
+  "coordinates": "Point(16.3111 48.1989)",
+  "country": "http://www.wikidata.org/entity/Q40",
+  "tgnId": "1005328",
+  "parent": "http://www.wikidata.org/entity/Q1741"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q745311",
+  "placeLabel": "Hiva-Oa",
+  "isCity": "false",
+  "coordinates": "Point(-139.0175 -9.775277777)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q30971"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q858143",
+  "placeLabel": "Tobata-ku",
+  "isCity": "false",
+  "coordinates": "Point(130.829444444 33.894722222)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "parent": "http://www.wikidata.org/entity/Q123258"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1909327",
+  "placeLabel": "Mattenbach",
+  "isCity": "false",
+  "coordinates": "Point(8.747 47.487)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "parent": "http://www.wikidata.org/entity/Q9125"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2680952",
+  "placeLabel": "Rotterdam",
+  "isCity": "true",
+  "coordinates": "Point(4.416666666 51.95)",
+  "country": "http://www.wikidata.org/entity/Q55",
+  "parent": "http://www.wikidata.org/entity/Q694"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3413122",
+  "placeLabel": "Quartier Saint-Merri",
+  "isCity": "false",
+  "coordinates": "Point(2.35127 48.8588)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q230127"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q3413129",
+  "placeLabel": "Saint-Thomas-d'Aquin",
+  "isCity": "false",
+  "coordinates": "Point(2.32509 48.8556)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q259463"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q5245991",
+  "placeLabel": "Oslo Municipality",
+  "isCity": "true",
+  "coordinates": "Point(10.73367 59.91183)",
+  "country": "http://www.wikidata.org/entity/Q20",
+  "parent": "http://www.wikidata.org/entity/Q20"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q10306766",
+  "placeLabel": "Jerónimos",
+  "isCity": "false",
+  "coordinates": "Point(-3.69083333 40.41388889)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q2002296"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q17278534",
+  "placeLabel": "Bremen-Mitte",
+  "isCity": "false",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q24879"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q18678082",
+  "placeLabel": "Nouvelle-Aquitaine",
+  "isCity": "false",
+  "coordinates": "Point(-0.583333333 44.833333333)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "8711853",
+  "parent": "http://www.wikidata.org/entity/Q212429"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q27894563",
+  "placeLabel": "Comuna 2",
+  "isCity": "false",
+  "coordinates": "Point(-58.390556 -34.590556)",
+  "country": "http://www.wikidata.org/entity/Q414",
+  "parent": "http://www.wikidata.org/entity/Q1486"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q28484568",
+  "placeLabel": "Moret-Loing-et-Orvanne",
+  "isCity": "true",
+  "coordinates": "Point(2.824172222 48.364688888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12753"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q60847808",
+  "placeLabel": "Saint-Germain-en-Laye",
+  "isCity": "true",
+  "coordinates": "Point(2.090555555 48.896388888)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q12820"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q21",
+  "placeLabel": "England",
+  "isCity": "false",
+  "coordinates": "Point(-1.0 53.0)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "tgnId": "7002445",
+  "parent": "http://www.wikidata.org/entity/Q145"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q55",
+  "placeLabel": "Netherlands",
+  "isCity": "false",
+  "coordinates": "Point(5.55 52.316666666)",
+  "country": "http://www.wikidata.org/entity/Q29999",
+  "tgnId": "7016845",
+  "parent": "http://www.wikidata.org/entity/Q29999"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q64",
+  "placeLabel": "Berlin",
+  "isCity": "true",
+  "coordinates": "Point(13.383333333 52.516666666)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7003670",
+  "parent": "http://www.wikidata.org/entity/Q183"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q878",
+  "placeLabel": "United Arab Emirates",
+  "isCity": "false",
+  "coordinates": "Point(54.3 24.4)",
+  "country": "http://www.wikidata.org/entity/Q878",
+  "tgnId": "1000143"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1055",
+  "placeLabel": "Hamburg",
+  "isCity": "true",
+  "coordinates": "Point(10.0 53.55)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7003673",
+  "parent": "http://www.wikidata.org/entity/Q183"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q1486",
+  "placeLabel": "Buenos Aires",
+  "isCity": "true",
+  "coordinates": "Point(-58.381944444 -34.599722222)",
+  "country": "http://www.wikidata.org/entity/Q414",
+  "tgnId": "7006287",
+  "parent": "http://www.wikidata.org/entity/Q414"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q12771",
+  "placeLabel": "Canton of Vaud",
+  "isCity": "false",
+  "coordinates": "Point(6.55 46.6)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7003763",
+  "parent": "http://www.wikidata.org/entity/Q39"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q24879",
+  "placeLabel": "Bremen",
+  "isCity": "true",
+  "coordinates": "Point(8.807222222 53.075833333)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7005286",
+  "parent": "http://www.wikidata.org/entity/Q1209"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q30971",
+  "placeLabel": "French Polynesia",
+  "isCity": "false",
+  "coordinates": "Point(-149.4 -17.7)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1000216",
+  "parent": "http://www.wikidata.org/entity/Q203396"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q123258",
+  "placeLabel": "Fukuoka Prefecture",
+  "isCity": "false",
+  "coordinates": "Point(130.418055555 33.606111111)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "tgnId": "1000975",
+  "parent": "http://www.wikidata.org/entity/Q17"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q212429",
+  "placeLabel": "metropolitan France",
+  "isCity": "false",
+  "coordinates": "Point(2.0 46.0)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q142"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q230127",
+  "placeLabel": "4th arrondissement of Paris",
+  "isCity": "false",
+  "coordinates": "Point(2.355555555 48.855555555)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q96746729"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q446857",
+  "placeLabel": "Cologne-Innenstadt",
+  "isCity": "false",
+  "coordinates": "Point(6.960277777 50.936666666)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "parent": "http://www.wikidata.org/entity/Q365"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q2002296",
+  "placeLabel": "Retiro",
+  "isCity": "false",
+  "coordinates": "Point(-3.676729 40.408072)",
+  "country": "http://www.wikidata.org/entity/Q29",
+  "parent": "http://www.wikidata.org/entity/Q2807"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q23939248",
+  "placeLabel": "London",
+  "isCity": "false",
+  "coordinates": "Point(-0.083333333 51.483333333)",
+  "country": "http://www.wikidata.org/entity/Q145",
+  "parent": "http://www.wikidata.org/entity/Q21"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q96746729",
+  "placeLabel": "Paris Centre",
+  "isCity": "false",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "parent": "http://www.wikidata.org/entity/Q90"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q17",
+  "placeLabel": "Japan",
+  "isCity": "false",
+  "coordinates": "Point(136.0 35.0)",
+  "country": "http://www.wikidata.org/entity/Q17",
+  "tgnId": "1000120"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q39",
+  "placeLabel": "Switzerland",
+  "isCity": "false",
+  "coordinates": "Point(8.231973 46.798562)",
+  "country": "http://www.wikidata.org/entity/Q39",
+  "tgnId": "7011731"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q142",
+  "placeLabel": "France",
+  "isCity": "false",
+  "coordinates": "Point(2.0 47.0)",
+  "country": "http://www.wikidata.org/entity/Q142",
+  "tgnId": "1000070"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q365",
+  "placeLabel": "Cologne",
+  "isCity": "true",
+  "coordinates": "Point(6.957777777 50.942222222)",
+  "country": "http://www.wikidata.org/entity/Q183",
+  "tgnId": "7004446",
+  "parent": "http://www.wikidata.org/entity/Q7927"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q29999",
+  "placeLabel": "Kingdom of the Netherlands",
+  "isCity": "false",
+  "coordinates": "Point(4.883333333 52.366666666)",
+  "country": "http://www.wikidata.org/entity/Q29999"
+ },
+ {
+  "place": "http://www.wikidata.org/entity/Q203396",
+  "placeLabel": "Overseas France",
+  "isCity": "false",
+  "country": "http://www.wikidata.org/entity/Q142"
+ }
+]

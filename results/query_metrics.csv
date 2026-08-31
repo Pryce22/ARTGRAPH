@@ -1,0 +1,106 @@
+version,query,class,rows,avg_ms,p50_ms,p95_ms,min_ms,db_hits,description
+v1,q01,descriptive,1,16.53,14.62,22.67,9.34,20041,"Birth, death and external identifiers of an artist"
+v1,q02,descriptive,1,15.36,13.42,25.67,11.35,41000,"Dimensions, creation year and image URL of an artwork"
+v1,q03,one_hop,2,13.02,12.01,18.12,9.93,42152,Materials an artwork is made of
+v1,q04,one_hop,1,9.92,9.23,14.17,6.48,34463,Coordinates of the city hosting a collection
+v1,q05,one_hop,55,41.32,40.39,48.81,35.22,160714,Paintings explicitly classified in a movement
+v1,q06,one_hop,7,8.72,8.36,11.15,6.84,33770,Artists directly influenced by a given author
+v1,q07,multi_hop,11,17.47,16.47,22.31,13.34,80420,Works of an artist and the countries where they are kept
+v1,q08,multi_hop,3,23.1,22.63,27.71,18.88,123460,Masters of an artist and the movements of those masters
+v1,q09,multi_hop,5,21.75,20.37,28.45,16.84,112424,Works of an artist kept in the artist's birth city
+v1,q10,multi_hop,25,7.27,6.89,10.49,5.38,8901,Movements of artworks depicting a given subject
+v1,q11,multi_hop,23,8.63,8.21,12.5,6.51,10765,Works of a genre by artists who died in a given city
+v1,q12,multi_hop,1,6.73,5.92,12.12,3.89,584,Patrons who commissioned works by a given artist
+v1,q13,multi_hop,1,3.8,3.39,5.96,2.4,196,Other paintings depicting the same subjects as a work
+v1,q14,multi_hop,31,8.55,8.14,9.84,6.55,8067,Museums holding works of a material and movement
+v1,q15,multi_hop,95,67.27,67.12,82.44,55.85,454802,"Artists born and dead in the same country, with movements"
+v1,q16,multi_hop,1,3.25,2.97,3.61,2.39,86,Current location of works commissioned by a patron
+v1,q17,multi_hop,1,9.81,9.22,15.91,6.35,22540,Materials and genres used to depict a subject
+v1,q18,multi_hop,8,4.71,3.85,7.3,2.96,418,Movements of painters influenced by an artist
+v1,q19,multi_hop,1,7.48,7.16,10.95,5.07,24436,Museums of a country holding works by a master's students
+v1,q20,multi_hop,50,17.26,16.35,21.73,12.41,79396,"Works above a size threshold, with author and museum"
+v1,q21,analytic,33,11.19,10.62,15.21,7.45,22609,Average/max/min artwork area per movement
+v1,q22,analytic,10,5.36,5.0,7.89,3.4,6647,Most frequently depicted subjects within a movement
+v1,q23,path,30,15.43,14.26,26.25,8.98,8771,Indirect influence lines from a progenitor artist
+v1,q24,analytic,5,5.23,4.56,9.59,3.34,5254,"Top 5 patrons by commissioned works, with artists"
+v1,q25,analytic,47,33.77,32.32,46.66,25.69,112683,Artist pairs born in the same city and same movement
+v1,q26,analytic,14,10.77,10.55,14.77,7.51,28569,Materials preferred by artists born in a country
+v1,q27,analytic,72,10.43,9.76,14.65,5.84,10767,"Predominantly horizontal paintings, author and location"
+v1,q28,multi_hop,2,10.56,9.97,13.06,8.21,38589,Museums holding works of a master and of their students
+v1,q29,multi_hop,41,8.94,8.52,14.67,5.14,7855,Students with movements beyond their master's
+v1,q30,analytic,129,8.6,7.13,14.25,4.17,7647,Genre frequency per creation decade
+v1,q31,analytic,8,3.82,3.74,4.34,2.93,4370,Artist pairs sharing at least two influences
+v1,q32,path,1,15.33,15.28,20.01,10.48,55709,"Paths (max 4 hops) between two artists via works, influence and apprenticeship"
+v1,q33,multi_hop,47,13.24,12.06,18.02,10.76,56794,Artists whose works are kept outside birth/death countries
+v1,q34,analytic,5,14.21,12.9,20.54,11.09,62537,Patrons who funded artists of different movements
+v1,q35,analytic,14,7.67,7.45,8.92,6.57,33308,Countries ranked by distinct movements in their museums
+v2,q01,descriptive,1,2.54,2.39,3.18,1.8,7,"Birth, death and external identifiers of an artist"
+v2,q02,descriptive,1,1.85,1.68,2.23,1.48,6,"Dimensions, creation year and image URL of an artwork"
+v2,q03,one_hop,2,2.34,2.23,3.05,1.68,3,Materials an artwork is made of
+v2,q04,one_hop,1,5.05,4.21,8.82,3.16,1151,Coordinates of the city hosting a collection
+v2,q05,one_hop,55,7.32,6.52,10.82,4.23,1261,Paintings explicitly classified in a movement
+v2,q06,one_hop,7,2.73,2.61,4.42,1.54,147,Artists directly influenced by a given author
+v2,q07,multi_hop,11,3.6,3.31,5.53,2.53,180,Works of an artist and the countries where they are kept
+v2,q08,multi_hop,3,2.31,2.23,2.72,1.46,35,Masters of an artist and the movements of those masters
+v2,q09,multi_hop,5,3.33,3.23,4.46,2.25,67,Works of an artist kept in the artist's birth city
+v2,q10,multi_hop,25,5.25,5.15,6.52,4.15,1297,Movements of artworks depicting a given subject
+v2,q11,multi_hop,23,4.72,4.53,5.28,3.99,871,Works of a genre by artists who died in a given city
+v2,q12,multi_hop,1,3.76,3.44,6.45,2.61,53,Patrons who commissioned works by a given artist
+v2,q13,multi_hop,1,5.45,4.66,8.03,3.87,3000,Other paintings depicting the same subjects as a work
+v2,q14,multi_hop,31,6.06,5.75,8.38,4.62,1461,Museums holding works of a material and movement
+v2,q15,multi_hop,95,10.89,10.5,13.05,8.52,550,"Artists born and dead in the same country, with movements"
+v2,q16,multi_hop,1,4.25,3.78,6.03,2.63,1732,Current location of works commissioned by a patron
+v2,q17,multi_hop,1,4.73,4.93,5.53,2.58,2594,Materials and genres used to depict a subject
+v2,q18,multi_hop,8,3.42,3.11,5.31,2.49,35,Movements of painters influenced by an artist
+v2,q19,multi_hop,1,2.66,2.29,4.06,1.98,74,Museums of a country holding works by a master's students
+v2,q20,multi_hop,50,7.46,7.16,9.92,4.44,2599,"Works above a size threshold, with author and museum"
+v2,q21,analytic,33,5.22,4.96,6.47,3.27,1447,Average/max/min artwork area per movement
+v2,q22,analytic,10,3.73,3.66,5.37,2.43,1206,Most frequently depicted subjects within a movement
+v2,q23,path,30,4.9,5.27,8.29,2.62,190,Indirect influence lines from a progenitor artist
+v2,q24,analytic,5,3.01,2.87,3.53,2.02,2424,"Top 5 patrons by commissioned works, with artists"
+v2,q25,analytic,47,8.88,9.43,10.59,4.74,3170,Artist pairs born in the same city and same movement
+v2,q26,analytic,14,2.87,3.01,4.14,1.87,1850,Materials preferred by artists born in a country
+v2,q27,analytic,72,4.52,4.14,6.93,3.23,2634,"Predominantly horizontal paintings, author and location"
+v2,q28,multi_hop,2,3.29,2.98,5.26,2.64,626,Museums holding works of a master and of their students
+v2,q29,multi_hop,41,3.82,3.68,5.61,2.44,1509,Students with movements beyond their master's
+v2,q30,analytic,129,6.92,6.7,9.95,4.04,1716,Genre frequency per creation decade
+v2,q31,analytic,8,3.12,3.02,4.42,2.05,1638,Artist pairs sharing at least two influences
+v2,q32,path,1,3.36,3.3,4.07,2.54,4219,"Paths (max 4 hops) between two artists via works, influence and apprenticeship"
+v2,q33,multi_hop,47,4.73,4.1,7.36,3.51,2664,Artists whose works are kept outside birth/death countries
+v2,q34,analytic,5,2.89,2.73,3.27,2.26,2424,Patrons who funded artists of different movements
+v2,q35,analytic,14,2.94,2.82,3.37,2.34,1300,Countries ranked by distinct movements in their museums
+v3,q01,descriptive,1,1.93,1.87,2.36,1.25,63,"Birth, death and external identifiers of an artist"
+v3,q02,descriptive,1,1.67,1.46,2.02,1.15,6,"Dimensions, creation year and image URL of an artwork"
+v3,q03,one_hop,2,2.09,1.93,2.65,1.62,590,Materials an artwork is made of
+v3,q04,one_hop,1,2.06,2.04,2.45,1.5,9,Coordinates of the city hosting a collection
+v3,q05,one_hop,55,6.49,6.36,7.6,5.26,281,Paintings explicitly classified in a movement
+v3,q06,one_hop,7,2.23,2.04,2.73,1.57,150,Artists directly influenced by a given author
+v3,q07,multi_hop,11,3.06,3.15,3.45,1.86,714,Works of an artist and the countries where they are kept
+v3,q08,multi_hop,3,2.44,2.22,3.23,1.78,93,Masters of an artist and the movements of those masters
+v3,q09,multi_hop,5,2.54,2.33,2.85,1.84,541,Works of an artist kept in the artist's birth city
+v3,q10,multi_hop,25,2.44,1.93,4.27,1.64,3650,Movements of artworks depicting a given subject
+v3,q11,multi_hop,23,1.95,1.74,2.96,1.49,840,Works of a genre by artists who died in a given city
+v3,q12,multi_hop,1,3.35,2.43,6.48,1.86,274,Patrons who commissioned works by a given artist
+v3,q13,multi_hop,1,4.55,4.32,5.21,3.68,16378,Other paintings depicting the same subjects as a work
+v3,q14,multi_hop,31,2.4,2.25,2.84,1.92,2317,Museums holding works of a material and movement
+v3,q15,multi_hop,95,8.76,7.65,13.05,3.96,5809,"Artists born and dead in the same country, with movements"
+v3,q16,multi_hop,1,2.22,2.05,2.88,1.41,36,Current location of works commissioned by a patron
+v3,q17,multi_hop,1,3.85,3.81,4.67,3.08,8056,Materials and genres used to depict a subject
+v3,q18,multi_hop,8,2.93,2.76,3.46,2.16,324,Movements of painters influenced by an artist
+v3,q19,multi_hop,1,2.42,2.04,4.44,1.63,3872,Museums of a country holding works by a master's students
+v3,q20,multi_hop,50,6.09,6.21,9.72,2.63,3681,"Works above a size threshold, with author and museum"
+v3,q21,analytic,33,3.62,3.14,6.19,1.75,1172,Average/max/min artwork area per movement
+v3,q22,analytic,10,3.87,3.74,5.13,2.67,2138,Most frequently depicted subjects within a movement
+v3,q23,path,30,2.65,2.38,4.57,1.73,309,Indirect influence lines from a progenitor artist
+v3,q24,analytic,5,1.76,1.6,2.17,1.37,155,"Top 5 patrons by commissioned works, with artists"
+v3,q25,analytic,47,5.67,5.34,8.5,3.64,16846,Artist pairs born in the same city and same movement
+v3,q26,analytic,14,4.45,3.99,7.84,3.04,8298,Materials preferred by artists born in a country
+v3,q27,analytic,72,6.83,5.3,11.58,2.74,3767,"Predominantly horizontal paintings, author and location"
+v3,q28,multi_hop,2,2.52,2.32,3.65,1.36,3954,Museums holding works of a master and of their students
+v3,q29,multi_hop,41,3.74,3.41,5.64,2.35,4633,Students with movements beyond their master's
+v3,q30,analytic,129,7.88,7.05,14.04,2.9,1717,Genre frequency per creation decade
+v3,q31,analytic,8,2.31,2.13,3.28,1.89,1929,Artist pairs sharing at least two influences
+v3,q32,path,1,3.25,2.88,5.19,2.31,4219,"Paths (max 4 hops) between two artists via works, influence and apprenticeship"
+v3,q33,multi_hop,47,5.69,4.77,8.7,3.3,13540,Artists whose works are kept outside birth/death countries
+v3,q34,analytic,5,3.06,2.84,4.21,2.22,350,Patrons who funded artists of different movements
+v3,q35,analytic,14,4.39,3.71,6.97,3.09,6846,Countries ranked by distinct movements in their museums

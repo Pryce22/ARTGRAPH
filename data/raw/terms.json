@@ -1,0 +1,5831 @@
+[
+ {
+  "term": "http://www.wikidata.org/entity/Q1052",
+  "termLabel": "rainbow",
+  "termDescription": "meteorological phenomenon caused by reflection, refraction and dispersion of light in water droplets",
+  "aatId": "300379215"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1055",
+  "termLabel": "Hamburg",
+  "termDescription": "city and state in the North of Germany"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1090",
+  "termLabel": "silver",
+  "termDescription": "chemical element with symbol Ag and atomic number 47",
+  "aatId": "300011029"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10289",
+  "termLabel": "barrel",
+  "termDescription": "hollow cylindrical container",
+  "aatId": "300194514"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10791",
+  "termLabel": "nudity",
+  "termDescription": "state of wearing no clothing",
+  "aatId": "300262617"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10884",
+  "termLabel": "tree",
+  "termDescription": "perennial woody plant",
+  "aatId": "300132410"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10978",
+  "termLabel": "grape",
+  "termDescription": "edible berry of a flowering plant in the family Vitaceae",
+  "aatId": "300379338"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10998",
+  "termLabel": "potato",
+  "termDescription": "species of plant (for the food, use Q16587531)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11019",
+  "termLabel": "machine",
+  "termDescription": "set of moving and fixed elements that uses energy to perform an intended action",
+  "aatId": "300167846"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11032",
+  "termLabel": "newspaper",
+  "termDescription": "scheduled publication containing news of events, articles, features, editorials, and advertising; online, in print, or (usually) both",
+  "aatId": "300026656"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11034",
+  "termLabel": "printing",
+  "termDescription": "process for reproducing text and images using a master form or template",
+  "aatId": "300053319"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11410",
+  "termLabel": "game",
+  "termDescription": "structured form of play",
+  "aatId": "300069657"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11446",
+  "termLabel": "ship",
+  "termDescription": "large buoyant watercraft",
+  "aatId": "300082981"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11460",
+  "termLabel": "clothing",
+  "termDescription": "covering worn on the body",
+  "aatId": "300266639"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q101065",
+  "termLabel": "puberty",
+  "termDescription": "transition from a sexually immature child to a sexually mature adult",
+  "aatId": "300247960"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q102231",
+  "termLabel": "rose",
+  "termDescription": "common idea of a plant, typically with flowers considered beautiful"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q105320",
+  "termLabel": "Berthe Morisot",
+  "termDescription": "French painter (1841-1895)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q105507",
+  "termLabel": "wig",
+  "termDescription": "head covering mimicking hair",
+  "aatId": "300046049"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q107425",
+  "termLabel": "landscape",
+  "termDescription": "visible features of an area of land",
+  "aatId": "300008626"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q108301",
+  "termLabel": "Maurice Utrillo",
+  "termDescription": "French painter (1883-1955)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q110304",
+  "termLabel": "top hat",
+  "termDescription": "tall-crowned hat initially made of beaver felt and later, of silk plush",
+  "aatId": "300046113"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q111449",
+  "termLabel": "Martial Caillebotte",
+  "termDescription": "French photographer, composer and philatelist (1853–1910)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1000370",
+  "termLabel": "Pinales",
+  "termDescription": "order of plants",
+  "aatId": "300343666"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1019517",
+  "termLabel": "Bezique",
+  "termDescription": "card game"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1025688",
+  "termLabel": "Café de la Nouvelle Athènes",
+  "termDescription": "restaurant"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1027566",
+  "termLabel": "boulevard Montmartre",
+  "termDescription": "boulevard in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1027807",
+  "termLabel": "Port of Rotterdam",
+  "termDescription": "largest port in Europe, located in the city of Rotterdam, Netherlands"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1028181",
+  "termLabel": "painter",
+  "termDescription": "artist who practices painting",
+  "aatId": "300025136"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1044742",
+  "termLabel": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "termDescription": "painting by Georges Seurat, Art Institute of Chicago"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1047337",
+  "termLabel": "genre art",
+  "termDescription": "art genre that depicts scenes from everyday life",
+  "aatId": "300139140"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1051130",
+  "termLabel": "strolling",
+  "termDescription": "walking for leisure"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1056661",
+  "termLabel": "flue-gas stack",
+  "termDescription": "chimney of a factory"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1064904",
+  "termLabel": "major trauma",
+  "termDescription": "injury that could cause prolonged disability or death",
+  "aatId": "300393192"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1074218",
+  "termLabel": "Sofa",
+  "termDescription": "Wikimedia disambiguation page"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1075310",
+  "termLabel": "sailboat",
+  "termDescription": "boat propelled partly or entirely by sails",
+  "aatId": "300120023"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1075988",
+  "termLabel": "Louvre Palace",
+  "termDescription": "former royal palace, now hosting the Louvre Museum in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1079524",
+  "termLabel": "specular reflection",
+  "termDescription": "mirror-like wave reflection",
+  "aatId": "300251926"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1092993",
+  "termLabel": "bark",
+  "termDescription": "boat type"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1093742",
+  "termLabel": "lemon",
+  "termDescription": "fruit (for Citrus ×limon use Q500)",
+  "aatId": "300266423"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1104430",
+  "termLabel": "carafe",
+  "termDescription": "container used for serving wine and other drinks",
+  "aatId": "300198495"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1107656",
+  "termLabel": "garden",
+  "termDescription": "planned space set aside for the display, cultivation and enjoyment of plants",
+  "aatId": "300008090"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1109432",
+  "termLabel": "hispanism",
+  "termDescription": "the study of the literature and culture of the Spanish-speaking world"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1124183",
+  "termLabel": "lumberjack",
+  "termDescription": "worker who performs the initial harvesting of trees"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1125039",
+  "termLabel": "Post-romanticism",
+  "termDescription": "cultural movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1129891",
+  "termLabel": "Port of Le Havre",
+  "termDescription": "port"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1130359",
+  "termLabel": "loincloth",
+  "termDescription": "cloth worn around the loins, often as the sole article of clothing in warm climates",
+  "aatId": "300209923"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1131270",
+  "termLabel": "bassinet",
+  "termDescription": "type of bed for the youngest infants",
+  "aatId": "300038850"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1132965",
+  "termLabel": "sea bathing",
+  "termDescription": "bathing in the sea or in sea water"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1138737",
+  "termLabel": "lamp",
+  "termDescription": "part of a light fixture that produces the light",
+  "aatId": "300037592"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1138912",
+  "termLabel": "Battersea",
+  "termDescription": "area of the London Borough of Wandsworth, England, UK"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1144593",
+  "termLabel": "sitting",
+  "termDescription": "human resting position; body weight is supported primarily by the buttocks in contact with the ground or a horizontal object such as a chair",
+  "aatId": "300263970"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1144689",
+  "termLabel": "folding screen",
+  "termDescription": "furniture consisting of flat, hinged panels for dividing a room, sometimes with artistic decoration",
+  "aatId": "300134802"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1144883",
+  "termLabel": "bangs",
+  "termDescription": "shaped cutting of the front part of the hair so that it lies over the forehead"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1145200",
+  "termLabel": "Pontaubert",
+  "termDescription": "commune in Yonne, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1146001",
+  "termLabel": "light source",
+  "termDescription": "object or device that emits light"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1146988",
+  "termLabel": "quai d'Orsay",
+  "termDescription": "thoroughfare in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10563755",
+  "termLabel": "flagon",
+  "termDescription": "pitcher, often for alcoholic beverages",
+  "aatId": "300196545"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10685333",
+  "termLabel": "folk costume of Sweden",
+  "termDescription": "symbol of local and national identity that has been used in Sweden for around 400 years"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10818030",
+  "termLabel": "summer sausage",
+  "termDescription": "sausages that can be kept without refrigeration"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10857409",
+  "termLabel": "realism",
+  "termDescription": "artistic style of representing subjects realistically",
+  "aatId": "300056550"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10862805",
+  "termLabel": "Jean Monet",
+  "termDescription": "son of Claude Monet"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q10971235",
+  "termLabel": "cushion",
+  "termDescription": "soft bag of some ornamental material, stuffed with wool, hair, feathers, polyester staple fiber, non-woven material, or even paper torn into fragments",
+  "aatId": "300236073"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11060274",
+  "termLabel": "print",
+  "termDescription": "work of art printed from a block or plate",
+  "aatId": "300041273"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11124206",
+  "termLabel": "Italian Riviera",
+  "termDescription": "coastal area in the Liguria region"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11177275",
+  "termLabel": "riparian forest",
+  "termDescription": "forested or wooded area of land adjacent to a body of water"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11202319",
+  "termLabel": "goldsmithing",
+  "termDescription": "process of forging things out of gold, especially jewelry",
+  "aatId": "300054048"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q101195208",
+  "termLabel": "beheaded head",
+  "termDescription": "head of a beheaded person"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q105368227",
+  "termLabel": "winnower",
+  "termDescription": "person who winnows or separates grains from chaff"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q105825074",
+  "termLabel": "lesbian couple",
+  "termDescription": "set of two lesbians linked in a physical and emotional community"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q106857709",
+  "termLabel": "panel",
+  "termDescription": "painting support made of a thin wooden plank",
+  "aatId": "300014657"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q107081040",
+  "termLabel": "paysagisme abstrait",
+  "termDescription": "genre artistique"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q107424419",
+  "termLabel": "English painting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q107950997",
+  "termLabel": "Vase with decoration of birds and flowers",
+  "termDescription": "Japanese vase from a painting by John Singer Sargent in the Museum of Fine Arts Boston"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q111039892",
+  "termLabel": "Elisabeth Bachofen-Echt",
+  "termDescription": "Austrian sculptor (1894-1944), daughter of Serena Lederer"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q112711319",
+  "termLabel": "millinery shop",
+  "termDescription": "shop selling hats"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q112778688",
+  "termLabel": "Gordina de Groot",
+  "termDescription": "model for Vincent van Gogh"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q112961353",
+  "termLabel": "Cornelia van Rooij",
+  "termDescription": "model for Vincent van Gogh"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q112961436",
+  "termLabel": "Antonie van Rooij",
+  "termDescription": "model for Vincent van Gogh"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q112961443",
+  "termLabel": "Francis van Rooij",
+  "termDescription": "model for Vincent van Gogh"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q114548070",
+  "termLabel": "naked girl",
+  "termDescription": "pre-pubescent girl without clothes, often used as a model in art"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q132",
+  "termLabel": "Sunday",
+  "termDescription": "day of the week",
+  "aatId": "300410310"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1311",
+  "termLabel": "winter",
+  "termDescription": "one of the Earth's four temperate seasons, occurring between autumn and spring; one of the 8 Sámi seasons",
+  "aatId": "300133101"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1312",
+  "termLabel": "spring",
+  "termDescription": "one of the Earth's four temperate seasons, occurring between winter and summer; one of the 8 Sámi seasons",
+  "aatId": "300133097"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1313",
+  "termLabel": "summer",
+  "termDescription": "warmest of the four temperate seasons, beginning or centered around the summer solstice; one of the 8 Sámi seasons",
+  "aatId": "300133099"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11472",
+  "termLabel": "paper",
+  "termDescription": "thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging",
+  "aatId": "300014109"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11629",
+  "termLabel": "painting",
+  "termDescription": "practice of applying paint, pigment, color or other medium to a surface",
+  "aatId": "300054216"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11633",
+  "termLabel": "photography",
+  "termDescription": "art, science, and practice of creating durable images by recording light or other electromagnetic radiation",
+  "aatId": "300054225"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11635",
+  "termLabel": "theatre",
+  "termDescription": "art of creating stories and performing them live in front of public",
+  "aatId": "300417582"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11639",
+  "termLabel": "dance",
+  "termDescription": "rhythmic movement of the body",
+  "aatId": "300054144"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11995",
+  "termLabel": "human pregnancy",
+  "termDescription": "time of human offspring development in mother's body",
+  "aatId": "300189669"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12106",
+  "termLabel": "Triticum",
+  "termDescription": "genus of plants (focus on taxonomy here, not on agriculture)",
+  "aatId": "300343825"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12280",
+  "termLabel": "bridge",
+  "termDescription": "structure that spans and provides a passage over a road, railway, river, or some other obstacle",
+  "aatId": "300007836"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12284",
+  "termLabel": "canal",
+  "termDescription": "man-made channel for water",
+  "aatId": "300006075"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12511",
+  "termLabel": "stairs",
+  "termDescription": "construction designed to bridge a large vertical distance by dividing it into steps",
+  "aatId": "300003228"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12570",
+  "termLabel": "suspension bridge",
+  "termDescription": "type of bridge",
+  "aatId": "300007868"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q116887",
+  "termLabel": "décolletage",
+  "termDescription": "neckline on a woman's dress, especially one that reveals or emphasizes her cleavage"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q122960",
+  "termLabel": "Rococo",
+  "termDescription": "18th-century artistic movement and style",
+  "aatId": "300021155"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q123141",
+  "termLabel": "goldfish",
+  "termDescription": "species of freshwater fish, common in aquariums",
+  "aatId": "300250186"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q124714",
+  "termLabel": "spring",
+  "termDescription": "terrestrial water source",
+  "aatId": "300008697"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q124757",
+  "termLabel": "riot",
+  "termDescription": "violent public disturbance against authority, property or people"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q126148",
+  "termLabel": "Tangier",
+  "termDescription": "city in and capital of Tanger-Tetouan-Al Hoceima, Morocco"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q126327",
+  "termLabel": "San Giorgio Maggiore",
+  "termDescription": "island in Italy"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q126701",
+  "termLabel": "regatta",
+  "termDescription": "series of boat races",
+  "aatId": "300239280"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q127666",
+  "termLabel": "frying pan",
+  "termDescription": "flat-bottomed pan with sloped sides used for cooking food on a stove",
+  "aatId": "300042990"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q128115",
+  "termLabel": "abstract art",
+  "termDescription": "art with a degree of independence from visual references in the world",
+  "aatId": "300108127"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q129757",
+  "termLabel": "thigh",
+  "termDescription": "area between the pelvis and the knee; upper leg"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q130408",
+  "termLabel": "Sophia of Nassau",
+  "termDescription": "Swedish queen (1836–1913)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q130768",
+  "termLabel": "smoke",
+  "termDescription": "mass of airborne particulates and gases"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q130832",
+  "termLabel": "Perseus",
+  "termDescription": "legendary Greek hero and founder of Mycenae, demigod son of Zeus and Danae; famous for beheading the Gorgon Medusa"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q131186",
+  "termLabel": "choir",
+  "termDescription": "ensemble of singers",
+  "aatId": "300389787"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q131295",
+  "termLabel": "brothel",
+  "termDescription": "place where people may come to engage in sexual activity with a prostitute",
+  "aatId": "300007218"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q131512",
+  "termLabel": "farmer",
+  "termDescription": "person engaged in agriculture, raising living organisms for food or raw materials",
+  "aatId": "300025607"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q131514",
+  "termLabel": "couch",
+  "termDescription": "piece of furniture for seating two or more persons in the form of a bench with armrests",
+  "aatId": "300038634"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q131596",
+  "termLabel": "farm",
+  "termDescription": "area of land for farming, or, for aquaculture, lake, river or sea, including various structures",
+  "aatId": "300000206"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q132397",
+  "termLabel": "pitcher",
+  "termDescription": "container with a spout used for storing and pouring liquids",
+  "aatId": "300194765"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q132543",
+  "termLabel": "Diana",
+  "termDescription": "goddess of the hunt, the moon and birthing, equated with the Greek goddess Artemis"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q133279",
+  "termLabel": "back",
+  "termDescription": "body part"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q134307",
+  "termLabel": "portrait",
+  "termDescription": "artistic representation of one or more persons",
+  "aatId": "300015637"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1149531",
+  "termLabel": "bonnet",
+  "termDescription": "headwear usually tied under the chin and having a front brim",
+  "aatId": "300210720"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1168042",
+  "termLabel": "Chailly-en-Bière",
+  "termDescription": "commune in Seine-et-Marne, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1169888",
+  "termLabel": "distemper",
+  "termDescription": "type of paint",
+  "aatId": "300015035"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1187930",
+  "termLabel": "bouquet",
+  "termDescription": "collection of cut flowers in a creative arrangement",
+  "aatId": "300387430"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1191255",
+  "termLabel": "table set",
+  "termDescription": "ustensiles utilisés pour manger durant un repas"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1196123",
+  "termLabel": "military uniform",
+  "termDescription": "standardised dress worn by members of the armed forces and paramilitaries of various nations",
+  "aatId": "300248030"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1201922",
+  "termLabel": "wreath",
+  "termDescription": "assortment of flowers, leaves, fruits, twigs, or various materials that is constructed to form a ring shape",
+  "aatId": "300391223"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1210980",
+  "termLabel": "sponge",
+  "termDescription": "cleaning tool made from soft and porous usually synthetic or rarely natural material",
+  "aatId": "300386524"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1229917",
+  "termLabel": "Palais de la Légion d'Honneur",
+  "termDescription": "building in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1232633",
+  "termLabel": "Hague School",
+  "termDescription": "artistic movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1245878",
+  "termLabel": "Gardenia taitensis",
+  "termDescription": "species of plant"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1251541",
+  "termLabel": "oriental rug",
+  "termDescription": "type of textile",
+  "aatId": "300185762"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1259917",
+  "termLabel": "violinist",
+  "termDescription": "musician who plays the violin",
+  "aatId": "300235044"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1279269",
+  "termLabel": "chignon",
+  "termDescription": "hairstyle with hair pinned in a knot at the nape of the neck or at the back of the head"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1280247",
+  "termLabel": "Ferdinand Bloch-Bauer",
+  "termDescription": "Czech-Austrian industrialist persecuted by Nazis for Jewish heritage (1864-1945)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1293678",
+  "termLabel": "forest of Fontainebleau",
+  "termDescription": "forest in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1322134",
+  "termLabel": "gulf",
+  "termDescription": "large inlet that is an arm of an ocean or sea",
+  "aatId": "300132315"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1323314",
+  "termLabel": "bag",
+  "termDescription": "simple tool used to hold and carry things inside it, made of some flexible material such as paper, fabric, or leather; closed on all sides except the top and easy to handle",
+  "aatId": "300198926"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1329076",
+  "termLabel": "pont Saint-Michel",
+  "termDescription": "arch bridge in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1340307",
+  "termLabel": "toddler",
+  "termDescription": "child 12 to 36 months old",
+  "aatId": "300379598"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1347864",
+  "termLabel": "walking stick",
+  "termDescription": "stick used to assist with walking, especially one carried as a fashionable accessory",
+  "aatId": "300221268"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11638045",
+  "termLabel": "farm road",
+  "termDescription": "service road that serves predominantly agricultural or forestry purposes and has only local significance"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11722446",
+  "termLabel": "mons pubis",
+  "termDescription": "rounded mass of fatty tissue found over the pubic symphysis"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11748378",
+  "termLabel": "cow",
+  "termDescription": "adult female cattle of the species Bos taurus, domestic ruminant mammal",
+  "aatId": "300250120"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11755959",
+  "termLabel": "multi-story urban building",
+  "termDescription": "urban building with several floors"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q11824888",
+  "termLabel": "French window",
+  "termDescription": "style and type of windows which often serve as doors",
+  "aatId": "300002813"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12303833",
+  "termLabel": "floral painting",
+  "termDescription": "genre in painting",
+  "aatId": "300265045"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12321255",
+  "termLabel": "canvas",
+  "termDescription": "painting surface made of extremely heavy-duty plain-woven fabric",
+  "aatId": "300014078"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12713481",
+  "termLabel": "laborer",
+  "termDescription": "low-skilled or unskilled worker in manual-labour occupations and industrial work, usually for a wage"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12859788",
+  "termLabel": "steamship",
+  "termDescription": "a type of steam-powered vessel, typically ocean-faring and seaworthy, that is propelled by one or more steam engines that typically move (turn) propellers or paddlewheels",
+  "aatId": "300132256"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12888135",
+  "termLabel": "candle",
+  "termDescription": "solid block of wax with embedded wick, used as lighting or fragrance",
+  "aatId": "300037654"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q12902372",
+  "termLabel": "flautist",
+  "termDescription": "musician who plays the flute"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q13099586",
+  "termLabel": "pear",
+  "termDescription": "fruit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q13360578",
+  "termLabel": "thatched cottage",
+  "termDescription": "cottage with thatch roof"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q13430821",
+  "termLabel": "crowd",
+  "termDescription": "large group of people that are gathered or considered together"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q118278004",
+  "termLabel": "Julia Overing Boit",
+  "termDescription": "artist"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q118278017",
+  "termLabel": "Florence Dumaresq Boit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q118278018",
+  "termLabel": "Mary Louisa Boit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q118278019",
+  "termLabel": "Jane Hubbard Boit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q121433340",
+  "termLabel": "potato harvest"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q130369074",
+  "termLabel": "Christina Spartali",
+  "termDescription": "English model (b. 1845)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q130705387",
+  "termLabel": "Woman looking at a bird",
+  "termDescription": "peinture d'Auguste Renoir"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q142",
+  "termLabel": "France",
+  "termDescription": "country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q144",
+  "termLabel": "dog",
+  "termDescription": "domesticated species of canid",
+  "aatId": "300250130"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q146",
+  "termLabel": "cat",
+  "termDescription": "small domesticated carnivorous mammal",
+  "aatId": "300265960"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q154",
+  "termLabel": "alcoholic beverage",
+  "termDescription": "drink containing alcohols, typically ethanol"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1471",
+  "termLabel": "Seine",
+  "termDescription": "river in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1576",
+  "termLabel": "cigar",
+  "termDescription": "rolled bundle of dried and fermented tobacco leaves made to be smoked"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q13712",
+  "termLabel": "Tiber",
+  "termDescription": "river in Italy"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14130",
+  "termLabel": "waist-length hair",
+  "termDescription": "any hairstyle where the head hair is allowed to grow past the shoulder but no longer than the waist"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14378",
+  "termLabel": "Neoclassicism",
+  "termDescription": "Western cultural movement inspired by ancient Greece and Rome",
+  "aatId": "300021477"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14660",
+  "termLabel": "flag",
+  "termDescription": "distinctive image used as a symbol, traditionally embodied as a piece of fabric",
+  "aatId": "300195678"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14748",
+  "termLabel": "table",
+  "termDescription": "piece of furniture with a flat top",
+  "aatId": "300039548"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14952",
+  "termLabel": "headgear",
+  "termDescription": "any covering for the head; element of clothing which is worn on one's head",
+  "aatId": "300209285"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15026",
+  "termLabel": "chair",
+  "termDescription": "piece of furniture for sitting on",
+  "aatId": "300037772"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15179",
+  "termLabel": "moustache",
+  "termDescription": "facial hair grown on the upper lip",
+  "aatId": "300379264"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15324",
+  "termLabel": "body of water",
+  "termDescription": "any significant accumulation of water, generally on a planet's surface",
+  "aatId": "300266059"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15326",
+  "termLabel": "alcoholism",
+  "termDescription": "loss of control over the quantity of consumed alcohol",
+  "aatId": "300189153"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q141747",
+  "termLabel": "rue de Rivoli",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q143357",
+  "termLabel": "Barbizon school",
+  "termDescription": "artistic movement of landscape painters of the first part and mid-19th century",
+  "aatId": "300264658"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q146149",
+  "termLabel": "Fagus sylvatica",
+  "termDescription": "species of beech tree",
+  "aatId": "300343882"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q146911",
+  "termLabel": "Cupressus",
+  "termDescription": "genus of evergreen conifers",
+  "aatId": "300343641"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q147105",
+  "termLabel": "Paeonia",
+  "termDescription": "genus of flowering plants"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q148571",
+  "termLabel": "fence",
+  "termDescription": "freestanding structure preventing movement across a boundary"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q148706",
+  "termLabel": "mansard roof",
+  "termDescription": "four-sided gambrel-style hip roof",
+  "aatId": "300002155"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q148993",
+  "termLabel": "broad-leaved tree",
+  "termDescription": "any tree that has wide leaves"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q150091",
+  "termLabel": "Neo-impressionism",
+  "termDescription": "art movement",
+  "aatId": "300021505"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q151030",
+  "termLabel": "Moulin Rouge",
+  "termDescription": "cabaret in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q151403",
+  "termLabel": "Thomas Carlyle",
+  "termDescription": "Scottish essayist, historian and philosopher (1795–1881)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q152095",
+  "termLabel": "bathtub",
+  "termDescription": "large container for holding water in which a person may bathe",
+  "aatId": "300052625"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q152357",
+  "termLabel": "red hair",
+  "termDescription": "human hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q152841",
+  "termLabel": "puddle",
+  "termDescription": "small accumulation of liquid, usually water, on a surface"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q153126",
+  "termLabel": "part",
+  "termDescription": "dividing line of the scalp formed by combing the hair in opposite directions"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q154349",
+  "termLabel": "Odilon Redon",
+  "termDescription": "French painter (1840–1916)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q154425",
+  "termLabel": "toe",
+  "termDescription": "digit of a foot"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q154502",
+  "termLabel": "Midsummer",
+  "termDescription": "festival associated with the summer solstice in the Northern hemisphere",
+  "aatId": "300379093"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q156889",
+  "termLabel": "Suzanne Valadon",
+  "termDescription": "French painter (1865—1938)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q156901",
+  "termLabel": "Iris",
+  "termDescription": "genus of plants in the order Iridaceae",
+  "aatId": "300343602"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q157449",
+  "termLabel": "Syringa",
+  "termDescription": "genus of plants"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q157696",
+  "termLabel": "sergeant",
+  "termDescription": "enlisted rank"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q158062",
+  "termLabel": "Max Liebermann",
+  "termDescription": "German painter (1847–1935)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q158607",
+  "termLabel": "marine art",
+  "termDescription": "form of figurative art that portrays or draws its main inspiration from the sea",
+  "aatId": "300117546"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q160020",
+  "termLabel": "shadow",
+  "termDescription": "specific area where direct light from a light source cannot reach due to obstruction by a specific object or person"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q160091",
+  "termLabel": "plain",
+  "termDescription": "flat geographic region",
+  "aatId": "300008805"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q161582",
+  "termLabel": "Andromeda",
+  "termDescription": "Ethiopian princess in Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q161936",
+  "termLabel": "Death",
+  "termDescription": "personification of death"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q162797",
+  "termLabel": "Pegasus",
+  "termDescription": "mythological creature in Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1361268",
+  "termLabel": "Mortefontaine",
+  "termDescription": "commune in Oise, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1370565",
+  "termLabel": "sash",
+  "termDescription": "band or strip of fabric wrapped around the waist or worn over the shoulder or hips and usually tied",
+  "aatId": "300216864"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1371833",
+  "termLabel": "Sergei Shchukin",
+  "termDescription": "Russian art collector (1854-1936)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1393765",
+  "termLabel": "factory",
+  "termDescription": "type of trading post"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1401609",
+  "termLabel": "vaquero",
+  "termDescription": "horse-mounted livestock herder of a tradition that originated on the Iberian Peninsula"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1421395",
+  "termLabel": "raven",
+  "termDescription": "heraldic animal"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1424519",
+  "termLabel": "choker",
+  "termDescription": "close-fitting necklace",
+  "aatId": "300209298"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1436185",
+  "termLabel": "Hungerford Bridge and Golden Jubilee Bridges",
+  "termDescription": "railway bridge and footbridge over the Thames"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1449238",
+  "termLabel": "fetal position",
+  "termDescription": "the positioning of the body of a prenatal fetus as it develops"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1462695",
+  "termLabel": "Le Port-Marly",
+  "termDescription": "commune in Yvelines, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1490775",
+  "termLabel": "Karl Johans gate",
+  "termDescription": "street in Oslo, Norway"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1494444",
+  "termLabel": "assistive cane",
+  "termDescription": "walking stick used as a mobility aid",
+  "aatId": "300224230"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1501567",
+  "termLabel": "Imari ware",
+  "termDescription": "type of Japanese porcelain ware",
+  "aatId": "300018595"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1505189",
+  "termLabel": "awning",
+  "termDescription": "secondary covering attached to the exterior wall of a building",
+  "aatId": "300254200"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1518970",
+  "termLabel": "Montagne Sainte-Victoire",
+  "termDescription": "mountain range in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1540750",
+  "termLabel": "garden fork",
+  "termDescription": "garden tool with tines"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1544759",
+  "termLabel": "pubic hair removal",
+  "termDescription": "practice of shaving the hair from a person's genitals, for practicality, convenience, religion, culture, or aesthetics"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1545456",
+  "termLabel": "Yerres",
+  "termDescription": "river in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1551015",
+  "termLabel": "group portrait",
+  "termDescription": "portrait depicting two or more people together, in painting, photography, or other media",
+  "aatId": "300124525"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1582987",
+  "termLabel": "pardon",
+  "termDescription": "Breton religious ceremony"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1590639",
+  "termLabel": "bent",
+  "termDescription": "two-dimensional transverse rigid frame (or similar structures such as three-hinged arches)",
+  "aatId": "300001833"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1596281",
+  "termLabel": "Marcellin Desboutin",
+  "termDescription": "French painter (1823-1902)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14467155",
+  "termLabel": "gaze",
+  "termDescription": "awareness and perception of others",
+  "aatId": "300263453"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14624645",
+  "termLabel": "terrine",
+  "termDescription": "cookware",
+  "aatId": "300216962"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q14915751",
+  "termLabel": "prostitute",
+  "termDescription": "person who has sex for money",
+  "aatId": "300189023"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15223957",
+  "termLabel": "dimples of Venus",
+  "termDescription": "sagitically symmetrical depression over the gluteal fold"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15225248",
+  "termLabel": "Fanny Claus",
+  "termDescription": "French violinist"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15645384",
+  "termLabel": "wheat",
+  "termDescription": "widely cultivated cereal grain"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15725498",
+  "termLabel": "public bench",
+  "termDescription": "banc installé dans un endroit public"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15945237",
+  "termLabel": "Chapelle de Trémalo",
+  "termDescription": "roman catholic chapel located in Finistère, in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q15978441",
+  "termLabel": "coif",
+  "termDescription": "historical headgear, a close-fitting cap",
+  "aatId": "300213433"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16002303",
+  "termLabel": "akimbo",
+  "termDescription": "body pose which involves standing with hands on hips"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16043633",
+  "termLabel": "Ethel Whibley",
+  "termDescription": "British model"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16191884",
+  "termLabel": "Neo-Grec",
+  "termDescription": "Neoclassical revival style of the mid-to-late 19th century",
+  "aatId": "300112469"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16277237",
+  "termLabel": "Jackie",
+  "termDescription": "unisex given name"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q165",
+  "termLabel": "sea",
+  "termDescription": "large body of saline water",
+  "aatId": "300008694"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q169",
+  "termLabel": "mango",
+  "termDescription": "fruit of the mango tree",
+  "aatId": "300266436"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16491",
+  "termLabel": "daylight",
+  "termDescription": "combination of all direct and indirect sunlight outdoors during the daytime",
+  "aatId": "300051964"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16518",
+  "termLabel": "barge",
+  "termDescription": "flat-bottomed boat, built mainly for river, canal transport of heavy goods, usually moved by pusher or tug boats",
+  "aatId": "300232674"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16970",
+  "termLabel": "church building",
+  "termDescription": "building for Christian worship",
+  "aatId": "300007466"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17298",
+  "termLabel": "Harlequin",
+  "termDescription": "character from the Commedia dell'arte"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17309",
+  "termLabel": "Pierrot",
+  "termDescription": "stock character of pantomime and Commedia dell'Arte"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17345",
+  "termLabel": "dormer",
+  "termDescription": "structural element of a building",
+  "aatId": "300002232"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q163446",
+  "termLabel": "carpet",
+  "termDescription": "textile floor covering",
+  "aatId": "300185756"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q164160",
+  "termLabel": "twilight",
+  "termDescription": "illumination of the Earth's lower atmosphere when the Sun itself is not directly visible because it is below the horizon"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q164800",
+  "termLabel": "Symbolism",
+  "termDescription": "late nineteenth-century art movement of French, Russian and Belgian origin seeking to represent absolute truths symbolically through language and metaphorical images",
+  "aatId": "300021514"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q165061",
+  "termLabel": "Giverny",
+  "termDescription": "commune in Eure, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q165170",
+  "termLabel": "Europa",
+  "termDescription": "Phoenician character in Greek mythology, daughter of Agenor"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q165848",
+  "termLabel": "wind wave",
+  "termDescription": "surface waves that occur on the free surface of bodies of water"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q166030",
+  "termLabel": "Veduta",
+  "termDescription": "genre of large-scale paintings or prints of a cityscape or other vista",
+  "aatId": "300015556"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q166564",
+  "termLabel": "sunset",
+  "termDescription": "daily disappearance of the Sun below the western half of the horizon",
+  "aatId": "300343635"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q166593",
+  "termLabel": "Fauvism",
+  "termDescription": "artistic style that emphasized painterly qualities and strong color over the representational or realistic values retained by Impressionism",
+  "aatId": "300021300"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q166713",
+  "termLabel": "Post-impressionism",
+  "termDescription": "predominantly French art movement that developed roughly between 1886 and 1905",
+  "aatId": "300021508"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q167633",
+  "termLabel": "clog",
+  "termDescription": "thick-soled protective footwear made of wood",
+  "aatId": "300046066"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q168456",
+  "termLabel": "earring",
+  "termDescription": "piece of jewelry worn on an ear",
+  "aatId": "300045998"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q168658",
+  "termLabel": "doll",
+  "termDescription": "model of a character or a human being, often used as a toy for children or an artistic hobby for adults",
+  "aatId": "300211087"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q169031",
+  "termLabel": "glove",
+  "termDescription": "covering worn on the hand",
+  "aatId": "300148821"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q169251",
+  "termLabel": "sadness",
+  "termDescription": "emotional pain associated with, or characterized by, feelings of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q170210",
+  "termLabel": "absinthe",
+  "termDescription": "alcoholic drink"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q170477",
+  "termLabel": "chimney",
+  "termDescription": "structure that provides ventilation for exhausting the hot or toxic flue gases, aerosols and smokes produced by a boiler, stove, furnace or fireplace inside a building to the outside atmosphere"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q170483",
+  "termLabel": "sailing ship",
+  "termDescription": "large wind-powered water vessel",
+  "aatId": "300125446"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q170552",
+  "termLabel": "balcony",
+  "termDescription": "platform projecting from the wall of a building",
+  "aatId": "300002588"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q170571",
+  "termLabel": "still life",
+  "termDescription": "art genre mostly showing inanimate objects",
+  "aatId": "300015638"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q171497",
+  "termLabel": "common sunflower",
+  "termDescription": "species of flowering plant in the family of Asteraceae"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q171529",
+  "termLabel": "canoe",
+  "termDescription": "light boat that is paddled",
+  "aatId": "300212688"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q172455",
+  "termLabel": "Boulogne-Billancourt",
+  "termDescription": "French commune in Hauts-de-Seine, Île-de-France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q173453",
+  "termLabel": "wind instrument",
+  "termDescription": "class of musical instruments",
+  "aatId": "300042274"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q173799",
+  "termLabel": "entertainment",
+  "termDescription": "activity that holds attention or gives pleasure"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q174219",
+  "termLabel": "paint",
+  "termDescription": "pigmented liquid applied over a surface that dries as a solid film",
+  "aatId": "300015029"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q174647",
+  "termLabel": "heel",
+  "termDescription": "part of the foot in the back"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q174782",
+  "termLabel": "square",
+  "termDescription": "open public spaces in cities or towns, usually rectilinear, surrounded by buildings, and often located at the junction of two or more thoroughfares",
+  "aatId": "300008304"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q175130",
+  "termLabel": "Alfred Sisley",
+  "termDescription": "French, British painter (1839–1899)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q175166",
+  "termLabel": "tempera",
+  "termDescription": "painting medium consisting of colored pigment mixed with a water-soluble binder medium",
+  "aatId": "300015062"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q175185",
+  "termLabel": "rural area",
+  "termDescription": "geographic area that is located outside towns and cities",
+  "aatId": "300229355"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q175334",
+  "termLabel": "wheelbarrow",
+  "termDescription": "small hand-propelled vehicle",
+  "aatId": "300212906"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q177220",
+  "termLabel": "singer",
+  "termDescription": "person singing for a listening audience",
+  "aatId": "300025684"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q177232",
+  "termLabel": "son",
+  "termDescription": "male offspring; a boy or man in relation to his parents"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q178193",
+  "termLabel": "steamboat",
+  "termDescription": "type of steam powered vessel; smaller than a steamship; boat in which the primary method of marine propulsion is steam power",
+  "aatId": "300124118"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q178692",
+  "termLabel": "crane",
+  "termDescription": "type of machine specialised in lifting objects"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q179226",
+  "termLabel": "equestrianism",
+  "termDescription": "horse riding"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q180274",
+  "termLabel": "Notre-Dame de Chartres",
+  "termDescription": "medieval Roman Rite Catholic cathedral"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q180516",
+  "termLabel": "room",
+  "termDescription": "distinguishable space for humans within an enclosed structure",
+  "aatId": "300004044"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1630100",
+  "termLabel": "art model",
+  "termDescription": "person who poses for any visual artist as part of the creative process"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1639239",
+  "termLabel": "hatter",
+  "termDescription": "craftsperson who makes hats (blocking, shaping, sewing; may repair)",
+  "aatId": "300025354"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1640215",
+  "termLabel": "maison Fournaise",
+  "termDescription": "art museum in Chatou, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1642980",
+  "termLabel": "hairbrush",
+  "termDescription": "stick brush with rigid or soft bristles used in hair care",
+  "aatId": "300236713"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1656682",
+  "termLabel": "planned event",
+  "termDescription": "temporary and scheduled happening, like a conference, festival, competition or similar"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1753397",
+  "termLabel": "chambranle",
+  "termDescription": "border, frame, or ornament around chamber doors, windows, etc.",
+  "aatId": "300003118"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1759167",
+  "termLabel": "study",
+  "termDescription": "room in a house dedicated for work, like paperwork, computer work, or reading",
+  "aatId": "300081781"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1761704",
+  "termLabel": "net curtain",
+  "termDescription": "Vorhangsgespann"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1762308",
+  "termLabel": "sideboard",
+  "termDescription": "item of dining room furniture: a set of cabinets, or cupboards, and one or more drawers, topped by a surface for holding food, serving dishes, or lighting devices",
+  "aatId": "300039306"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1762975",
+  "termLabel": "parasol",
+  "termDescription": "umbrella specifically intended for protection from the sun, typically of lighter construction but sometimes inclusive of beach umbrellas etc.",
+  "aatId": "300046218"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1786363",
+  "termLabel": "Tonalism",
+  "termDescription": "19-20th-century US artistic movement using landscapes with colored atmosphere or mist, often gray, brown or blue",
+  "aatId": "300132908"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1787799",
+  "termLabel": "rue Saint-Honoré",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1792372",
+  "termLabel": "character",
+  "termDescription": "art figure (for fictional characters use Q95074)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1798603",
+  "termLabel": "string instrument",
+  "termDescription": "musical instrument that generates tones by one or more strings stretched between two points",
+  "aatId": "300203062"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16334295",
+  "termLabel": "group of humans",
+  "termDescription": "any set of human beings"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16499050",
+  "termLabel": "Lise Tréhot",
+  "termDescription": "mistress and model of the artist Pierre-Auguste Renoir (1848-1922)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16508119",
+  "termLabel": "Gulf of Saint-Tropez",
+  "termDescription": "Bucht in Frankreich"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16624872",
+  "termLabel": "washerwoman",
+  "termDescription": "service occupation, generally of women",
+  "aatId": "300188519"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q16875712",
+  "termLabel": "animal art",
+  "termDescription": "artistic theme of reproducing animals in art",
+  "aatId": "300386044"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17122834",
+  "termLabel": "blue",
+  "termDescription": "eye color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17244894",
+  "termLabel": "dark brown",
+  "termDescription": "eye color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17308750",
+  "termLabel": "André Mellerio",
+  "termDescription": "French art critic (1862-1943)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17453726",
+  "termLabel": "Laura de Gas"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17453787",
+  "termLabel": "Giulia Bellelli"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17453788",
+  "termLabel": "Giovanna Bellelli"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17457044",
+  "termLabel": "Edma Morisot",
+  "termDescription": "painter from France (1839–1921)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17457061",
+  "termLabel": "Blanche Pontillon"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17490495",
+  "termLabel": "Fisherman with a Net",
+  "termDescription": "painting by Frédéric Bazille, Arp Museum Bahnhof Rolandseck"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17490504",
+  "termLabel": "La Tireuse de cartes",
+  "termDescription": "painting by Frédéric Bazille"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17522203",
+  "termLabel": "Eylau Lepic",
+  "termDescription": "fille de Ludovic-Napoléon Lepic"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17522204",
+  "termLabel": "Jeanine Lepic",
+  "termDescription": "fille de Ludovic-Napoléon Lepic"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q17662147",
+  "termLabel": "cross-legged sitting",
+  "termDescription": "sitting position"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18121798",
+  "termLabel": "lovers' embrace",
+  "termDescription": "artistic theme"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q196",
+  "termLabel": "cherry",
+  "termDescription": "fruit of the cherry tree",
+  "aatId": "300440730"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1813",
+  "termLabel": "Saint-Tropez",
+  "termDescription": "French commune in Var, Provence-Alpes-Côte d'Azur"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18193",
+  "termLabel": "form",
+  "termDescription": "class or grouping of students in a school at the same academic level"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19014",
+  "termLabel": "Garden of Eden",
+  "termDescription": "mythological \"garden of God\" in the Bible and the Qur'an"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19686",
+  "termLabel": "River Thames",
+  "termDescription": "river in southern England"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q181391",
+  "termLabel": "bald head",
+  "termDescription": "state where most or all of hair from the head has been lost or intentionally removed"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q181946",
+  "termLabel": "Argenteuil",
+  "termDescription": "commune in Val-d'Oise, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q184191",
+  "termLabel": "lipstick",
+  "termDescription": "cosmetic for coloring the lips",
+  "aatId": "300236426"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q184296",
+  "termLabel": "tapestry",
+  "termDescription": "textile artwork, traditionally woven on a vertical loom using tapestry weaving techniques, sometimes embellished with embroidery or paint",
+  "aatId": "300205002"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q184872",
+  "termLabel": "recreation",
+  "termDescription": "human activity of leisure (discretionary time)",
+  "aatId": "300069710"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q185905",
+  "termLabel": "ukiyo-e",
+  "termDescription": "Japanese art genre, fl. 17th–19th c., consisting of woodblock prints and paintings of such subjects as female beauties, kabuki actors, sumo wrestlers, scenes from history and folk tales, travel scenes, landscapes, flora, fauna, and erotica",
+  "aatId": "300106769"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q186599",
+  "termLabel": "arabesque",
+  "termDescription": "decorative pattern of stylized foliage, characteristic of Muslim art",
+  "aatId": "300010206"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187192",
+  "termLabel": "Erik Satie",
+  "termDescription": "French composer and pianist (1866-1925)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187456",
+  "termLabel": "bar",
+  "termDescription": "establishment serving alcoholic beverages for consumption on the premises",
+  "aatId": "300005158"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187506",
+  "termLabel": "Honoré Daumier",
+  "termDescription": "French artist (1808–1879)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187616",
+  "termLabel": "relic",
+  "termDescription": "ancient religious object preserved for purposes of veneration",
+  "aatId": "300250795"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187947",
+  "termLabel": "sheet music",
+  "termDescription": "handwritten or printed form of musical notation that uses musical symbols to indicate the pitches, rhythms, or chords of a song or instrumental musical piece",
+  "aatId": "300026427"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q187997",
+  "termLabel": "vegetation",
+  "termDescription": "total of plant formations and plant communities",
+  "aatId": "300266061"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q188509",
+  "termLabel": "suburb",
+  "termDescription": "human settlement or residential area forming part of a metropolitan area, typically located outside the city centre",
+  "aatId": "300000874"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q188641",
+  "termLabel": "nipple",
+  "termDescription": "part of the breast"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q188669",
+  "termLabel": "fireplace",
+  "termDescription": "device for firing solid fuels in residential buildings",
+  "aatId": "300052267"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q188688",
+  "termLabel": "swing",
+  "termDescription": "hanging seat",
+  "aatId": "300211254"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q188869",
+  "termLabel": "field",
+  "termDescription": "area of land used for agricultural purposes",
+  "aatId": "300343519"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q189085",
+  "termLabel": "pastel",
+  "termDescription": "painting or drawing material to color a painting surface",
+  "aatId": "300122621"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q189299",
+  "termLabel": "necklace",
+  "termDescription": "article of jewellery",
+  "aatId": "300046001"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q189458",
+  "termLabel": "academic art",
+  "termDescription": "style of painting and sculpture produced under the influence of European academies of art",
+  "aatId": "300055954"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q189503",
+  "termLabel": "place de la Concorde",
+  "termDescription": "square in the 8th arrondissement of Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q190582",
+  "termLabel": "Danaë",
+  "termDescription": "daughter of Acrisius of Argos and Queen Eurydice, mother of Perseus, in Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q191089",
+  "termLabel": "old age",
+  "termDescription": "consists of ages nearing or surpassing the life expectancy of human beings",
+  "aatId": "300189603"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q191163",
+  "termLabel": "landscape painting",
+  "termDescription": "depiction of landscapes in painting",
+  "aatId": "300015636"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q191415",
+  "termLabel": "Asnières-sur-Seine",
+  "termDescription": "commune in Hauts-de-Seine, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q191529",
+  "termLabel": "wallpaper",
+  "termDescription": "material used to cover and decorate interior walls"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q191851",
+  "termLabel": "vase",
+  "termDescription": "open container",
+  "aatId": "300132254"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q192110",
+  "termLabel": "self-portrait",
+  "termDescription": "representation of an artist, drawn, painted, photographed, or sculpted by the artist",
+  "aatId": "300124534"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q192196",
+  "termLabel": "mist",
+  "termDescription": "phenomenon caused by small droplets of water suspended in air"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193017",
+  "termLabel": "stocking",
+  "termDescription": "hosiery that covers the feet and legs to the knee or higher",
+  "aatId": "300046088"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193220",
+  "termLabel": "hand fan",
+  "termDescription": "device used to cool oneself, usually made of folded paper",
+  "aatId": "300258857"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193294",
+  "termLabel": "sunrise",
+  "termDescription": "instant at which the upper edge of the Sun appears over the eastern horizon in the morning",
+  "aatId": "300343634"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193472",
+  "termLabel": "trunk",
+  "termDescription": "main wooden axis of a tree"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193567",
+  "termLabel": "Polyphemus",
+  "termDescription": "giant son of Poseidon and Thoosa in Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193680",
+  "termLabel": "Emile Verhaeren",
+  "termDescription": "Belgian poet (1855-1916)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193704",
+  "termLabel": "Saint-Briac-sur-Mer",
+  "termDescription": "commune in Ille-et-Vilaine, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193818",
+  "termLabel": "hip",
+  "termDescription": "anatomical region",
+  "aatId": "300310191"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193832",
+  "termLabel": "Cagnes-sur-Mer",
+  "termDescription": "commune in Alpes-Maritimes, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193833",
+  "termLabel": "ibis",
+  "termDescription": "subfamily of birds",
+  "aatId": "300389915"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193837",
+  "termLabel": "bedroom",
+  "termDescription": "private room where people usually sleep for the night or relax during the day",
+  "aatId": "300004364"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193877",
+  "termLabel": "Ivry-sur-Seine",
+  "termDescription": "commune in Val-de-Marne, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q193897",
+  "termLabel": "paintbrush",
+  "termDescription": "brush for painting",
+  "aatId": "300022385"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q194189",
+  "termLabel": "sales",
+  "termDescription": "exchange of goods for money over a targeted time period",
+  "aatId": "300078131"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q197204",
+  "termLabel": "fur",
+  "termDescription": "thick growth of hair that covers the skin of many different animals, particularly mammals",
+  "aatId": "300011811"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q199657",
+  "termLabel": "reading",
+  "termDescription": "cognitive process of decoding symbols to derive meaning; a form of language processing",
+  "aatId": "300248178"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q200034",
+  "termLabel": "pointillism",
+  "termDescription": "technique of painting with small, distinct dots",
+  "aatId": "300067450"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q200231",
+  "termLabel": "Oise",
+  "termDescription": "river in Belgium and France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q200539",
+  "termLabel": "dress",
+  "termDescription": "garment for adults, children, or infants consisting of a bodice and skirt made in one or more pieces",
+  "aatId": "300046159"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1849468",
+  "termLabel": "Ferdinand Leenhoff",
+  "termDescription": "Dutch painter and sculptor (1841-1914)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1902319",
+  "termLabel": "île de la Jatte",
+  "termDescription": "island in Hauts-de-Seine, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1922956",
+  "termLabel": "black hair",
+  "termDescription": "hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1935974",
+  "termLabel": "cityscape",
+  "termDescription": "art genre depicting the urban landscape",
+  "aatId": "300015571"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1959841",
+  "termLabel": "Château de Louveciennes",
+  "termDescription": "château in Yvelines, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1973949",
+  "termLabel": "shoulder strap",
+  "termDescription": "strip of leather, cloth, or other material passing over the shoulder, to support a garment or hang an object. Military shoulder straps are part of jackets to fasten shoulder marks or shoulder loops",
+  "aatId": "300259717"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1986098",
+  "termLabel": "standing",
+  "termDescription": "human position in which the body is held upright",
+  "aatId": "300239500"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q1994273",
+  "termLabel": "Flemish Baroque painting",
+  "termDescription": "painting movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2002752",
+  "termLabel": "headscarf",
+  "termDescription": "piece of cloth worn on one's head",
+  "aatId": "300256716"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2003749",
+  "termLabel": "oar",
+  "termDescription": "implement used for water-borne propulsion",
+  "aatId": "300213077"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18292376",
+  "termLabel": "Morkarlby",
+  "termDescription": "village in Mora Municipality, Sweden"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18353841",
+  "termLabel": "architectural painting",
+  "termDescription": "painting genre",
+  "aatId": "300440737"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18575790",
+  "termLabel": "blue sky",
+  "termDescription": "day sky without clouds"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18575822",
+  "termLabel": "pont de l'Europe",
+  "termDescription": "bridge over which the Place de l'Europe, Paris is built"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18668582",
+  "termLabel": "cardboard",
+  "termDescription": "painting surface made of heavy-duty paper of various strengths"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18715192",
+  "termLabel": "Hins Anders Ersson",
+  "termDescription": "Swedish watchmaker"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18811686",
+  "termLabel": "interior view",
+  "termDescription": "representation of the inside of an object; art genre",
+  "aatId": "300124520"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q18822288",
+  "termLabel": "architectural view",
+  "termDescription": "genre of painting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19359822",
+  "termLabel": "gas burner",
+  "termDescription": "device producing controlled flame produced by combusting a fuel gas",
+  "aatId": "300182337"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19387992",
+  "termLabel": "Le Prieuré",
+  "termDescription": "house in Saint-Germain-en-Laye, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19547247",
+  "termLabel": "family portrait",
+  "termDescription": "art genre; group portrait of a family",
+  "aatId": "300418028"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19862731",
+  "termLabel": "Le Moulin de la Galette",
+  "termDescription": "famous café in Paris that was depicted in many impressionist paintings"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19953536",
+  "termLabel": "neo-Pompeian",
+  "termDescription": "painting movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19968805",
+  "termLabel": "spinner",
+  "termDescription": "profession that involves spinning fibres",
+  "aatId": "300025363"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19968941",
+  "termLabel": "double portrait",
+  "termDescription": "portrait of two people",
+  "aatId": "300254374"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q19983456",
+  "termLabel": "gaze towards the viewer",
+  "termDescription": "sometimes-distinguishing characteristic of portraiture"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q220",
+  "termLabel": "Rome",
+  "termDescription": "capital and largest city of Italy"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2095",
+  "termLabel": "food",
+  "termDescription": "any substance consumed to provide nutritional support for the body; form of energy stored in chemical",
+  "aatId": "300254496"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22676",
+  "termLabel": "shoe",
+  "termDescription": "footwear",
+  "aatId": "300046065"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22698",
+  "termLabel": "park",
+  "termDescription": "permanently dedicated recreation area, often open to the public and generally characterized by natural, historic, or landscape features",
+  "aatId": "300008187"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22715",
+  "termLabel": "vineyard",
+  "termDescription": "plantation of grape-bearing vines",
+  "aatId": "300000248"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22731",
+  "termLabel": "stone",
+  "termDescription": "rock; building material",
+  "aatId": "300011176"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23392",
+  "termLabel": "ice",
+  "termDescription": "water frozen into the solid state",
+  "aatId": "300011781"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23397",
+  "termLabel": "lake",
+  "termDescription": "body of relatively still water, localized in a basin",
+  "aatId": "300008680"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23442",
+  "termLabel": "island",
+  "termDescription": "piece of sub-continental land completely surrounded by water",
+  "aatId": "300008791"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23482",
+  "termLabel": "Marseille",
+  "termDescription": "French commune in Bouches-du-Rhône, Provence-Alpes-Côte d'Azur; the second largest city of France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23485",
+  "termLabel": "onion",
+  "termDescription": "species of plant"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23490",
+  "termLabel": "wine bottle",
+  "termDescription": "bottle used for holding wine",
+  "aatId": "300045639"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q201022",
+  "termLabel": "folk dance",
+  "termDescription": "dances that were danced to traditional folk festivals and in traditional societies and are still been danced",
+  "aatId": "300389783"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q201097",
+  "termLabel": "basket",
+  "termDescription": "container without a lid, which is traditionally constructed from stiff fibres, used for loading, storing or transporting things",
+  "aatId": "300194498"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q201352",
+  "termLabel": "Pontoise",
+  "termDescription": "commune in Val-d'Oise, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q201664",
+  "termLabel": "bracelet",
+  "termDescription": "article worn around the wrist",
+  "aatId": "300045991"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q202466",
+  "termLabel": "blond hair",
+  "termDescription": "human hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q203605",
+  "termLabel": "carpentry",
+  "termDescription": "skilled trade",
+  "aatId": "300054085"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q203789",
+  "termLabel": "stove",
+  "termDescription": "device that consumes energy to heat the room around it or items on top of it",
+  "aatId": "300052201"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q204310",
+  "termLabel": "gendarmerie",
+  "termDescription": "military force charged with police duties among civilian populations"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q204330",
+  "termLabel": "gouache paint",
+  "termDescription": "type of paint",
+  "aatId": "300070114"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q204390",
+  "termLabel": "straw hat",
+  "termDescription": "hat made of straw"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q204776",
+  "termLabel": "bench",
+  "termDescription": "piece of furniture on which several people may sit at the same time",
+  "aatId": "300038494"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q204948",
+  "termLabel": "bow",
+  "termDescription": "stick-shaped implement with hairs used to play a bowed string musical instrument such as a violin"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q206493",
+  "termLabel": "Sèvres",
+  "termDescription": "commune in Hauts-de-Seine, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207123",
+  "termLabel": "herb",
+  "termDescription": "plant part used for flavoring, food, medicine, or perfume",
+  "aatId": "300132436"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207175",
+  "termLabel": "bohemianism",
+  "termDescription": "practice of an unconventional lifestyle",
+  "aatId": "300055776"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207298",
+  "termLabel": "Frédéric Bazille",
+  "termDescription": "French painter (1841–1870)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207334",
+  "termLabel": "hangover",
+  "termDescription": "unpleasant physiological and psychological effects following the consumption of ethanol"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207766",
+  "termLabel": "lawn",
+  "termDescription": "area of land planted with grasses and similar plants",
+  "aatId": "300008889"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q207967",
+  "termLabel": "Le Cannet",
+  "termDescription": "commune in Alpes-Maritimes, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q208531",
+  "termLabel": "Actaeon",
+  "termDescription": "son of Aristaeus in Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q209542",
+  "termLabel": "herd",
+  "termDescription": "group of animals",
+  "aatId": "300250891"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q209554",
+  "termLabel": "Western concert flute",
+  "termDescription": "transverse woodwind instrument made of metal or wood",
+  "aatId": "300201259"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q209626",
+  "termLabel": "bois de Boulogne",
+  "termDescription": "large public park the western edge of Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q212406",
+  "termLabel": "Auvers-sur-Oise",
+  "termDescription": "commune in Val-d'Oise, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q213096",
+  "termLabel": "seashell",
+  "termDescription": "hard, protective outer layer created by marine animal",
+  "aatId": "300011829"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q213449",
+  "termLabel": "eating",
+  "termDescription": "ingestion of food to provide for all organisms their nutritional or medicinal needs",
+  "aatId": "300375120"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q213753",
+  "termLabel": "harvest",
+  "termDescription": "process of people gathering mature crops or their products",
+  "aatId": "300417516"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q214617",
+  "termLabel": "Hagar",
+  "termDescription": "biblical character, Egyptian handmaid of Sarah, wife of Abraham"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q219160",
+  "termLabel": "couple",
+  "termDescription": "set of two people linked in a physical and emotional community"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q219540",
+  "termLabel": "chiaroscuro",
+  "termDescription": "use of strong contrasts between light and dark, usually bold contrasts affecting a whole composition in art",
+  "aatId": "300053414"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q221507",
+  "termLabel": "Saint-Rémy-de-Provence",
+  "termDescription": "commune in Bouches-du-Rhône, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q225451",
+  "termLabel": "Villeneuve-la-Garenne",
+  "termDescription": "commune in Hauts-de-Seine, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q231250",
+  "termLabel": "lace",
+  "termDescription": "openwork fabric, patterned with open holes in the work, made by machine or by hand",
+  "aatId": "300132861"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q231720",
+  "termLabel": "Honfleur",
+  "termDescription": "commune in Calvados, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q235113",
+  "termLabel": "angel",
+  "termDescription": "supernatural being or spirit in certain religions and mythologies",
+  "aatId": "300379004"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q235356",
+  "termLabel": "carriage",
+  "termDescription": "generally horse-drawn means of transport",
+  "aatId": "300185335"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q235779",
+  "termLabel": "hedge",
+  "termDescription": "planted row of shrubs",
+  "aatId": "300266413"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q236232",
+  "termLabel": "waist",
+  "termDescription": "body part"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q236371",
+  "termLabel": "orchard",
+  "termDescription": "intentional planting of trees or shrubs that is maintained for food production",
+  "aatId": "300008890"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2014570",
+  "termLabel": "goatee",
+  "termDescription": "beard style",
+  "aatId": "300379266"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2034021",
+  "termLabel": "dressmaker",
+  "termDescription": "person who designs, makes or adjusts custom clothing for men and women",
+  "aatId": "300343831"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2042113",
+  "termLabel": "Francis Vielé-Griffin",
+  "termDescription": "French symbolist poet (1864-1937)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2042369",
+  "termLabel": "Leuvehaven",
+  "termDescription": "port and street in Rotterdam, Netherlands"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2044369",
+  "termLabel": "intergluteal cleft",
+  "termDescription": "crack between buttocks"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2087952",
+  "termLabel": "cleavage",
+  "termDescription": "full or partial exposure of the separation between a woman's breasts by clothing"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2100893",
+  "termLabel": "cup with stem",
+  "termDescription": "open bowl-shaped vessel atop a stem, used chiefly for drinking, often having one handle",
+  "aatId": "300043202"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2103779",
+  "termLabel": "Ponte d'Augusto",
+  "termDescription": "bridge in Umbria, Italy"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2106696",
+  "termLabel": "dressing table",
+  "termDescription": "mirror dressing table for makeup application",
+  "aatId": "300039668"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2107098",
+  "termLabel": "Alpilles",
+  "termDescription": "mountains in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2111434",
+  "termLabel": "pendant",
+  "termDescription": "piece of jewelry made to hang from a cord, chain, ribbon or necklace",
+  "aatId": "300046002"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2115878",
+  "termLabel": "psyche",
+  "termDescription": "type of mirror"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2130331",
+  "termLabel": "footlight",
+  "termDescription": "part of stage lighting",
+  "aatId": "300180215"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2141830",
+  "termLabel": "boating",
+  "termDescription": "leisure activity involving boats",
+  "aatId": "300239493"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2144456",
+  "termLabel": "evening dress",
+  "termDescription": "woman's dress usually worn to a semi-formal or formal affair",
+  "aatId": "300243843"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2160801",
+  "termLabel": "skirt",
+  "termDescription": "type of clothing worn from the waist downwards",
+  "aatId": "300209932"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2179394",
+  "termLabel": "nude swimming",
+  "termDescription": "swimming without clothing"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2191986",
+  "termLabel": "elderly people",
+  "termDescription": "individuals who have reached an advanced stage of life",
+  "aatId": "300025913"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2201314",
+  "termLabel": "hen",
+  "termDescription": "female chicken",
+  "aatId": "300266507"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2207370",
+  "termLabel": "seat",
+  "termDescription": "object for sitting on",
+  "aatId": "300037769"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2255516",
+  "termLabel": "fife",
+  "termDescription": "musical instrument",
+  "aatId": "300042508"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2268776",
+  "termLabel": "lying",
+  "termDescription": "human position in which the body is more or less horizontal and supported along its length by the surface underneath"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2286991",
+  "termLabel": "boater",
+  "termDescription": "straw hat with a straight brim, flat crown and ribbon hatband",
+  "aatId": "300210718"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2352880",
+  "termLabel": "Dutch Golden Age painting",
+  "termDescription": "17th-century Dutch painting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q21333965",
+  "termLabel": "Hampton Court Bridge",
+  "termDescription": "former bridge across the River Thames, built in the 1860s"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22079390",
+  "termLabel": "platform",
+  "termDescription": "structure to elevate something, usually to highlight a speaker or a show"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22085061",
+  "termLabel": "sower",
+  "termDescription": "person sowing seed in a field"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22808839",
+  "termLabel": "naked woman",
+  "termDescription": "woman without clothes, often used as a model in art"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q22990992",
+  "termLabel": "Calvaire de Nizon",
+  "termDescription": "calvary located in Finistère, in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q243",
+  "termLabel": "Eiffel Tower",
+  "termDescription": "tower located on the Champ de Mars in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q287",
+  "termLabel": "wood",
+  "termDescription": "fibrous material from trees or other plants",
+  "aatId": "300011914"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23798",
+  "termLabel": "Eure",
+  "termDescription": "river in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23841",
+  "termLabel": "washing",
+  "termDescription": "method of cleaning using flowing liquid",
+  "aatId": "300053042"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q25243",
+  "termLabel": "Betula",
+  "termDescription": "genus of plants",
+  "aatId": "300343919"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q25391",
+  "termLabel": "dune",
+  "termDescription": "landform, hill of sand",
+  "aatId": "300008750"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26408",
+  "termLabel": "Pierre Bonnard",
+  "termDescription": "French painter and printmaker (1867-1947)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26421",
+  "termLabel": "Dordrecht",
+  "termDescription": "city and municipality in South Holland, the Netherlands"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26899",
+  "termLabel": "Aesculus hippocastanum",
+  "termDescription": "species of plant",
+  "aatId": "300374896"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28077",
+  "termLabel": "hammam",
+  "termDescription": "public steambath common in the Islamic world",
+  "aatId": "300007371"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28785",
+  "termLabel": "Sacré-Cœur",
+  "termDescription": "Roman Catholic church in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q238377",
+  "termLabel": "Pont-Aven",
+  "termDescription": "commune in Finistère, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q239394",
+  "termLabel": "Édouard Vuillard",
+  "termDescription": "French painter (1868-1940)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q241070",
+  "termLabel": "Galatea",
+  "termDescription": "nereid from Greek mythology"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q245005",
+  "termLabel": "teapot",
+  "termDescription": "vessel used for steeping tea leaves",
+  "aatId": "300043022"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q250902",
+  "termLabel": "swagger stick",
+  "termDescription": "short stick or riding crop usually carried by a uniformed person as a symbol of authority",
+  "aatId": "300251257"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q253939",
+  "termLabel": "Pierrefitte-sur-Seine",
+  "termDescription": "former commune in Seine-Saint-Denis, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q254615",
+  "termLabel": "gleaning",
+  "termDescription": "collecting unharvested food from already harvested crops"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q254829",
+  "termLabel": "Collioure",
+  "termDescription": "commune in Pyrénées-Orientales, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q256458",
+  "termLabel": "sleeve",
+  "termDescription": "part of clothing that covers the arms",
+  "aatId": "300210530"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q256922",
+  "termLabel": "Aestheticism",
+  "termDescription": "art movement emphasizing aesthetic considerations over social values",
+  "aatId": "300018124"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q258694",
+  "termLabel": "Incoherents",
+  "termDescription": "19th-century French art movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q264193",
+  "termLabel": "Émile Bernard",
+  "termDescription": "French painter (1868-1941)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q268547",
+  "termLabel": "roof tile",
+  "termDescription": "tile designed mainly to keep out rain",
+  "aatId": "300010699"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q271269",
+  "termLabel": "Åsgårdstrand",
+  "termDescription": "settlement in Horten Municipality, Norway"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q271273",
+  "termLabel": "Victorine Meurent",
+  "termDescription": "French painter, model for painters (1844-1927)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q271582",
+  "termLabel": "Pinus pinaster",
+  "termDescription": "species of plant",
+  "aatId": "300375604"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q271598",
+  "termLabel": "fishing net",
+  "termDescription": "net used for fishing"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q272016",
+  "termLabel": "Champagne-sur-Seine",
+  "termDescription": "commune in Seine-et-Marne, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q272320",
+  "termLabel": "Trouville-sur-Mer",
+  "termDescription": "commune in Calvados, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q273320",
+  "termLabel": "sibyl",
+  "termDescription": "class of female prophet in Greek and Roman legend"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q273506",
+  "termLabel": "School of Paris",
+  "termDescription": "art movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q273552",
+  "termLabel": "Marie Bracquemond",
+  "termDescription": "French painter (1840–1916)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q273831",
+  "termLabel": "apron",
+  "termDescription": "outer protective garment",
+  "aatId": "300046131"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q280336",
+  "termLabel": "partner dance",
+  "termDescription": "coordinated dancing of two partners"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q283102",
+  "termLabel": "afternoon",
+  "termDescription": "time of the day between morning and evening",
+  "aatId": "300343631"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q283202",
+  "termLabel": "harbor",
+  "termDescription": "sheltered body of water where ships, boats, and barges can be docked",
+  "aatId": "300008678"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q289951",
+  "termLabel": "Étienne Moreau-Nélaton",
+  "termDescription": "French painter (1859-1927)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2367101",
+  "termLabel": "brown hair",
+  "termDescription": "human hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2381615",
+  "termLabel": "Henri Guérard",
+  "termDescription": "French painter and engraver (1846-1897)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2383211",
+  "termLabel": "wash basin",
+  "termDescription": "type of large bowl typically for washing",
+  "aatId": "300195311"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2389241",
+  "termLabel": "Overschie",
+  "termDescription": "district of Rotterdam, Netherlands"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2393753",
+  "termLabel": "dress shirt",
+  "termDescription": "garment with a collar and a full-length opening at the front, which is fastened using buttons or shirt studs",
+  "aatId": "300209884"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2413314",
+  "termLabel": "jug",
+  "termDescription": "container used to hold liquid",
+  "aatId": "300045685"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2475008",
+  "termLabel": "agura",
+  "termDescription": "Japanese term for the position normally referred to as sitting cross-legged in English"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2477112",
+  "termLabel": "German Romanticism",
+  "termDescription": "intellectual movement in the culture of German-speaking countries in the late-18th and early 19th centuries"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2477787",
+  "termLabel": "American Impressionism",
+  "termDescription": "style of painting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2479458",
+  "termLabel": "jumper",
+  "termDescription": "sleeveless, collarless dress worn over a blouse, shirt or sweater",
+  "aatId": "300046164"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2487023",
+  "termLabel": "divisionism",
+  "termDescription": "style in Neo-Impressionist painting, using the separation of colors into individual dots or patches which interact optically"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2540134",
+  "termLabel": "squatting position",
+  "termDescription": "resting posture where the weight of the body is on the feet but the knees and hips are bent"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2553153",
+  "termLabel": "hoop",
+  "termDescription": "apparatus in rhythmic gymnastics made of plastic or wood"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2640465",
+  "termLabel": "prostrate shrub",
+  "termDescription": "plant with a trailing habit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2641426",
+  "termLabel": "Camille Doncieux",
+  "termDescription": "French artists' model (1847–1879)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2642826",
+  "termLabel": "French Realism",
+  "termDescription": "French painting movement",
+  "aatId": "300172861"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2699757",
+  "termLabel": "fireworks festival",
+  "termDescription": "event which exhibits a display of fireworks, often used for various celebrations or holidays such as New Years Eve"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2703478",
+  "termLabel": "mirror image",
+  "termDescription": "(in a plane mirror) reflected duplication of an object that appears almost identical, but is reversed in the direction perpendicular to the mirror surface"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2730732",
+  "termLabel": "equestrian",
+  "termDescription": "sportsperson who rides horses",
+  "aatId": "300188602"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2786992",
+  "termLabel": "View of the Village",
+  "termDescription": "painting by Frédéric Bazille"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2820111",
+  "termLabel": "cult image",
+  "termDescription": "human-made object that is venerated for the deity, spirit or daemon that it represents",
+  "aatId": "300178240"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2827081",
+  "termLabel": "Agostina Segatori",
+  "termDescription": "model"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2839016",
+  "termLabel": "allegory",
+  "termDescription": "pictorial representation of a figure to represent an idea or institution",
+  "aatId": "300055866"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2848741",
+  "termLabel": "André Utter",
+  "termDescription": "French painter (1886-1948)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2850057",
+  "termLabel": "Animaux",
+  "termDescription": "Wikimedia disambiguation page"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2857578",
+  "termLabel": "thunderstorm",
+  "termDescription": "a storm characterized by the presence of lightning, usually accompanied by strong winds and often produce heavy rain and sometimes snow, sleet, or hail, but some produce little precipitation or no precipitation at all",
+  "aatId": "300054745"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2864737",
+  "termLabel": "religious art",
+  "termDescription": "genre of art that is religious in theme",
+  "aatId": "300248179"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2878203",
+  "termLabel": "Bacchant",
+  "termDescription": "priest of Bacchus",
+  "aatId": "300379712"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2883457",
+  "termLabel": "banquette",
+  "termDescription": "upholstered bench-like seat"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2897058",
+  "termLabel": "bank",
+  "termDescription": "in geography, area between high and low tide marks of water bodies (both still and moving), or a raised landform on the side of a water body",
+  "aatId": "300008733"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q23823953",
+  "termLabel": "Inger Munch",
+  "termDescription": "teacher and photographer, sister of Edvard Munch (1868-1952)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q25391673",
+  "termLabel": "Domenica Walter",
+  "termDescription": "French art collector (1898-1977)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q25929865",
+  "termLabel": "Maria Van de Velde",
+  "termDescription": "French-Belgian-German pianist and designer"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26454627",
+  "termLabel": "Judith",
+  "termDescription": "biblical character of the Book of Judith"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26710052",
+  "termLabel": "Madeleine Bernard",
+  "termDescription": "sister of painter Emile Bernard"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q26766731",
+  "termLabel": "beach umbrella",
+  "termDescription": "large fixed or barely portable umbrellas intended for protection against the sun, particularly at beaches"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28040433",
+  "termLabel": "Pine of Bertaud",
+  "termDescription": "famous pine tree in Gassin, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28841980",
+  "termLabel": "Miss Lala",
+  "termDescription": "expert aerialist"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28858451",
+  "termLabel": "grey sky",
+  "termDescription": "sky that looks grey because of clouds"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q28861345",
+  "termLabel": "fontaine de la Nymphe fluviale",
+  "termDescription": "une des deux fontaines du Théâtre Français, à Paris"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q29048022",
+  "termLabel": "weft-knit fabric",
+  "termDescription": "handmade works or material created by interlacing loops of a long or continuous piece of yarn or thread by means of needles",
+  "aatId": "300264039"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q29053814",
+  "termLabel": "Martha Liebermann",
+  "termDescription": "Wife of the painter Max Liebermann"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q296",
+  "termLabel": "Claude Monet",
+  "termDescription": "French painter (1840–1926)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q302",
+  "termLabel": "Jesus Christ",
+  "termDescription": "central figure of Christianity (c. 6 or 4 BC – AD 30 or 33)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q327",
+  "termLabel": "Brittany",
+  "termDescription": "cultural area located in northwestern France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2977",
+  "termLabel": "cathedral",
+  "termDescription": "Christian church, which is seat of a bishop",
+  "aatId": "300007501"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2981",
+  "termLabel": "Notre-Dame de Paris",
+  "termDescription": "cathedral in Paris"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3010",
+  "termLabel": "boy",
+  "termDescription": "young male human",
+  "aatId": "300247598"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3031",
+  "termLabel": "girl",
+  "termDescription": "young female human",
+  "aatId": "300247581"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q29149",
+  "termLabel": "French Bulldog",
+  "termDescription": "French breed of dog"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30022",
+  "termLabel": "café",
+  "termDescription": "establishment that serves coffee and tea",
+  "aatId": "300005176"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30121",
+  "termLabel": "pasture",
+  "termDescription": "land used for grazing",
+  "aatId": "300008635"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30974",
+  "termLabel": "Rouen",
+  "termDescription": "commune in Seine-Maritime, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q32489",
+  "termLabel": "knife",
+  "termDescription": "tool with a cutting edge or blade",
+  "aatId": "300024668"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q33163",
+  "termLabel": "stool",
+  "termDescription": "simple seating furniture without backrest and armrest",
+  "aatId": "300038418"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q292728",
+  "termLabel": "Îles d'Hyères",
+  "termDescription": "group of four French islands in the Mediterranean Sea"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q295144",
+  "termLabel": "Gustave Caillebotte",
+  "termDescription": "French painter (1848–1894)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q296955",
+  "termLabel": "oil paint",
+  "termDescription": "type of slow-drying paint that consists of particles of pigment suspended in a drying oil",
+  "aatId": "300015050"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q297770",
+  "termLabel": "Marthe Bibesco",
+  "termDescription": "Romanian writer (1886-1973)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q299949",
+  "termLabel": "Ellen Andrée",
+  "termDescription": "Model for Degas and others"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q308194",
+  "termLabel": "daughter",
+  "termDescription": "female offspring; a girl or woman in relation to her parents",
+  "aatId": "300154348"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q309197",
+  "termLabel": "Bretons",
+  "termDescription": "Celtic ethnic group",
+  "aatId": "300385979"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q318078",
+  "termLabel": "Herblay-sur-Seine",
+  "termDescription": "commune in Val-d'Oise, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q318296",
+  "termLabel": "kidnapping",
+  "termDescription": "unauthorized taking away or transportation of a person against that person's will",
+  "aatId": "300379834"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q326551",
+  "termLabel": "Pierre Matisse",
+  "termDescription": "French art dealer (1900–1989)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q326606",
+  "termLabel": "Paul Sérusier",
+  "termDescription": "French painter (1864–1927)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q327055",
+  "termLabel": "worker",
+  "termDescription": "person who works",
+  "aatId": "300025886"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q327496",
+  "termLabel": "hairstyle",
+  "termDescription": "style of hair, usually on the human scalp"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q327651",
+  "termLabel": "bathing",
+  "termDescription": "washing of the body with a liquid",
+  "aatId": "300343854"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q330375",
+  "termLabel": "Folies Bergère",
+  "termDescription": "music hall and theatre in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q331432",
+  "termLabel": "fisher",
+  "termDescription": "someone who captures fish and other animals from a body of water, or gathers shellfish",
+  "aatId": "300025608"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q331744",
+  "termLabel": "mast",
+  "termDescription": "vertical pole used as the main support of a sailing vessel's rigging",
+  "aatId": "300000951"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q332428",
+  "termLabel": "overweight",
+  "termDescription": "having a body mass index of 25.0–29.9 kg/m2"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q333009",
+  "termLabel": "can can",
+  "termDescription": "music hall dance presentation"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q336128",
+  "termLabel": "head hair",
+  "termDescription": "hair on a human head"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q337481",
+  "termLabel": "overcoat",
+  "termDescription": "coat worn over street dress",
+  "aatId": "300209839"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2918082",
+  "termLabel": "flying trapeze",
+  "termDescription": "aerial circus performing act"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2921550",
+  "termLabel": "bougeoir",
+  "termDescription": "low, barrel-free candlestick that serves as a stand for a candle",
+  "aatId": "300037588"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2923673",
+  "termLabel": "branch",
+  "termDescription": "part of a tree; a shoot axis that develops from an axillary bud meristem or from equal divisions of a meristematic apical cell"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2925653",
+  "termLabel": "brisis",
+  "termDescription": "partie inférieure d'une toiture en combles à la Mansart"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2990688",
+  "termLabel": "Still Life with Compotier",
+  "termDescription": "painting by Paul Cézanne"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2990690",
+  "termLabel": "compote bowl",
+  "termDescription": "wide, flat, often stemmed vessel in which dessert compote is traditionally served",
+  "aatId": "300203361"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2991771",
+  "termLabel": "gathering",
+  "termDescription": "collecting wild food resources (by humans)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q2998471",
+  "termLabel": "folk costume of Brittany",
+  "termDescription": "traditional clothing of the Breton peoples of France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3037336",
+  "termLabel": "backrest",
+  "termDescription": "chair back"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3039121",
+  "termLabel": "drapery",
+  "termDescription": "depiction of the folds and woven patterns of loose-hanging clothing on the human form",
+  "aatId": "300262585"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3043270",
+  "termLabel": "hipshot",
+  "termDescription": "pose"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3047923",
+  "termLabel": "Edmond Maître",
+  "termDescription": "French musician (1840-1898)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3057620",
+  "termLabel": "bolster",
+  "termDescription": "long narrow pillow or cushion",
+  "aatId": "300236072"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3082251",
+  "termLabel": "jetty",
+  "termDescription": "structure that projects from the land out into water",
+  "aatId": "300006155"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3091399",
+  "termLabel": "dandelion",
+  "termDescription": "common name of several plants"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3092502",
+  "termLabel": "Félix Le Dantec",
+  "termDescription": "French biologist (1869-1917)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3095365",
+  "termLabel": "guard rail",
+  "termDescription": "fence or barrier consisting of one or more horizontal rails and vertical supports",
+  "aatId": "300002018"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3176062",
+  "termLabel": "Jeanne Guérard-Gonzalès",
+  "termDescription": "French painter (1852–1924)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3177968",
+  "termLabel": "waterhole",
+  "termDescription": "small body of water",
+  "aatId": "300387029"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3207105",
+  "termLabel": "La Cavalerie/Portagnel",
+  "termDescription": "human settlement in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3207452",
+  "termLabel": "La Cité",
+  "termDescription": "neighborhood in Arles"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3209598",
+  "termLabel": "La Grenouillère",
+  "termDescription": "floating café near Paris"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3239189",
+  "termLabel": "grazing",
+  "termDescription": "method of feeding in which a herbivore eats parts of low-growing grasses, forbs or algae"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3241565",
+  "termLabel": "woodland",
+  "termDescription": "low-density forest forming open habitats with plenty of sunlight and limited shade",
+  "aatId": "300157169"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3253281",
+  "termLabel": "artificial pond",
+  "termDescription": "body of man-made standing water, that is usually smaller than a lake",
+  "aatId": "300008688"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3257809",
+  "termLabel": "purple",
+  "termDescription": "range of colors with the hues between blue and red",
+  "aatId": "300130257"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3257871",
+  "termLabel": "dressing room",
+  "termDescription": "room in a theatre, for artists' change of clothing and preparations"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3304106",
+  "termLabel": "Cirque Medrano",
+  "termDescription": "former circus building in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3305213",
+  "termLabel": "painting",
+  "termDescription": "visual artwork, surface artistically covered with paint",
+  "aatId": "300033618"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3314483",
+  "termLabel": "fruit",
+  "termDescription": "typically sweet and/or sour, edible part/s of a plant that resembles seed-bearing fruit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3354532",
+  "termLabel": "shawl",
+  "termDescription": "simple item of clothing, loosely worn over the shoulders, upper body and arms",
+  "aatId": "300209991"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3360523",
+  "termLabel": "rushing",
+  "termDescription": "process of weaving rushes or similar materials into resilient seats for chairs"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3363340",
+  "termLabel": "paradise",
+  "termDescription": "religious term for a place of eternal, peaceful and harmonious existence",
+  "aatId": "300055986"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3374353",
+  "termLabel": "battle painting",
+  "termDescription": "genre of painting, battle scene"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3374376",
+  "termLabel": "mythological painting",
+  "termDescription": "genre in painting based on stories of Ovid, Aesop's fables, plays, or other popular myths"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3374389",
+  "termLabel": "watercolor paint",
+  "termDescription": "material consisting of pigment suspended in water to form a painting medium",
+  "aatId": "300015045"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3374395",
+  "termLabel": "glue tempera painting",
+  "termDescription": "painting technique using animal glue as a binder"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3382191",
+  "termLabel": "upright piano",
+  "termDescription": "piano with the strings arranged in a vertical plane",
+  "aatId": "300041721"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3392548",
+  "termLabel": "high-angle shot",
+  "termDescription": "camera angle"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3396471",
+  "termLabel": "Boieldieu Bridge",
+  "termDescription": "bridge in Rouen, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3396944",
+  "termLabel": "Courbevoie Bridge",
+  "termDescription": "bridge in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q29168092",
+  "termLabel": "Laure",
+  "termDescription": "artists' model"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30061303",
+  "termLabel": "Beach of Dieppe",
+  "termDescription": "plage française"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30303254",
+  "termLabel": "historiated portrait",
+  "termDescription": "portrait painting in theatrical costume; usually only the faces are the portrait and the rest is fantasized"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q30456678",
+  "termLabel": "poplar",
+  "termDescription": "temperate tree"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q33036816",
+  "termLabel": "oak",
+  "termDescription": "type of tree; a particular (notable) oak tree"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q345",
+  "termLabel": "Mary",
+  "termDescription": "mother of Jesus Christ"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q361",
+  "termLabel": "World War I",
+  "termDescription": "1914–1918 global conflict"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q376",
+  "termLabel": "clock",
+  "termDescription": "instrument that measures the passage of time",
+  "aatId": "300041575"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q33971",
+  "termLabel": "leaf",
+  "termDescription": "main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk",
+  "aatId": "300400479"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q33986",
+  "termLabel": "Valparaíso",
+  "termDescription": "city in Chile"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q33999",
+  "termLabel": "actor",
+  "termDescription": "person who acts in a dramatic or comic production and works in film, television, theatre, or radio",
+  "aatId": "300025658"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34201",
+  "termLabel": "Zeus",
+  "termDescription": "Greek god of the sky and king of the gods"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34379",
+  "termLabel": "musical instrument",
+  "termDescription": "device created or adapted to make musical sounds",
+  "aatId": "300041620"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34404",
+  "termLabel": "New Orleans",
+  "termDescription": "largest city of the state of Louisiana, United States"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34442",
+  "termLabel": "road",
+  "termDescription": "wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34618",
+  "termLabel": "Gustave Courbet",
+  "termDescription": "French painter (1819–1877)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34636",
+  "termLabel": "Art Nouveau",
+  "termDescription": "international philosophy and style of art, architecture and applied art",
+  "aatId": "300021430"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q34679",
+  "termLabel": "sand",
+  "termDescription": "granular material composed of finely divided rock and mineral particles, sand particles range in diameter from 0.063 to 2 mm (per ISO 14688)",
+  "aatId": "300014341"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35105",
+  "termLabel": "Mardi Gras",
+  "termDescription": "holiday on the day before Ash Wednesday",
+  "aatId": "300164207"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35171",
+  "termLabel": "Grover Cleveland",
+  "termDescription": "President of the United States (1885–89; 1893–97)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35197",
+  "termLabel": "mirror",
+  "termDescription": "surface, typically glass coated with a metal amalgam, which reflects a clear image",
+  "aatId": "300037682"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35409",
+  "termLabel": "family",
+  "termDescription": "taxonomic rank (or a taxon at that rank) between order and genus"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35473",
+  "termLabel": "window",
+  "termDescription": "opening to admit light or air",
+  "aatId": "300002944"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35500",
+  "termLabel": "Aphrodite",
+  "termDescription": "Greek goddess of love, beauty, pleasure, and procreation"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35831",
+  "termLabel": "sleep",
+  "termDescription": "naturally recurring resting state of mind and body",
+  "aatId": "300375130"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q35872",
+  "termLabel": "boat",
+  "termDescription": "smaller watercraft",
+  "aatId": "300178749"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q36133",
+  "termLabel": "soil",
+  "termDescription": "natural body consisting of layers that are primarily composed of minerals",
+  "aatId": "300014330"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q36794",
+  "termLabel": "door",
+  "termDescription": "flat, movable structure used to open and close an entrance",
+  "aatId": "300002803"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q36963",
+  "termLabel": "hunting",
+  "termDescription": "human activity of searching for, pursuing, and catching wild animals",
+  "aatId": "300239666"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37017",
+  "termLabel": "face",
+  "termDescription": "part of the body at the front of the head"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37068",
+  "termLabel": "Romanticism",
+  "termDescription": "artistic, literary, musical, and intellectual movement",
+  "aatId": "300172863"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37083",
+  "termLabel": "Olea europaea",
+  "termDescription": "olive plant, species of plant used as food",
+  "aatId": "300311369"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37226",
+  "termLabel": "teacher",
+  "termDescription": "person who helps others to acquire knowledge, competences or values",
+  "aatId": "300025529"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37260",
+  "termLabel": "writing",
+  "termDescription": "persistent representation of language"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37477",
+  "termLabel": "fog",
+  "termDescription": "atmospheric phenomenon",
+  "aatId": "300055374"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37501",
+  "termLabel": "glasses",
+  "termDescription": "accessories that improve human vision",
+  "aatId": "300236409"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37693",
+  "termLabel": "Paul Gauguin",
+  "termDescription": "French painter and printmaker (1848–1903)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q37853",
+  "termLabel": "Baroque",
+  "termDescription": "cultural movement, starting around 1600",
+  "aatId": "300021147"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q38166",
+  "termLabel": "modern art",
+  "termDescription": "artistic works produced during the period extending roughly from the 1860s to the 1970s",
+  "aatId": "300264736"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q38720",
+  "termLabel": "windmill",
+  "termDescription": "machine that converts the energy of wind into rotational energy by means of adjustable sails",
+  "aatId": "300006273"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q38967",
+  "termLabel": "herding dog",
+  "termDescription": "type of pastoral dog"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q345127",
+  "termLabel": "robe",
+  "termDescription": "loose-fitting outer garment, worn in many historical periods and contexts",
+  "aatId": "300209852"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q349185",
+  "termLabel": "wrinkle",
+  "termDescription": "fold, ridge, or crease in the skin",
+  "aatId": "300228341"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q351746",
+  "termLabel": "Joaquín Sorolla",
+  "termDescription": "Spanish painter (1863–1923)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q355304",
+  "termLabel": "watercourse",
+  "termDescription": "any flowing body of water",
+  "aatId": "300387091"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q360418",
+  "termLabel": "construction site",
+  "termDescription": "place where a building is constructed, reconstructed or demolished",
+  "aatId": "300312090"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q367553",
+  "termLabel": "La Celle-Saint-Cloud",
+  "termDescription": "commune in Yvelines, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q371752",
+  "termLabel": "calvary",
+  "termDescription": "type of monumental public crucifix",
+  "aatId": "300010047"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q373017",
+  "termLabel": "basketry",
+  "termDescription": "weaving of pliable materials to make three-dimensional artifacts",
+  "aatId": "300053590"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q373916",
+  "termLabel": "nymph",
+  "termDescription": "minor female nature deity in Greek and Roman mythology; personifications of nature"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q377380",
+  "termLabel": "Édouard Dessommes",
+  "termDescription": "American French language writer"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q382056",
+  "termLabel": "Pont-Aven School",
+  "termDescription": "art movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q383363",
+  "termLabel": "Camaret-sur-Mer",
+  "termDescription": "commune in Finistère, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3397238",
+  "termLabel": "Pont de l'île Saint-Denis",
+  "termDescription": "bridge in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3398270",
+  "termLabel": "Port-Blanc",
+  "termDescription": "human settlement in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3399907",
+  "termLabel": "crock (dishware)",
+  "termDescription": "container used to cook food in ovens or direct fire"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3408836",
+  "termLabel": "Proto-Cubism",
+  "termDescription": "transition phase in art history toward Cubism"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3412655",
+  "termLabel": "quai Saint-Michel",
+  "termDescription": "thoroughfare in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3421342",
+  "termLabel": "stripe",
+  "termDescription": "long, narrow band of color, often in alternating sets",
+  "aatId": "300010230"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3447463",
+  "termLabel": "rue Clapeyron",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3449688",
+  "termLabel": "rue Ravignan",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3450738",
+  "termLabel": "rue de Furstemberg",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3451108",
+  "termLabel": "rue de Turin",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3477927",
+  "termLabel": "Seine in Paris",
+  "termDescription": "part of the river that crosses the French capital"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3478362",
+  "termLabel": "Semaine sanglante",
+  "termDescription": "1871 weeklong siege of Paris by the Versailles government to recapture it from the Paris Commune"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3491901",
+  "termLabel": "Notre-Dame de Clignancourt",
+  "termDescription": "church located in Paris, in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3500725",
+  "termLabel": "billiard table",
+  "termDescription": "special table used exclusively for billiards or snooker",
+  "aatId": "300039627"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3501466",
+  "termLabel": "steatomery",
+  "termDescription": "in humans, fatty buildup of the back of the thighs and buttocks"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3504747",
+  "termLabel": "chinstrap beard",
+  "termDescription": "beard style"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3518590",
+  "termLabel": "terrasson",
+  "termDescription": "partie supérieure d'une toiture en combles à la Mansart"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3518622",
+  "termLabel": "earthen floor",
+  "termDescription": "floor made of earth"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3519050",
+  "termLabel": "eroticism",
+  "termDescription": "quality that causes sexual feelings",
+  "aatId": "300249821"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3530449",
+  "termLabel": "roofs of Paris",
+  "termDescription": "roofs of the buildings in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3537778",
+  "termLabel": "donkey",
+  "termDescription": "equine with long ears",
+  "aatId": "300265959"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3558922",
+  "termLabel": "Pardigon",
+  "termDescription": "archaeological site in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3560705",
+  "termLabel": "Virginie Amélie Avegno Gautreau",
+  "termDescription": "American socialite (1859-1915)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3580262",
+  "termLabel": "église Notre-Dame-de-l'Assomption d'Auvers-sur-Oise",
+  "termDescription": "church located in Val-d'Oise, in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3588769",
+  "termLabel": "Émile Teulon",
+  "termDescription": "French politician (1793–1877)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3656684",
+  "termLabel": "Kasei culture",
+  "termDescription": "Culture during early to mid-19th century Japan"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3706062",
+  "termLabel": "stream bank",
+  "termDescription": "strip of land bordering a watercourse (brook, stream, river)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3736439",
+  "termLabel": "duck",
+  "termDescription": "common name for many species in the bird family Anatidae"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3744585",
+  "termLabel": "haymaking",
+  "termDescription": "activities related to harvesting hay"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3759783",
+  "termLabel": "Gennaro Bellelli",
+  "termDescription": "Italian politician (1812–1864)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3806351",
+  "termLabel": "jaleo",
+  "termDescription": "clapping chorus in flamenco"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3840711",
+  "termLabel": "riverfront",
+  "termDescription": "spaces, land, or part of an urban area on the edge of a river",
+  "aatId": "300008343"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q44",
+  "termLabel": "beer",
+  "termDescription": "alcoholic beverage obtained by fermenting starchy materials and not distilled"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q405",
+  "termLabel": "Moon",
+  "termDescription": "Earth's only natural satellite"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q434",
+  "termLabel": "Pyrus",
+  "termDescription": "genus of plants",
+  "aatId": "300375178"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q467",
+  "termLabel": "woman",
+  "termDescription": "female adult human",
+  "aatId": "300025943"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3947",
+  "termLabel": "house",
+  "termDescription": "building usually intended for living in",
+  "aatId": "300005433"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q3964",
+  "termLabel": "Port of Hamburg",
+  "termDescription": "port in Hamburg, Germany on the river Elbe"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4022",
+  "termLabel": "river",
+  "termDescription": "larger natural watercourse",
+  "aatId": "300008707"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4421",
+  "termLabel": "forest",
+  "termDescription": "trees populated area (>10%), larger than 5,000 m², and not used for agricultural or urban purposes",
+  "aatId": "300008863"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4618",
+  "termLabel": "Carnival",
+  "termDescription": "festive season which occurs immediately before Lent",
+  "aatId": "300069042"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39344",
+  "termLabel": "sighthound",
+  "termDescription": "dog type"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39427",
+  "termLabel": "surrealism",
+  "termDescription": "international cultural movement that began in the early 1920s",
+  "aatId": "300021512"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39546",
+  "termLabel": "physical tool",
+  "termDescription": "physical item that can be used to achieve a goal",
+  "aatId": "300024841"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39715",
+  "termLabel": "lighthouse",
+  "termDescription": "structure designed to emit light to aid navigation",
+  "aatId": "300007741"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39908",
+  "termLabel": "trousers",
+  "termDescription": "clothing for the legs and lower body",
+  "aatId": "300209935"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q39931",
+  "termLabel": "Pierre-Auguste Renoir",
+  "termDescription": "French painter and sculptor (1841–1919)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40050",
+  "termLabel": "drink",
+  "termDescription": "kind of liquid which is specifically prepared for human consumption",
+  "aatId": "300389821"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40080",
+  "termLabel": "beach",
+  "termDescription": "area of sand or small stones near the sea or another area of water such as a lake",
+  "aatId": "300008816"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40415",
+  "termLabel": "Impressionism",
+  "termDescription": "19th-century art movement",
+  "aatId": "300021503"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40446",
+  "termLabel": "nude",
+  "termDescription": "art genre for works that have as their primary subject the unclothed human body",
+  "aatId": "300189568"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40599",
+  "termLabel": "Édouard Manet",
+  "termDescription": "French painter (1832–1883)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q40953",
+  "termLabel": "prayer",
+  "termDescription": "invocation or act that seeks to activate a rapport with a deity"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q41176",
+  "termLabel": "building",
+  "termDescription": "structure, typically enclosed with a roof and walls, standing more or less permanently in one place",
+  "aatId": "300004792"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q41406",
+  "termLabel": "Edvard Munch",
+  "termDescription": "Norwegian painter (1863–1944)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q41425",
+  "termLabel": "ballet",
+  "termDescription": "type of performance dance; performing arts genre; theatrical genre",
+  "aatId": "300054145"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q41607",
+  "termLabel": "umbrella",
+  "termDescription": "canopy designed to protect against inclement weather, particularly rain and sun",
+  "aatId": "300046227"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q41751",
+  "termLabel": "pendulum clock",
+  "termDescription": "timekeeping device"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42000",
+  "termLabel": "Tahiti",
+  "termDescription": "island in the Southern Pacific Ocean"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42165",
+  "termLabel": "buttocks",
+  "termDescription": "two rounded portions of the anatomy, traditionally located on the posterior of various organisms"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42177",
+  "termLabel": "bed",
+  "termDescription": "piece of furniture used as a place to sleep or relax",
+  "aatId": "300038697"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42486",
+  "termLabel": "wrestling",
+  "termDescription": "form of combat sport involving grappling type techniques",
+  "aatId": "300343539"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42603",
+  "termLabel": "priest",
+  "termDescription": "person who consecrates his life to some divinity and whose main functions are to direct religious rites and offer sacrifices to the divinity (for a minister use Q1423891)",
+  "aatId": "300025774"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42804",
+  "termLabel": "beard",
+  "termDescription": "facial hair on the chin, upper lip, cheeks and neck",
+  "aatId": "300379263"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42865",
+  "termLabel": "Orientalism",
+  "termDescription": "imitation or depiction of aspects of Eastern cultures by Western writers and artists",
+  "aatId": "300055784"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42934",
+  "termLabel": "cubism",
+  "termDescription": "early-20th-century avant-garde art movement",
+  "aatId": "300021495"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q42948",
+  "termLabel": "wall",
+  "termDescription": "vertical structure, usually solid, that defines and sometimes protects an area",
+  "aatId": "300002469"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q43192",
+  "termLabel": "flag of France",
+  "termDescription": "national flag of the French Republic"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q43483",
+  "termLabel": "water well",
+  "termDescription": "excavation or structure created in the ground to access groundwater",
+  "aatId": "300152327"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q43748",
+  "termLabel": "eyebrow",
+  "termDescription": "arch of hair above the eye of a human"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q43801",
+  "termLabel": "navel",
+  "termDescription": "scar on the abdomen at the attachment site of the umbilical cord"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q44416",
+  "termLabel": "necktie",
+  "termDescription": "clothing item, traditionally worn by boys and men with dress shirt",
+  "aatId": "300210068"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q44619",
+  "termLabel": "fear",
+  "termDescription": "emotion induced by perceived danger or threat",
+  "aatId": "300055160"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q44782",
+  "termLabel": "port",
+  "termDescription": "maritime facility where ships may dock to load and discharge passengers and cargo"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q45199",
+  "termLabel": "sailor",
+  "termDescription": "person who navigates water-borne vessels or assists in doing so",
+  "aatId": "300136375"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q45621",
+  "termLabel": "ceramic",
+  "termDescription": "inorganic, nonmetallic solid prepared by the action of heat",
+  "aatId": "300235507"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q46721",
+  "termLabel": "vampire",
+  "termDescription": "mythological or folkloric creature"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q46847",
+  "termLabel": "ring",
+  "termDescription": "circular object worn as a type of ornamental jewellery",
+  "aatId": "300046012"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47053",
+  "termLabel": "estuary",
+  "termDescription": "type of marine and riverine ecosystem",
+  "aatId": "300266571"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47107",
+  "termLabel": "bucket",
+  "termDescription": "tube-shaped container used to hold or transport liquids or other materials",
+  "aatId": "300045651"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47128",
+  "termLabel": "Christmas tree",
+  "termDescription": "tree, often decorated, used in the celebration of Christmas",
+  "aatId": "300264822"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47484",
+  "termLabel": "André Gide",
+  "termDescription": "French author and Nobel laureate (1869–1951)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47521",
+  "termLabel": "stream",
+  "termDescription": "natural body of water with current within bed and stream banks",
+  "aatId": "300008699"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47652",
+  "termLabel": "Venus",
+  "termDescription": "Roman goddess of love, sexuality, procreation and pleasure"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q390409",
+  "termLabel": "gridiron",
+  "termDescription": "metal grate with parallel bars for grilling over fire",
+  "aatId": "300203658"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q390418",
+  "termLabel": "Pont Alexandre III",
+  "termDescription": "bridge that spans the Seine in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q391788",
+  "termLabel": "bed sheet",
+  "termDescription": "rectangular piece of cloth or linen cotton used to cover a mattress",
+  "aatId": "300204598"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q392030",
+  "termLabel": "Agay",
+  "termDescription": "neighborhood in Saint-Raphaël, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q399342",
+  "termLabel": "Bougival",
+  "termDescription": "commune in Yvelines, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q422666",
+  "termLabel": "understory",
+  "termDescription": "plant life growing beneath a forest canopy without penetrating it to any great extent, but above the forest floor"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q425548",
+  "termLabel": "palette",
+  "termDescription": "flat surface for mixing paints",
+  "aatId": "300022625"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q432101",
+  "termLabel": "Félix Fénéon",
+  "termDescription": "French anarchist and art critic (1861-1944)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q436844",
+  "termLabel": "Armand Guillaumin",
+  "termDescription": "French painter (1841-1927)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q440369",
+  "termLabel": "Maurice Denis",
+  "termDescription": "French painter (1870–1943)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q444177",
+  "termLabel": "Charles Ephrussi",
+  "termDescription": "critic, art historian, and art collector, member of the Ephrussi family (1849-1905)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q447487",
+  "termLabel": "Misia Sert",
+  "termDescription": "art patron (1872–1950)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q453263",
+  "termLabel": "Pleumeur-Bodou",
+  "termDescription": "commune in Côtes-d'Armor, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q456327",
+  "termLabel": "Ville-d'Avray",
+  "termDescription": "French commune in Hauts-de-Seine, Île-de-France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q459041",
+  "termLabel": "Ambroise Vollard",
+  "termDescription": "French art dealer (1866-1939)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q468756",
+  "termLabel": "shore",
+  "termDescription": "fringe of land at the edge of a large body of water"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q474555",
+  "termLabel": "Castelnau-le-Lez",
+  "termDescription": "commune in Hérault, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q475018",
+  "termLabel": "living room",
+  "termDescription": "room in a residential house for relaxing and socializing",
+  "aatId": "300081958"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q478515",
+  "termLabel": "ball",
+  "termDescription": "dance party",
+  "aatId": "300069619"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4157047",
+  "termLabel": "Lydia Délectorsckaya",
+  "termDescription": "painter (1910-1998)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4259259",
+  "termLabel": "canvas",
+  "termDescription": "extremely heavy-duty plain-woven fabric"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4327778",
+  "termLabel": "fireplace mantel",
+  "termDescription": "framework around a fireplace",
+  "aatId": "300052347"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4358873",
+  "termLabel": "glade",
+  "termDescription": "open area within a woodland"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4442468",
+  "termLabel": "La Toilette",
+  "termDescription": "painting by Frédéric Bazille"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4520512",
+  "termLabel": "Aline Charigot",
+  "termDescription": "Model and wife of Auguste Renoir (1859–1915)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4526862",
+  "termLabel": "gaiters",
+  "termDescription": "garment worn over the shoe and lower pants leg",
+  "aatId": "300210027"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4767336",
+  "termLabel": "Anna McNeill Whistler",
+  "termDescription": "mother of painter James McNeill Whistler (1804–1881)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q44042209",
+  "termLabel": "Scène de théâtre",
+  "termDescription": "painting by Georges Kars"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5",
+  "termLabel": "human",
+  "termDescription": "any single member of Homo sapiens, unique extant species of the genus Homo"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q482",
+  "termLabel": "poetry",
+  "termDescription": "literary style characterized by a strong expressiveness of words",
+  "aatId": "300055931"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q487",
+  "termLabel": "smile",
+  "termDescription": "conscious or subconscious facial muscular movement conveying mirth or pleasure",
+  "aatId": "300417502"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q504",
+  "termLabel": "Émile Zola",
+  "termDescription": "French novelist, journalist, playwright, and poet (1840–1902)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q506",
+  "termLabel": "flower",
+  "termDescription": "sexual reproductive structure found on flowering plants",
+  "aatId": "300132399"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q515",
+  "termLabel": "city",
+  "termDescription": "large human settlement",
+  "aatId": "300008389"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q523",
+  "termLabel": "star",
+  "termDescription": "astronomical object consisting of a luminous spheroid of plasma held together by its own gravity",
+  "aatId": "300387654"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q525",
+  "termLabel": "Sun",
+  "termDescription": "star at the centre of the Solar System"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q527",
+  "termLabel": "sky",
+  "termDescription": "region of the atmosphere and outer space visible from the surface of the Earth",
+  "aatId": "300263064"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q532",
+  "termLabel": "village",
+  "termDescription": "small clustered human settlement smaller than a town",
+  "aatId": "300008372"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q571",
+  "termLabel": "book",
+  "termDescription": "medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form",
+  "aatId": "300028051"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q575",
+  "termLabel": "night",
+  "termDescription": "period from sunset to sunrise in each twenty-four hours",
+  "aatId": "300133095"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q602",
+  "termLabel": "Rhône",
+  "termDescription": "river in Switzerland and France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4918",
+  "termLabel": "Mediterranean Sea",
+  "termDescription": "sea between Europe, Africa and Asia"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5113",
+  "termLabel": "bird",
+  "termDescription": "class of vertebrates characterized by wings, a feather-covered body and a beak",
+  "aatId": "300266506"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5582",
+  "termLabel": "Vincent van Gogh",
+  "termDescription": "Dutch painter (1853–1890)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5589",
+  "termLabel": "Henri Matisse",
+  "termDescription": "French artist (1869-1954)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5638",
+  "termLabel": "bus",
+  "termDescription": "large road vehicle for transporting people",
+  "aatId": "300212677"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5852",
+  "termLabel": "blanket",
+  "termDescription": "a large piece of woven fabric used as a bed covering or other covering",
+  "aatId": "300197367"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5994",
+  "termLabel": "piano",
+  "termDescription": "musical keyboard instrument",
+  "aatId": "300042909"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q47928",
+  "termLabel": "circus",
+  "termDescription": "company of acrobats; place of artistic spectacle"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q48292",
+  "termLabel": "Arles",
+  "termDescription": "commune in Bouches-du-Rhône, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q48422",
+  "termLabel": "corpse",
+  "termDescription": "dead human body"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q48438",
+  "termLabel": "Saint George",
+  "termDescription": "Christian saint and martyr (died 303)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q49005",
+  "termLabel": "curtain",
+  "termDescription": "cloth used to block out light",
+  "aatId": "300037564"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q49444",
+  "termLabel": "cork",
+  "termDescription": "material derived from the cork oak",
+  "aatId": "300011862"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q49747",
+  "termLabel": "Maurice Maeterlinck",
+  "termDescription": "Belgian playwright and essayist (1862–1949)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q50656",
+  "termLabel": "Zacharie Astruc",
+  "termDescription": "French sculptor, painter, poet, and art critic (1833-1907)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q51636",
+  "termLabel": "crucifixion of Jesus",
+  "termDescription": "Jesus' crucifixion as described in the four canonical gospels"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q52943",
+  "termLabel": "conversation",
+  "termDescription": "interactive spoken exchange between two or more people, characterized by turn-taking and mutual engagement; distinct from monologue or formal speech"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q54050",
+  "termLabel": "hill",
+  "termDescription": "landform that extends above the surrounding terrain in lower mountain ranges, smaller than a mountain",
+  "aatId": "300008777"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q54128",
+  "termLabel": "domestic worker",
+  "termDescription": "person who works within the scope of a residence",
+  "aatId": "300025874"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q54795",
+  "termLabel": "pubic hair",
+  "termDescription": "hair in the frontal genital area of adolescent and adult humans"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q55995",
+  "termLabel": "Naturalism",
+  "termDescription": "art movement",
+  "aatId": "300311115"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q55996",
+  "termLabel": "naturalism",
+  "termDescription": "literary movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q57216",
+  "termLabel": "plate",
+  "termDescription": "flat vessel on which food can be served",
+  "aatId": "300042991"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q58701",
+  "termLabel": "Adam and Eve",
+  "termDescription": "first man and woman in Abrahamic creation myth"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q483444",
+  "termLabel": "kimono",
+  "termDescription": "traditional Japanese garment",
+  "aatId": "300046171"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q486382",
+  "termLabel": "Castel Sant'Angelo",
+  "termDescription": "castle and museum in Rome, formerly the imperial mausoleum of the emperor Hadrian and subsequent Roman emperors"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q487623",
+  "termLabel": "transparency",
+  "termDescription": "property of an object or substance to transmit light with minimal scattering",
+  "aatId": "300056220"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q502261",
+  "termLabel": "silence",
+  "termDescription": "lack of audible sound"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q503708",
+  "termLabel": "Les Nabis",
+  "termDescription": "artist collective"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q503958",
+  "termLabel": "streetlight",
+  "termDescription": "raised source of light on the edge of a road or walkway",
+  "aatId": "300101536"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q506294",
+  "termLabel": "picnic",
+  "termDescription": "an excursion at which a meal is eaten outdoors",
+  "aatId": "300379161"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q506894",
+  "termLabel": "littoral zone",
+  "termDescription": "part of a sea, lake or river that is close to the shore"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q514847",
+  "termLabel": "contrapposto",
+  "termDescription": "artistic disposition of human figure with weight shifted to one foot",
+  "aatId": "300067391"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q524534",
+  "termLabel": "Suzanne Manet",
+  "termDescription": "pianist, wife of Édouard Manet for whom she frequently modeled (1829–1906)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q533859",
+  "termLabel": "Ker-Xavier Roussel",
+  "termDescription": "French painter (1867-1944)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q536168",
+  "termLabel": "tablecloth",
+  "termDescription": "cloth used to cover a table",
+  "aatId": "300204969"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q537127",
+  "termLabel": "road bridge",
+  "termDescription": "bridge that carries road traffic",
+  "aatId": "300007891"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q538408",
+  "termLabel": "Jeanne Samary",
+  "termDescription": "French actress (1857–1890)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q555224",
+  "termLabel": "Henri-Edmond Cross",
+  "termDescription": "French Neo-Impressionist painter (1856-1910)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q585067",
+  "termLabel": "Paul Ranson",
+  "termDescription": "French painter and writer (1861–1909)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q586332",
+  "termLabel": "Antoine Guillemet",
+  "termDescription": "French painter (1841-1918)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q595942",
+  "termLabel": "aerial perspective",
+  "termDescription": "The optical effect on the visibility of objects seen through air with distance",
+  "aatId": "300133044"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q604222",
+  "termLabel": "Sainte-Adresse",
+  "termDescription": "commune in Seine-Maritime, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4801255",
+  "termLabel": "artistic dress",
+  "termDescription": "medieval-inspired dress reform movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q4991371",
+  "termLabel": "soldier",
+  "termDescription": "member of the armed forces",
+  "aatId": "300185678"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5004679",
+  "termLabel": "path",
+  "termDescription": "small road or street",
+  "aatId": "300008321"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5090115",
+  "termLabel": "Chelsea Old Church",
+  "termDescription": "church in Royal Borough of Kensington and Chelsea, UK"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5094009",
+  "termLabel": "chestnut hair",
+  "termDescription": "hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5135350",
+  "termLabel": "closed position",
+  "termDescription": "category of positions"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5135552",
+  "termLabel": "clothed male, naked female",
+  "termDescription": "genre of erotics"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5156785",
+  "termLabel": "composition doll",
+  "termDescription": "doll made of a wood based composite material"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5386499",
+  "termLabel": "Eric Forbes-Robertson",
+  "termDescription": "British artist (1865-1935)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5448026",
+  "termLabel": "figure painting",
+  "termDescription": "genre of painting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5572480",
+  "termLabel": "gluteal sulcus",
+  "termDescription": "fold separating the thigh from the buttock"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5607708",
+  "termLabel": "Gretchen Osgood Warren",
+  "termDescription": "American poet (1868-1961)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5689512",
+  "termLabel": "headboard",
+  "termDescription": "piece of furniture that attaches to the head of a bed",
+  "aatId": "300040447"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q5716684",
+  "termLabel": "dancer",
+  "termDescription": "person who uses their body to express themselves through movement and dance",
+  "aatId": "300025653"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q51017512",
+  "termLabel": "Clotilde García del Castillo",
+  "termDescription": "(1865-1929)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q52684119",
+  "termLabel": "plaster",
+  "termDescription": "fluid or pasty preparation (often a mortar) that is applied to a surface (typically a wall) to smooth, protect or decorate it"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q55714854",
+  "termLabel": "Charlotte Louise Burckhardt",
+  "termDescription": "artist's model"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q56822897",
+  "termLabel": "mill building",
+  "termDescription": "building that houses a mill"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q56884010",
+  "termLabel": "Caroline Joblaud",
+  "termDescription": "1870"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q56884023",
+  "termLabel": "Amélie Parayre",
+  "termDescription": "wife of the painter Henri Matisse"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q57654624",
+  "termLabel": "Jeanne Darlot",
+  "termDescription": "French actress"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q59668787",
+  "termLabel": "pine tree",
+  "termDescription": "common forest tree"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q59819625",
+  "termLabel": "Joaquín Sorolla García",
+  "termDescription": "Spanish artist (1892-1948)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q60458657",
+  "termLabel": "apple tree",
+  "termDescription": "fruit-bearing tree"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q638",
+  "termLabel": "music",
+  "termDescription": "art using sound",
+  "aatId": "300054146"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q726",
+  "termLabel": "horse",
+  "termDescription": "domesticated four-footed mammal from the equine family"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q756",
+  "termLabel": "plant",
+  "termDescription": "living thing in the kingdom of photosynthetic eukaryotes",
+  "aatId": "300132360"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6097",
+  "termLabel": "tea",
+  "termDescription": "brewed drink made from tea leaves",
+  "aatId": "300249828"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6607",
+  "termLabel": "guitar",
+  "termDescription": "fretted string instrument",
+  "aatId": "300042025"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6649",
+  "termLabel": "lesbianism",
+  "termDescription": "sexual attraction between women",
+  "aatId": "300400505"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7254",
+  "termLabel": "Affenpinscher",
+  "termDescription": "German breed of dog"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7307",
+  "termLabel": "kiss",
+  "termDescription": "touch with the lips, usually to express love or affection, or as a greeting"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7362",
+  "termLabel": "ear",
+  "termDescription": "organ that detects sound; organ of hearing and balance"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7368",
+  "termLabel": "sheep",
+  "termDescription": "domesticated ruminant bred for meat, wool, and milk",
+  "aatId": "300404156"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7434",
+  "termLabel": "uniform",
+  "termDescription": "similar clothing worn by a group of people",
+  "aatId": "300212393"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7560",
+  "termLabel": "mother",
+  "termDescription": "female parent",
+  "aatId": "300025932"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7561",
+  "termLabel": "snow",
+  "termDescription": "precipitation in the form of ice crystal flakes",
+  "aatId": "300055381"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7565",
+  "termLabel": "father",
+  "termDescription": "male parent",
+  "aatId": "300025931"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7569",
+  "termLabel": "child",
+  "termDescription": "human between birth and puberty",
+  "aatId": "300025945"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q62577",
+  "termLabel": "haystack",
+  "termDescription": "pile of hay"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q71724",
+  "termLabel": "Lorient",
+  "termDescription": "commune in Morbihan, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q606489",
+  "termLabel": "Ludovic-Napoléon Lepic",
+  "termDescription": "French painter and engraver (1839-1889)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q613972",
+  "termLabel": "tray",
+  "termDescription": "shallow platform designed for carrying things"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q623699",
+  "termLabel": "Angelus",
+  "termDescription": "Catholic devotion honoring the Incarnation of Christ, usually prayed three times a day"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q624065",
+  "termLabel": "Molesey",
+  "termDescription": "suburban district comprising two large villages, East Molesey and West Molesey, just outside the edge of Greater London in Surrey, England"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q624114",
+  "termLabel": "kitchen garden",
+  "termDescription": "space separate from the rest of the residential garden",
+  "aatId": "300008110"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q628179",
+  "termLabel": "trail",
+  "termDescription": "path with a rough beaten or dirt/stone surface used for travel"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q633546",
+  "termLabel": "eye contact",
+  "termDescription": "eyes gazing into other eyes"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q639669",
+  "termLabel": "musician",
+  "termDescription": "person who composes, conducts or performs music",
+  "aatId": "300025666"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q641406",
+  "termLabel": "terrace",
+  "termDescription": "external, raised, open, flat area in architecture",
+  "aatId": "300004182"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q642855",
+  "termLabel": "Woodcock",
+  "termDescription": "genus of birds"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q643352",
+  "termLabel": "grass",
+  "termDescription": "collective name for three families of plants",
+  "aatId": "300132397"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q643546",
+  "termLabel": "haze",
+  "termDescription": "atmospheric phenomenon in which dust, smoke, and other dry particulates obscure the clarity of the sky"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q650399",
+  "termLabel": "towpath",
+  "termDescription": "path along a canal for pulling boats",
+  "aatId": "300262531"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q650570",
+  "termLabel": "bowler hat",
+  "termDescription": "hard, round-crowned hat with a narrow rolled brim",
+  "aatId": "300046103"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q652122",
+  "termLabel": "sewing",
+  "termDescription": "craft of fastening or attaching objects using stitches made with a needle and thread",
+  "aatId": "300053658"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q657449",
+  "termLabel": "parade",
+  "termDescription": "celebratory procession of people, at least partially on foot",
+  "aatId": "300069283"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q658028",
+  "termLabel": "Ariel",
+  "termDescription": "character in Shakespeare's The Tempest"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q660281",
+  "termLabel": "contre-jour",
+  "termDescription": "photographic technique in which the light source is directly in or near the direction of the subject"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q661199",
+  "termLabel": "dining room",
+  "termDescription": "rooms in private houses or public establishments in which dinner and other principal meals are taken and which are furnished for this purpose",
+  "aatId": "300004346"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q662860",
+  "termLabel": "smoking",
+  "termDescription": "breathing in smoke after burning a substance and inhaling, done in order to be tasted and absorbed into the bloodstream",
+  "aatId": "300380156"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q667456",
+  "termLabel": "Oslofjord",
+  "termDescription": "fjord in southern Norway, with Oslo bordering the fjord"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q667999",
+  "termLabel": "nightstand",
+  "termDescription": "small table or cabinet designed to stand beside a bed or elsewhere in a bedroom",
+  "aatId": "300039745"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q686000",
+  "termLabel": "Pont-Saint-Martin",
+  "termDescription": "commune in Loire-Atlantique, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q693340",
+  "termLabel": "pontoon",
+  "termDescription": "flotation device; airtight hollow structures that is buoyant in water",
+  "aatId": "300233447"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q693690",
+  "termLabel": "bull",
+  "termDescription": "uncastrated adult male cattle"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q696265",
+  "termLabel": "mosquito net",
+  "termDescription": "fine net used to exclude mosquitos and other biting insects",
+  "aatId": "300024806"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q733035",
+  "termLabel": "Bormes-les-Mimosas",
+  "termDescription": "commune in Var, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q735150",
+  "termLabel": "mule",
+  "termDescription": "backless shoe",
+  "aatId": "300216741"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q737062",
+  "termLabel": "Olympia",
+  "termDescription": "painting by Édouard Manet"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q737988",
+  "termLabel": "patio",
+  "termDescription": "an outdoor space generally used for dining or recreation",
+  "aatId": "300004184"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q742333",
+  "termLabel": "history painting",
+  "termDescription": "genre in painting defined by historical matter (see also religious painting and mythological painting)",
+  "aatId": "300033898"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q742530",
+  "termLabel": "idyll",
+  "termDescription": "short rustic poem"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q743535",
+  "termLabel": "Chelsea",
+  "termDescription": "area of London and former civil parish"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q746628",
+  "termLabel": "studio",
+  "termDescription": "working place set aside for artist to work, the term is generally applied to workspaces used by artists creating fine art, particularly art dating from the 16th century to the present",
+  "aatId": "300007725"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q747506",
+  "termLabel": "Gare Saint-Lazare",
+  "termDescription": "train station in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q751880",
+  "termLabel": "Japonisme",
+  "termDescription": "European imitation of Japanese art during the 19th and 20th centuries",
+  "aatId": "300055785"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q757022",
+  "termLabel": "sett",
+  "termDescription": "piece of natural stone used for paving roads, sett is distinct from a cobblestone by being quarried and shaped to a regular form, whereas cobblestone naturally have a rounded shape due to erosion",
+  "aatId": "300011719"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q762133",
+  "termLabel": "Louveciennes",
+  "termDescription": "commune in Yvelines, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6059276",
+  "termLabel": "picture hat",
+  "termDescription": "large, wide-brimmed hat of lightweight material, trimmed with flowers, ribbons or plumes, worn for race meetings, garden parties, and other outdoor daytime events",
+  "aatId": "300046108"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6147804",
+  "termLabel": "cap",
+  "termDescription": "any of a variety of brimless head coverings, sometimes made with a visor",
+  "aatId": "300046094"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6159376",
+  "termLabel": "Valsaín",
+  "termDescription": "human settlement in Real Sitio de San Ildefonso, Segovia Province, Castile and León, Spain"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6460735",
+  "termLabel": "meal",
+  "termDescription": "eating that takes place at a specific time",
+  "aatId": "300379053"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6497468",
+  "termLabel": "disguise",
+  "termDescription": "anything which conceals or changes a person's physical appearance",
+  "aatId": "300258478"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6515317",
+  "termLabel": "Parliament of Norway Building",
+  "termDescription": "Seat of the Storting, the parliament of Norway"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6537379",
+  "termLabel": "walking",
+  "termDescription": "one of the main gaits of locomotion among legged animals, typically slower than running and other gaits; characterized by a 'vaulting' movement of the body over the legs, frequently described as an inverted pendulum",
+  "aatId": "300248181"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6545811",
+  "termLabel": "jealousy",
+  "termDescription": "emotion referring to the thoughts and feelings of insecurity, fear, and envy over relative lack of possessions, status or something of great personal value"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6565319",
+  "termLabel": "Syringa vulgaris",
+  "termDescription": "species of flowering plant"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6578319",
+  "termLabel": "malleolus",
+  "termDescription": "bone in the ankle"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6581097",
+  "termLabel": "male",
+  "termDescription": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6918773",
+  "termLabel": "ribbon",
+  "termDescription": "long, narrow woven textile, used for trimming, belts, filets, and straps of various kinds",
+  "aatId": "300014668"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q6933946",
+  "termLabel": "white hair",
+  "termDescription": "hair color"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7126304",
+  "termLabel": "Eugène Manet",
+  "termDescription": "French painter (1833-1892)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7214166",
+  "termLabel": "grain harvest",
+  "termDescription": "harvesting of cereals"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7578326",
+  "termLabel": "péniche",
+  "termDescription": "type of ship"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q61444300",
+  "termLabel": "Cezannian cubism",
+  "termDescription": "early phase of cubism (c. 1907–c. 1909)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q61662427",
+  "termLabel": "Damse vaart",
+  "termDescription": "part of canal in Belgium"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q62576151",
+  "termLabel": "Marthe Meurier",
+  "termDescription": "wife of Maurice Denis (1871-1919)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q63485763",
+  "termLabel": "Irma Saenger-Sethe",
+  "termDescription": "Belgian violinist"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q65546963",
+  "termLabel": "fruit basket",
+  "termDescription": "basket of fruit"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q66845497",
+  "termLabel": "La Terrasse de Méric",
+  "termDescription": "painting by Frédéric Bazille"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q67801773",
+  "termLabel": "Marie Joséphine Cornélie Thomas",
+  "termDescription": "French landlady and mother of painter Berthe Morisot"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q75349638",
+  "termLabel": "Gertrude Agnew",
+  "termDescription": "(1864-1932)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q75646019",
+  "termLabel": "Rachel Warren",
+  "termDescription": "(1891-1950)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q84",
+  "termLabel": "London",
+  "termDescription": "capital and largest city of England and the United Kingdom"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q89",
+  "termLabel": "apple",
+  "termDescription": "edible fruit of the apple tree",
+  "aatId": "300266417"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q870",
+  "termLabel": "train",
+  "termDescription": "form of rail transport consisting of a series of connected vehicles"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q897",
+  "termLabel": "gold",
+  "termDescription": "chemical element with symbol Au and atomic number 79; a dense, malleable, and corrosion-resistant precious metal widely used as currency, in jewelry, electronics, and as a financial reserve asset",
+  "aatId": "300011021"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7722",
+  "termLabel": "morning",
+  "termDescription": "period of time from sunrise to noon",
+  "aatId": "300343630"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7725",
+  "termLabel": "evening",
+  "termDescription": "period of the day between afternoon and nighttime",
+  "aatId": "300343633"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7802",
+  "termLabel": "bread",
+  "termDescription": "baked food made of flour, water and other ingredients",
+  "aatId": "300262820"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7860",
+  "termLabel": "nature",
+  "termDescription": "natural, physical, or material world and its phenomena",
+  "aatId": "300179372"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7925",
+  "termLabel": "rain",
+  "termDescription": "liquid water in the form of droplets that have condensed from atmospheric water vapor and then precipitated",
+  "aatId": "300055377"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8060",
+  "termLabel": "Romani people",
+  "termDescription": "Indo-Aryan ethnic group"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8068",
+  "termLabel": "flood",
+  "termDescription": "overflow of water that submerges land that is usually dry",
+  "aatId": "300054731"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8074",
+  "termLabel": "cloud",
+  "termDescription": "visible mass of liquid droplets or frozen crystals suspended in the atmosphere",
+  "aatId": "300343840"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8094",
+  "termLabel": "wind",
+  "termDescription": "flow of gases or air on a large scale",
+  "aatId": "300055395"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8355",
+  "termLabel": "violin",
+  "termDescription": "bowed string instrument",
+  "aatId": "300042215"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8436",
+  "termLabel": "family",
+  "termDescription": "group of people affiliated by consanguinity, law, affinity, or co-residence",
+  "aatId": "300055474"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8441",
+  "termLabel": "man",
+  "termDescription": "male adult human",
+  "aatId": "300025928"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8465",
+  "termLabel": "civil war",
+  "termDescription": "war between organized groups within the same sovereign state or republic",
+  "aatId": "300055315"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8486",
+  "termLabel": "coffee",
+  "termDescription": "brewed beverage made from seeds of Coffea genus",
+  "aatId": "300254662"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8502",
+  "termLabel": "mountain",
+  "termDescription": "large natural elevation of the Earth's surface",
+  "aatId": "300008795"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8918",
+  "termLabel": "Ursa Major",
+  "termDescription": "constellation visible throughout the year in most of the northern hemisphere"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q76475",
+  "termLabel": "gypsy",
+  "termDescription": "potentially pejorative collective term for Roma, Yenish and other nomadic peoples in Europe"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q76574",
+  "termLabel": "maypole",
+  "termDescription": "tall wooden pole erected as a part of various European folk festivals"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q76768",
+  "termLabel": "shirt",
+  "termDescription": "fabric garment worn on the upper part of the body",
+  "aatId": "300212499"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q79007",
+  "termLabel": "street",
+  "termDescription": "public thoroughfare in a built environment like a village or city",
+  "aatId": "300008247"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q79171",
+  "termLabel": "Pauline von Metternich",
+  "termDescription": "Austrian princess (1836-1921)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q80113",
+  "termLabel": "Expressionism",
+  "termDescription": "modernist art movement",
+  "aatId": "300021502"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q80151",
+  "termLabel": "hat",
+  "termDescription": "shaped head covering, having a brim and a crown, or one of these",
+  "aatId": "300046106"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q80228",
+  "termLabel": "bottle",
+  "termDescription": "closable cylindrical container for transport and storage of liquids and gases",
+  "aatId": "300045627"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81025",
+  "termLabel": "feather",
+  "termDescription": "body-covering structure of some dinosaurs including birds",
+  "aatId": "300400474"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81166",
+  "termLabel": "mustard gas",
+  "termDescription": "chemical compound"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81707",
+  "termLabel": "teacup",
+  "termDescription": "tableware: cup, with or without a handle",
+  "aatId": "300043226"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81710",
+  "termLabel": "shepherd",
+  "termDescription": "person who tends, feeds, or guards flocks of sheep",
+  "aatId": "300025617"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81727",
+  "termLabel": "cup",
+  "termDescription": "vessel for liquids",
+  "aatId": "300043230"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q81895",
+  "termLabel": "spoon",
+  "termDescription": "utensil consisting of a small shallow bowl, oval or round, at the end of a handle",
+  "aatId": "300043149"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q82445",
+  "termLabel": "Henri de Toulouse-Lautrec",
+  "termDescription": "French painter and illustrator (1864–1901)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q83180",
+  "termLabel": "roof",
+  "termDescription": "top covering of a building",
+  "aatId": "300002098"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q83405",
+  "termLabel": "factory",
+  "termDescription": "facility where goods are industrially made, or processed",
+  "aatId": "300006232"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q83772",
+  "termLabel": "toplessness",
+  "termDescription": "state in which the torso is exposed above the waist or hips"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q88291",
+  "termLabel": "citadel",
+  "termDescription": "type of fortress protecting a town and naval term for a safe room",
+  "aatId": "300006902"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q765606",
+  "termLabel": "Orientalist painting",
+  "termDescription": "painting movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q779272",
+  "termLabel": "ice skating",
+  "termDescription": "activity on ice, either outdoors or indoors at a skating rink",
+  "aatId": "300222802"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q790404",
+  "termLabel": "Aven",
+  "termDescription": "river in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q796635",
+  "termLabel": "linens",
+  "termDescription": "household textiles and (historically) personal clothing",
+  "aatId": "300257519"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q804633",
+  "termLabel": "equilibristics",
+  "termDescription": "circusvaardigheden die te maken hebben met evenwicht of balans"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q808132",
+  "termLabel": "barefoot",
+  "termDescription": "common term for the state of not wearing any footwear",
+  "aatId": "300404742"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q810945",
+  "termLabel": "Battersea Bridge",
+  "termDescription": "arch bridge with cast-iron girders and granite piers crossing the River Thames in London"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q817393",
+  "termLabel": "black people",
+  "termDescription": "skin color-based classification of people with origins in the tropical climate zone of Africa and Melanesia"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q818517",
+  "termLabel": "Tuileries Garden",
+  "termDescription": "public garden in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q828909",
+  "termLabel": "wharf",
+  "termDescription": "structure on the shore of a harbor or on the bank of a river or canal where ships moor",
+  "aatId": "300120786"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q829298",
+  "termLabel": "en plein air",
+  "termDescription": "act of painting outdoors",
+  "aatId": "300266829"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q830183",
+  "termLabel": "Eve",
+  "termDescription": "The first woman in the story of Genesis"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q831530",
+  "termLabel": "rosacea",
+  "termDescription": "long-term human skin disease characterized by ruddy reddening of the skin"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q836084",
+  "termLabel": "crinoline",
+  "termDescription": "petticoat",
+  "aatId": "300210554"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q837024",
+  "termLabel": "social realism",
+  "termDescription": "art showing conditions of the working class",
+  "aatId": "300061066"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q838811",
+  "termLabel": "peasant",
+  "termDescription": "member of a traditional class of farmers",
+  "aatId": "300230852"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q838828",
+  "termLabel": "parquetry",
+  "termDescription": "ornate wooden floor design",
+  "aatId": "300053858"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q839734",
+  "termLabel": "pigtail",
+  "termDescription": "gathered hank of hair (either braided or not) hanging from the back or from the sides of the head"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q843173",
+  "termLabel": "Pyrrhula",
+  "termDescription": "genus of birds"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q843533",
+  "termLabel": "areola",
+  "termDescription": "pigmented area on the breast around the nipple"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q847847",
+  "termLabel": "synthetism",
+  "termDescription": "art movement",
+  "aatId": "300021308"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q848365",
+  "termLabel": "primitivism",
+  "termDescription": "art movement",
+  "aatId": "300056548"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q849964",
+  "termLabel": "jacket",
+  "termDescription": "clothing for the upper body",
+  "aatId": "300046167"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q858436",
+  "termLabel": "neorealism",
+  "termDescription": "art movement"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q860172",
+  "termLabel": "Canal Saint-Martin",
+  "termDescription": "canal in Paris"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q860792",
+  "termLabel": "frame",
+  "termDescription": "decorative edging for a picture, such as a painting or photograph"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q860861",
+  "termLabel": "sculpture",
+  "termDescription": "three-dimensional work of art",
+  "aatId": "300047090"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q863048",
+  "termLabel": "princess",
+  "termDescription": "title of royalty",
+  "aatId": "300155241"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q864693",
+  "termLabel": "chicken as food",
+  "termDescription": "type of widely consumed poultry"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q869381",
+  "termLabel": "flowerpot",
+  "termDescription": "(usually) conical container in pottery or plastic in which flowers and plants are grown",
+  "aatId": "300194749"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q870476",
+  "termLabel": "Ponte Sant'Angelo",
+  "termDescription": "bridge in Rome"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q876082",
+  "termLabel": "sole",
+  "termDescription": "bottom part of foot"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q878985",
+  "termLabel": "modernism",
+  "termDescription": "movement of art, culture, philosophy and architecture",
+  "aatId": "300021474"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q889525",
+  "termLabel": "cloisonnism",
+  "termDescription": "style of post-Impressionist painting",
+  "aatId": "300021297"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7777019",
+  "termLabel": "meadow",
+  "termDescription": "field vegetated primarily by grass and other non-woody plants (grassland)",
+  "aatId": "300008876"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q7790099",
+  "termLabel": "Thomas Gold Appleton",
+  "termDescription": "American artist (1812-1884)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8317542",
+  "termLabel": "Frédéric Hartmann",
+  "termDescription": "politician from France (1822-1880)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q8866546",
+  "termLabel": "kneeling",
+  "termDescription": "human position where one or both knees touch the ground",
+  "aatId": "300265356"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q80015380",
+  "termLabel": "Black Lion Wharf",
+  "termDescription": "print by James McNeill Whistler (American, 1834-1903) (1940.808)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q80223335",
+  "termLabel": "naked man",
+  "termDescription": "man without clothes, often used as a model in art"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q83502563",
+  "termLabel": "Alphonse de Toulouse-Lautrec-Monfa",
+  "termDescription": "(1838-1913)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q90",
+  "termLabel": "Paris",
+  "termDescription": "capital and most populous city in France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q998",
+  "termLabel": "infant",
+  "termDescription": "very young offspring of a human",
+  "aatId": "300189561"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q9103",
+  "termLabel": "female breast",
+  "termDescription": "one of two prominences located on the region of the torso of a female primate, containing the mammary gland"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q9644",
+  "termLabel": "joint",
+  "termDescription": "anatomical site where two or more bones or exoskeleton segments are abutted"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q9730",
+  "termLabel": "classical music",
+  "termDescription": "broad tradition of Western art music"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q9764",
+  "termLabel": "flamenco",
+  "termDescription": "genre of Spanish music and dance"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q90205",
+  "termLabel": "Adele Bloch-Bauer",
+  "termDescription": "Austrian art collector and model for Gustav Klimt (1881-1925)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q93184",
+  "termLabel": "drawing",
+  "termDescription": "visual artwork in two-dimensional medium",
+  "aatId": "300033973"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q99895",
+  "termLabel": "pillow",
+  "termDescription": "cushion for the head"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q898830",
+  "termLabel": "procession",
+  "termDescription": "group of people walking publicly with symbolic significance along a route"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q904653",
+  "termLabel": "fruit tree",
+  "termDescription": "tree which bears fruit that is consumed or used by humans and some animals"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q910284",
+  "termLabel": "laundry detergent",
+  "termDescription": "type of detergent used for cleaning laundry"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q911285",
+  "termLabel": "hessian",
+  "termDescription": "woven fabric from jute or sisal",
+  "aatId": "300014076"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q917381",
+  "termLabel": "garrigue",
+  "termDescription": "type of low, soft-leaved scrubland ecoregion and plant community"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q929186",
+  "termLabel": "gold leaf",
+  "termDescription": "very thin gold used in art",
+  "aatId": "300264831"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q932761",
+  "termLabel": "Nera",
+  "termDescription": "Italian river"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q934849",
+  "termLabel": "headband",
+  "termDescription": "a band, typically made of fabric, worn around the head as a decoration or to keep the hair or perspiration off the face",
+  "aatId": "300046115"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q939611",
+  "termLabel": "easel",
+  "termDescription": "painting implement",
+  "aatId": "300079638"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q942467",
+  "termLabel": "Christ Child",
+  "termDescription": "Jesus as a child up to the age of 12"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q958210",
+  "termLabel": "vest",
+  "termDescription": "sleeveless garment for the upper body, usually worn over a shirt and below a jacket; it covers the back, shoulders and bust",
+  "aatId": "300209904"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q961751",
+  "termLabel": "winnowing",
+  "termDescription": "method of separating grain from chaff"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q962082",
+  "termLabel": "rue de Moscou",
+  "termDescription": "street in Paris, France"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q966234",
+  "termLabel": "Henri Ghéon",
+  "termDescription": "French writer (1875–1944)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q981009",
+  "termLabel": "fauteuil",
+  "termDescription": "type of armchair",
+  "aatId": "300037856"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q987767",
+  "termLabel": "container",
+  "termDescription": "device creating a partially or fully enclosed space that can be used to contain, store, and transport objects or materials",
+  "aatId": "300197197"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q93732407",
+  "termLabel": "Bois d'Amour (Pont-Aven)",
+  "termDescription": "bois privé situé à Pont-Aven (Finistère)"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q96464207",
+  "termLabel": "Tulla Larsen",
+  "termDescription": "Norwegian graphic artist, 1869-1942"
+ },
+ {
+  "term": "http://www.wikidata.org/entity/Q98792658",
+  "termLabel": "bather",
+  "termDescription": "person having a bath or tourist at a bathhouse or seaside resort"
+ }
+]

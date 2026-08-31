@@ -1,0 +1,21 @@
+# Neo4j 5 Community for the ArtGraph project.
+# Start with:  docker compose up -d
+# Browser UI:  http://localhost:7474  (user: neo4j, password: artgraph)
+services:
+  neo4j:
+    image: neo4j:5-community
+    container_name: artgraph-neo4j
+    ports:
+      - "7474:7474"   # HTTP browser
+      - "7687:7687"   # Bolt driver
+    environment:
+      - NEO4J_AUTH=neo4j/artgraph
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_dbms_memory_heap_max__size=1G
+    volumes:
+      - ./neo4j_data:/data
+    healthcheck:
+      test: ["CMD", "cypher-shell", "-u", "neo4j", "-p", "artgraph", "RETURN 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 10

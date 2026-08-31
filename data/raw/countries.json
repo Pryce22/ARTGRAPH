@@ -1,0 +1,161 @@
+[
+ {
+  "country": "http://www.wikidata.org/entity/Q16",
+  "countryLabel": "Canada",
+  "isoCode": "CA"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q17",
+  "countryLabel": "Japan",
+  "isoCode": "JP"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q20",
+  "countryLabel": "Norway",
+  "isoCode": "NO"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q27",
+  "countryLabel": "Ireland",
+  "isoCode": "IE"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q28",
+  "countryLabel": "Hungary",
+  "isoCode": "HU"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q29",
+  "countryLabel": "Spain",
+  "isoCode": "ES"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q30",
+  "countryLabel": "United States",
+  "isoCode": "US"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q31",
+  "countryLabel": "Belgium",
+  "isoCode": "BE"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q33",
+  "countryLabel": "Finland",
+  "isoCode": "FI"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q34",
+  "countryLabel": "Sweden",
+  "isoCode": "SE"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q35",
+  "countryLabel": "Denmark",
+  "isoCode": "DK"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q36",
+  "countryLabel": "Poland",
+  "isoCode": "PL"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q38",
+  "countryLabel": "Italy",
+  "isoCode": "IT"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q39",
+  "countryLabel": "Switzerland",
+  "isoCode": "CH"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q40",
+  "countryLabel": "Austria",
+  "isoCode": "AT"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q55",
+  "countryLabel": "Netherlands"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q96",
+  "countryLabel": "Mexico",
+  "isoCode": "MX"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q142",
+  "countryLabel": "France",
+  "isoCode": "FR"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q145",
+  "countryLabel": "United Kingdom",
+  "isoCode": "GB"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q148",
+  "countryLabel": "People's Republic of China",
+  "isoCode": "CN"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q155",
+  "countryLabel": "Brazil",
+  "isoCode": "BR"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q159",
+  "countryLabel": "Russia",
+  "isoCode": "RU"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q183",
+  "countryLabel": "Germany",
+  "isoCode": "DE"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q212",
+  "countryLabel": "Ukraine",
+  "isoCode": "UA"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q213",
+  "countryLabel": "Czech Republic",
+  "isoCode": "CZ"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q262",
+  "countryLabel": "Algeria",
+  "isoCode": "DZ"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q414",
+  "countryLabel": "Argentina",
+  "isoCode": "AR"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q794",
+  "countryLabel": "Iran",
+  "isoCode": "IR"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q801",
+  "countryLabel": "Israel",
+  "isoCode": "IL"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q878",
+  "countryLabel": "United Arab Emirates",
+  "isoCode": "AE"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q11703",
+  "countryLabel": "United States Virgin Islands",
+  "isoCode": "VI"
+ },
+ {
+  "country": "http://www.wikidata.org/entity/Q29999",
+  "countryLabel": "Kingdom of the Netherlands",
+  "isoCode": "NL"
+ }
+]

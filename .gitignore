@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+neo4j_data/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+email.txt

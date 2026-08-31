@@ -1,0 +1,45 @@
+{
+  "runs_per_query": 20,
+  "queries": 35,
+  "versions": {
+    "v1": {
+      "version": "v1",
+      "nodes": 18721,
+      "relationships": 23043,
+      "properties": 33240,
+      "record_store_estimate_kb": 2370,
+      "load_seconds": 3.43,
+      "equivalent_queries": "35/35",
+      "sum_p50_ms": 460.8,
+      "sum_db_hits": 1720744,
+      "latency_ratio_geomean": 3.57,
+      "db_hits_ratio_geomean": 54.85
+    },
+    "v2": {
+      "version": "v2",
+      "nodes": 695,
+      "relationships": 744,
+      "properties": 10949,
+      "record_store_estimate_kb": 473,
+      "load_seconds": 0.99,
+      "equivalent_queries": "35/35",
+      "sum_p50_ms": 146.4,
+      "sum_db_hits": 46140,
+      "latency_ratio_geomean": 1.34,
+      "db_hits_ratio_geomean": 1.67
+    },
+    "v3": {
+      "version": "v3",
+      "nodes": 2222,
+      "relationships": 6478,
+      "properties": 14762,
+      "record_store_estimate_kb": 839,
+      "load_seconds": 2.18,
+      "equivalent_queries": "35/35",
+      "sum_p50_ms": 115.2,
+      "sum_db_hits": 117557,
+      "latency_ratio_geomean": 1.04,
+      "db_hits_ratio_geomean": 3.18
+    }
+  }
+}

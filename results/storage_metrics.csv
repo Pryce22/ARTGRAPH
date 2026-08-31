@@ -1,0 +1,4 @@
+version,nodes,relationships,properties,record_store_estimate_kb,load_seconds
+v1,18721,23043,33240,2370,3.43
+v2,695,744,10949,473,0.99
+v3,2222,6478,14762,839,2.18
